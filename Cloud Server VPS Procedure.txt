@@ -1,0 +1,78 @@
+购买时选择centos 操作系统 64位
+
+1.
+# 创建安全组规则，让ss代理能连上服务器 
+管理控制台打开安全组 新增 自定义 TCP 在 相关端口（8388） 的访问 ,（允许所有ip访问，设置为0.0.0.0/0）
+
+
+2.
+# 安装pip
+yum install python-pip
+
+# 使用pip安装shadowsocks
+pip install shadowsocks
+
+
+3.
+# 创建shadowsocks.json文件 
+vim /etc/shadowsocks.json
+
+
+4.
+# 写入配置
+json文件写入（ESC即可退出编辑，然后输入 :wq 即可保存文本并退出）
+{
+	"server":"172.22.20.55", ##私网ip
+	"server_port":8388,   ##端口
+	"local_address":"127.0.0.1",
+	"local_port":1080,
+	"password":"liyibin",  ##密码
+	"timeout":300,
+	"method":"aes-256-cfb",
+	"fast_open":false,
+	"workers":5
+}
+
+
+5.
+# 打开8388端口
+iptables -A INPUT -p tcp --dport 8388 -j ACCEPT
+
+
+
+6.
+# 打开ss服务
+正常启动 ssserver -c /etc/shadowsocks.json -d start
+永久启动 nohup ssserver -c /root/ss/ssserver.json -d start &
+
+日志启动 ssserver -c /etc/shadowsocks.json --log-file /tmp/ss.log -d start 
+通过 tail -f /tmp/ss.log 查看实时日志
+
+
+正常关闭 ssserver -c /etc/shadowsocks.json -d stop
+
+
+7.
+# 在powershell用telnet 检查端口（telnet ip port）eg.telnet 45.33.65.897 8388
+若连接正常，自动跳转到空白telnet界面
+
+
+8.
+# 设置ss客户端
+服务器地址：公网ip
+端口：设置的端口
+密码：设置的密码
+
+
+
+
+
+用vim写文件失败 报错E212: Can't open file for writing
+1.创建路径 mkdir app/views/application （mkdir+路径）
+2.sudo vim
+
+
+连不上
+注意私网和公网ip的使用
+重启控制台
+重新连接远程遥控
