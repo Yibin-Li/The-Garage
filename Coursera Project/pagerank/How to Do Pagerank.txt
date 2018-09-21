@@ -1,0 +1,5 @@
+If you wish, you may copy existing databases to this folder to restart existing crawl.
+
+You may open pagerank.py, and follow the instruction shows on the screen to start a new database.
+
+spider.py is the original code for pagerank.py.

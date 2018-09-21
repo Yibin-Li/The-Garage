@@ -1,0 +1,4 @@
+1.open gmane email spider.py to download all original email data
+2.open gmodel cleanup.py to get sorted data
+3.1.open gword.py to create gword.js, then open gword.htm to visualize the word frequency 
+3.2.open gyear/gline.py to create gline.js, then open gline.htm to visualize frequency of senter based on time 

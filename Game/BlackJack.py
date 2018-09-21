@@ -1,12 +1,11 @@
 import re 
 from random import randint
-from a_deck import deck_without_joker
+from A_Deck import deck_without_joker
 
 #Initiate all global variables
 deck = deck_without_joker
 player_total_card = []
 computer_total_card = []
-
 #################
 # Card Function #
 #################
