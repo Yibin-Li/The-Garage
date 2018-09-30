@@ -251,14 +251,17 @@ def play(card, judge, strategy):
 		
 		#user input bet money loop
 		while True:
-			try:
-				print('You have:', initial_money)
-				bet_money = int(input('Your bet?'))
-				if bet_money > initial_money:
-					1/0
-				else:
-					break
-			except:
+			print('You have:', initial_money)
+			bet_money = int(input('Your bet?'))
+			if bet_money <= initial_money and bet_money > 10:
+				break
+			elif bet_money <= 10 and bet_money >= 0:
+				print('The minium bet to play this game is 10')
+				print('Your bet is 10')
+				print()
+				bet_money = 10
+				break
+			else:
 				print('Invalid Answer')
 				print()
 		
