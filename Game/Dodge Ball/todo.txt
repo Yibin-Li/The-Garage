@@ -1,0 +1,2 @@
+1. Rotate the screen when playing the game. Find a way to horizontally display thte text
+2. Store everything to a AWS

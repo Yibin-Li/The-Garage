@@ -1,0 +1,13 @@
+V0.1 Basic dodgeball ball
+
+v0.2 Add the "Reward" feature
+
+v0.25 
+1. Add the "anouncement" text to the screen
+2. remove the playerInfoText (keep it optional in the file)
+3. Add the displayText helper function and rebuild the instructionDisplay
+4. Remove the instructionDisplay and announcementDisplay in each level
+
+v0.3
+1. Use mouse (touchpoint) instead of keyboard to control the ball
+2. Reward now will stay on the screen all time unless you capture it in a level

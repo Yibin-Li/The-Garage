@@ -1,0 +1,2994 @@
+,averageRating,datePublished,genre,name,ratingCount,releasedCountry
+0,7.9,2008.0,Action,Iron Man,816047.0,USA
+1,7.9,2008.0,Adventure,Iron Man,816047.0,USA
+2,7.9,2008.0,Sci-Fi,Iron Man,816047.0,USA
+3,7.2,2013.0,Action,Iron Man 3,654108.0,USA
+4,7.2,2013.0,Adventure,Iron Man 3,654108.0,USA
+5,7.2,2013.0,Sci-Fi,Iron Man 3,654108.0,USA
+6,8.1,2014.0,Action,Guardians of the Galaxy,883112.0,USA
+7,8.1,2014.0,Adventure,Guardians of the Galaxy,883112.0,USA
+8,8.1,2014.0,Comedy,Guardians of the Galaxy,883112.0,USA
+9,8.1,2014.0,Sci-Fi,Guardians of the Galaxy,883112.0,USA
+10,7.0,2010.0,Action,Iron Man 2,618786.0,USA
+11,7.0,2010.0,Sci-Fi,Iron Man 2,618786.0,USA
+12,7.4,2015.0,Action,Avengers: Age of Ultron,610584.0,USA
+13,7.4,2015.0,Adventure,Avengers: Age of Ultron,610584.0,USA
+14,7.4,2015.0,Sci-Fi,Avengers: Age of Ultron,610584.0,USA
+15,8.0,2016.0,Action,Deadpool,771562.0,USA
+16,8.0,2016.0,Adventure,Deadpool,771562.0,USA
+17,8.0,2016.0,Comedy,Deadpool,771562.0,USA
+18,8.0,2016.0,Sci-Fi,Deadpool,771562.0,USA
+19,7.9,2017.0,Action,Thor: Ragnarok,398732.0,USA
+20,7.9,2017.0,Adventure,Thor: Ragnarok,398732.0,USA
+21,7.9,2017.0,Comedy,Thor: Ragnarok,398732.0,USA
+22,7.9,2017.0,Fantasy,Thor: Ragnarok,398732.0,USA
+23,7.9,2017.0,Sci-Fi,Thor: Ragnarok,398732.0,USA
+24,7.0,2011.0,Action,Thor,641834.0,USA
+25,7.0,2011.0,Adventure,Thor,641834.0,USA
+26,7.0,2011.0,Fantasy,Thor,641834.0,USA
+27,7.0,2011.0,Sci-Fi,Thor,641834.0,USA
+28,7.4,2018.0,Action,Black Panther,408274.0,USA
+29,7.4,2018.0,Adventure,Black Panther,408274.0,USA
+30,7.4,2018.0,Sci-Fi,Black Panther,408274.0,USA
+31,7.8,2014.0,Action,Captain America: The Winter Soldier,620817.0,USA
+32,7.8,2014.0,Adventure,Captain America: The Winter Soldier,620817.0,USA
+33,7.8,2014.0,Sci-Fi,Captain America: The Winter Soldier,620817.0,USA
+34,7.8,2014.0,Thriller,Captain America: The Winter Soldier,620817.0,USA
+35,6.8,2008.0,Action,The Incredible Hulk,380596.0,USA
+36,6.8,2008.0,Adventure,The Incredible Hulk,380596.0,USA
+37,6.8,2008.0,Sci-Fi,The Incredible Hulk,380596.0,USA
+38,7.5,2017.0,Action,Wonder Woman,443611.0,USA
+39,7.5,2017.0,Adventure,Wonder Woman,443611.0,USA
+40,7.5,2017.0,Fantasy,Wonder Woman,443611.0,USA
+41,7.5,2017.0,Sci-Fi,Wonder Woman,443611.0,USA
+42,7.5,2017.0,War,Wonder Woman,443611.0,USA
+43,7.7,2017.0,Action,Guardians of the Galaxy Vol. 2,419224.0,USA
+44,7.7,2017.0,Adventure,Guardians of the Galaxy Vol. 2,419224.0,USA
+45,7.7,2017.0,Comedy,Guardians of the Galaxy Vol. 2,419224.0,USA
+46,7.7,2017.0,Sci-Fi,Guardians of the Galaxy Vol. 2,419224.0,USA
+47,7.5,2017.0,Action,Spider-Man: Homecoming,366514.0,USA
+48,7.5,2017.0,Adventure,Spider-Man: Homecoming,366514.0,USA
+49,7.5,2017.0,Sci-Fi,Spider-Man: Homecoming,366514.0,USA
+50,7.0,2013.0,Action,Thor: The Dark World,505957.0,USA
+51,7.0,2013.0,Adventure,Thor: The Dark World,505957.0,USA
+52,7.0,2013.0,Fantasy,Thor: The Dark World,505957.0,USA
+53,7.3,2015.0,Action,Ant-Man,455790.0,USA
+54,7.3,2015.0,Adventure,Ant-Man,455790.0,USA
+55,7.3,2015.0,Comedy,Ant-Man,455790.0,USA
+56,7.3,2015.0,Crime,Ant-Man,455790.0,USA
+57,7.3,2015.0,Sci-Fi,Ant-Man,455790.0,USA
+58,7.8,2018.0,Action,Deadpool 2,292979.0,USA
+59,7.8,2018.0,Adventure,Deadpool 2,292979.0,USA
+60,7.8,2018.0,Comedy,Deadpool 2,292979.0,USA
+61,7.8,2018.0,Sci-Fi,Deadpool 2,292979.0,USA
+62,6.3,2018.0,Action,Jurassic World: Fallen Kingdom,167743.0,USA
+63,6.3,2018.0,Adventure,Jurassic World: Fallen Kingdom,167743.0,USA
+64,6.3,2018.0,Sci-Fi,Jurassic World: Fallen Kingdom,167743.0,USA
+65,5.7,2003.0,Action,Hulk,234039.0,USA
+66,5.7,2003.0,Sci-Fi,Hulk,234039.0,USA
+67,7.5,2016.0,Action,Doctor Strange,456475.0,USA
+68,7.5,2016.0,Adventure,Doctor Strange,456475.0,USA
+69,7.5,2016.0,Fantasy,Doctor Strange,456475.0,USA
+70,7.5,2016.0,Sci-Fi,Doctor Strange,456475.0,USA
+71,6.2,2007.0,Action,Spider-Man 3,444214.0,USA
+72,6.2,2007.0,Adventure,Spider-Man 3,444214.0,USA
+73,6.2,2007.0,Sci-Fi,Spider-Man 3,444214.0,USA
+74,7.3,2002.0,Action,Spider-Man,619558.0,USA
+75,7.3,2002.0,Adventure,Spider-Man,619558.0,USA
+76,7.3,2002.0,Sci-Fi,Spider-Man,619558.0,USA
+77,6.5,2017.0,Action,Justice League,291247.0,USA
+78,6.5,2017.0,Adventure,Justice League,291247.0,USA
+79,6.5,2017.0,Fantasy,Justice League,291247.0,USA
+80,6.5,2017.0,Sci-Fi,Justice League,291247.0,USA
+81,7.2,2017.0,Action,Star Wars: Episode VIII - The Last Jedi,423400.0,USA
+82,7.2,2017.0,Adventure,Star Wars: Episode VIII - The Last Jedi,423400.0,USA
+83,7.2,2017.0,Fantasy,Star Wars: Episode VIII - The Last Jedi,423400.0,USA
+84,7.2,2017.0,Sci-Fi,Star Wars: Episode VIII - The Last Jedi,423400.0,USA
+85,6.6,2009.0,Action,X-Men Origins: Wolverine,421441.0,USA
+86,6.6,2009.0,Adventure,X-Men Origins: Wolverine,421441.0,USA
+87,6.6,2009.0,Sci-Fi,X-Men Origins: Wolverine,421441.0,USA
+88,6.6,2009.0,Thriller,X-Men Origins: Wolverine,421441.0,USA
+89,6.1,2006.0,Action,Superman Returns,256709.0,USA
+90,6.1,2006.0,Adventure,Superman Returns,256709.0,USA
+91,7.8,2016.0,Action,Captain America: Civil War,529339.0,USA
+92,7.8,2016.0,Adventure,Captain America: Civil War,529339.0,USA
+93,7.8,2016.0,Sci-Fi,Captain America: Civil War,529339.0,USA
+94,6.6,2014.0,Action,The Amazing Spider-Man 2,374741.0,USA
+95,6.6,2014.0,Adventure,The Amazing Spider-Man 2,374741.0,USA
+96,6.6,2014.0,Sci-Fi,The Amazing Spider-Man 2,374741.0,USA
+97,7.0,1992.0,Action,Batman Returns,245106.0,USA
+98,7.0,1992.0,Crime,Batman Returns,245106.0,USA
+99,7.0,1992.0,Fantasy,Batman Returns,245106.0,USA
+100,5.2,2007.0,Action,Ghost Rider,204019.0,USA
+101,5.2,2007.0,Adventure,Ghost Rider,204019.0,USA
+102,5.2,2007.0,Fantasy,Ghost Rider,204019.0,USA
+103,5.2,2007.0,Horror,Ghost Rider,204019.0,USA
+104,5.2,2007.0,Thriller,Ghost Rider,204019.0,USA
+105,7.4,1999.0,Fantasy,Sleepy Hollow,298583.0,USA
+106,7.4,1999.0,Horror,Sleepy Hollow,298583.0,USA
+107,7.4,1999.0,Mystery,Sleepy Hollow,298583.0,USA
+108,3.7,1997.0,Action,Batman & Robin,212220.0,USA
+109,3.7,1997.0,Sci-Fi,Batman & Robin,212220.0,USA
+110,7.1,2013.0,Action,Man of Steel,626124.0,USA
+111,7.1,2013.0,Adventure,Man of Steel,626124.0,USA
+112,7.1,2013.0,Fantasy,Man of Steel,626124.0,USA
+113,7.1,2013.0,Sci-Fi,Man of Steel,626124.0,USA
+114,6.1,2016.0,Action,Suicide Squad,499329.0,USA
+115,6.1,2016.0,Adventure,Suicide Squad,499329.0,USA
+116,6.1,2016.0,Fantasy,Suicide Squad,499329.0,USA
+117,6.1,2016.0,Sci-Fi,Suicide Squad,499329.0,USA
+118,7.3,2004.0,Action,Spider-Man 2,481528.0,USA
+119,7.3,2004.0,Adventure,Spider-Man 2,481528.0,USA
+120,7.3,2004.0,Sci-Fi,Spider-Man 2,481528.0,USA
+121,4.3,2012.0,Action,Ghost Rider: Spirit of Vengeance,100414.0,USA
+122,4.3,2012.0,Fantasy,Ghost Rider: Spirit of Vengeance,100414.0,USA
+123,4.3,2012.0,Thriller,Ghost Rider: Spirit of Vengeance,100414.0,USA
+124,7.3,1978.0,Action,Superman,143452.0,USA
+125,7.3,1978.0,Adventure,Superman,143452.0,USA
+126,7.3,1978.0,Drama,Superman,143452.0,USA
+127,7.3,1978.0,Sci-Fi,Superman,143452.0,USA
+128,6.7,2006.0,Action,X-Men: The Last Stand,437454.0,USA
+129,6.7,2006.0,Adventure,X-Men: The Last Stand,437454.0,USA
+130,6.7,2006.0,Sci-Fi,X-Men: The Last Stand,437454.0,USA
+131,6.7,2006.0,Thriller,X-Men: The Last Stand,437454.0,USA
+132,6.5,1989.0,Action,Ghostbusters II,161865.0,USA
+133,6.5,1989.0,Comedy,Ghostbusters II,161865.0,USA
+134,6.5,1989.0,Fantasy,Ghostbusters II,161865.0,USA
+135,6.5,1989.0,Sci-Fi,Ghostbusters II,161865.0,USA
+136,6.2,2009.0,Drama,Knowing,204738.0,USA
+137,6.2,2009.0,Mystery,Knowing,204738.0,USA
+138,6.2,2009.0,Sci-Fi,Knowing,204738.0,USA
+139,6.2,2009.0,Thriller,Knowing,204738.0,USA
+140,4.9,1983.0,Action,Superman III,57593.0,USA
+141,4.9,1983.0,Comedy,Superman III,57593.0,USA
+142,4.9,1983.0,Sci-Fi,Superman III,57593.0,USA
+143,5.5,2011.0,Action,Green Lantern,246688.0,USA
+144,5.5,2011.0,Adventure,Green Lantern,246688.0,USA
+145,5.5,2011.0,Sci-Fi,Green Lantern,246688.0,USA
+146,5.8,2009.0,Action,2012,318926.0,USA
+147,5.8,2009.0,Adventure,2012,318926.0,USA
+148,5.8,2009.0,Sci-Fi,2012,318926.0,USA
+149,6.6,1998.0,Action,Armageddon,360300.0,USA
+150,6.6,1998.0,Adventure,Armageddon,360300.0,USA
+151,6.6,1998.0,Sci-Fi,Armageddon,360300.0,USA
+152,6.6,1998.0,Thriller,Armageddon,360300.0,USA
+153,6.6,2003.0,Action,Bad Boys II,200466.0,USA
+154,6.6,2003.0,Comedy,Bad Boys II,200466.0,USA
+155,6.6,2003.0,Crime,Bad Boys II,200466.0,USA
+156,6.6,2003.0,Drama,Bad Boys II,200466.0,USA
+157,6.6,2003.0,Thriller,Bad Boys II,200466.0,USA
+158,7.4,2000.0,Action,X-Men,518757.0,USA
+159,7.4,2000.0,Adventure,X-Men,518757.0,USA
+160,7.4,2000.0,Sci-Fi,X-Men,518757.0,USA
+161,6.8,1997.0,Action,Con Air,250494.0,USA
+162,6.8,1997.0,Crime,Con Air,250494.0,USA
+163,6.8,1997.0,Thriller,Con Air,250494.0,USA
+164,7.0,1998.0,Action,Rush Hour,213136.0,USA
+165,7.0,1998.0,Comedy,Rush Hour,213136.0,USA
+166,7.0,1998.0,Crime,Rush Hour,213136.0,USA
+167,7.0,1998.0,Thriller,Rush Hour,213136.0,USA
+168,8.1,2012.0,Action,The Avengers,1130733.0,USA
+169,8.1,2012.0,Adventure,The Avengers,1130733.0,USA
+170,8.1,2012.0,Sci-Fi,The Avengers,1130733.0,USA
+171,6.2,2012.0,Comedy,Dark Shadows,223289.0,USA
+172,6.2,2012.0,Fantasy,Dark Shadows,223289.0,USA
+173,6.2,2012.0,Horror,Dark Shadows,223289.0,USA
+174,6.6,2000.0,Action,Shanghai Noon,108673.0,USA
+175,6.6,2000.0,Adventure,Shanghai Noon,108673.0,USA
+176,6.6,2000.0,Comedy,Shanghai Noon,108673.0,USA
+177,6.6,2000.0,Western,Shanghai Noon,108673.0,USA
+178,4.4,1984.0,Action,Supergirl,16306.0,USA
+179,4.4,1984.0,Adventure,Supergirl,16306.0,USA
+180,4.4,1984.0,Fantasy,Supergirl,16306.0,USA
+181,4.4,1984.0,Romance,Supergirl,16306.0,USA
+182,4.4,1984.0,Sci-Fi,Supergirl,16306.0,USA
+183,7.0,1996.0,Action,Independence Day,482432.0,USA
+184,7.0,1996.0,Adventure,Independence Day,482432.0,USA
+185,7.0,1996.0,Sci-Fi,Independence Day,482432.0,USA
+186,6.5,1997.0,Action,Air Force One,162995.0,USA
+187,6.5,1997.0,Drama,Air Force One,162995.0,USA
+188,6.5,1997.0,Thriller,Air Force One,162995.0,USA
+189,6.5,1999.0,Action,Star Wars: Episode I - The Phantom Menace,631078.0,USA
+190,6.5,1999.0,Adventure,Star Wars: Episode I - The Phantom Menace,631078.0,USA
+191,6.5,1999.0,Fantasy,Star Wars: Episode I - The Phantom Menace,631078.0,USA
+192,6.5,1999.0,Sci-Fi,Star Wars: Episode I - The Phantom Menace,631078.0,USA
+193,5.4,2008.0,Action,Bangkok Dangerous,52017.0,USA
+194,5.4,2008.0,Crime,Bangkok Dangerous,52017.0,USA
+195,5.4,2008.0,Thriller,Bangkok Dangerous,52017.0,USA
+196,7.0,2016.0,Action,X-Men: Apocalypse,333358.0,USA
+197,7.0,2016.0,Adventure,X-Men: Apocalypse,333358.0,USA
+198,7.0,2016.0,Sci-Fi,X-Men: Apocalypse,333358.0,USA
+199,2.8,1997.0,Action,Steel,9778.0,USA
+200,2.8,1997.0,Crime,Steel,9778.0,USA
+201,2.8,1997.0,Sci-Fi,Steel,9778.0,USA
+202,7.6,1984.0,Action,Indiana Jones and the Temple of Doom,387831.0,USA
+203,7.6,1984.0,Adventure,Indiana Jones and the Temple of Doom,387831.0,USA
+204,6.4,2008.0,Action,Hancock,397839.0,USA
+205,6.4,2008.0,Drama,Hancock,397839.0,USA
+206,6.4,2008.0,Fantasy,Hancock,397839.0,USA
+207,8.0,2014.0,Action,X-Men: Days of Future Past,598435.0,USA
+208,8.0,2014.0,Adventure,X-Men: Days of Future Past,598435.0,USA
+209,8.0,2014.0,Sci-Fi,X-Men: Days of Future Past,598435.0,USA
+210,8.0,2014.0,Thriller,X-Men: Days of Future Past,598435.0,USA
+211,6.9,2011.0,Action,Captain America: The First Avenger,620863.0,USA
+212,6.9,2011.0,Adventure,Captain America: The First Avenger,620863.0,USA
+213,6.9,2011.0,Sci-Fi,Captain America: The First Avenger,620863.0,USA
+214,6.2,2008.0,Action,Indiana Jones and the Kingdom of the Crystal Skull,378892.0,USA
+215,6.2,2008.0,Adventure,Indiana Jones and the Kingdom of the Crystal Skull,378892.0,USA
+216,6.2,2008.0,Fantasy,Indiana Jones and the Kingdom of the Crystal Skull,378892.0,USA
+217,5.3,2003.0,Action,Daredevil,193586.0,USA
+218,5.3,2003.0,Crime,Daredevil,193586.0,USA
+219,5.0,2014.0,Action,Tokarev,21322.0,USA
+220,5.0,2014.0,Crime,Tokarev,21322.0,USA
+221,5.0,2014.0,Thriller,Tokarev,21322.0,USA
+222,6.5,1998.0,Action,U.S. Marshals,86555.0,USA
+223,6.5,1998.0,Crime,U.S. Marshals,86555.0,USA
+224,6.5,1998.0,Thriller,U.S. Marshals,86555.0,USA
+225,6.7,2013.0,Action,The Wolverine,386766.0,USA
+226,6.7,2013.0,Adventure,The Wolverine,386766.0,USA
+227,6.7,2013.0,Sci-Fi,The Wolverine,386766.0,USA
+228,8.0,2015.0,Action,Star Wars: Episode VII - The Force Awakens,757935.0,USA
+229,8.0,2015.0,Adventure,Star Wars: Episode VII - The Force Awakens,757935.0,USA
+230,8.0,2015.0,Fantasy,Star Wars: Episode VII - The Force Awakens,757935.0,USA
+231,8.0,2015.0,Sci-Fi,Star Wars: Episode VII - The Force Awakens,757935.0,USA
+232,7.2,2018.0,Action,Ant-Man and the Wasp,139862.0,USA
+233,7.2,2018.0,Adventure,Ant-Man and the Wasp,139862.0,USA
+234,7.2,2018.0,Comedy,Ant-Man and the Wasp,139862.0,USA
+235,7.2,2018.0,Sci-Fi,Ant-Man and the Wasp,139862.0,USA
+236,7.2,2007.0,Drama,I Am Legend,614288.0,USA
+237,7.2,2007.0,Horror,I Am Legend,614288.0,USA
+238,7.2,2007.0,Sci-Fi,I Am Legend,614288.0,USA
+239,7.2,2007.0,Thriller,I Am Legend,614288.0,USA
+240,6.5,2005.0,Adventure,War of the Worlds,376613.0,USA
+241,6.5,2005.0,Sci-Fi,War of the Worlds,376613.0,USA
+242,6.5,2005.0,Thriller,War of the Worlds,376613.0,USA
+243,6.2,1997.0,Action,Yat goh ho yan,22573.0,USA
+244,6.2,1997.0,Comedy,Yat goh ho yan,22573.0,USA
+245,6.2,1997.0,Crime,Yat goh ho yan,22573.0,USA
+246,8.3,1983.0,Action,Star Wars: Episode VI - Return of the Jedi,829146.0,USA
+247,8.3,1983.0,Adventure,Star Wars: Episode VI - Return of the Jedi,829146.0,USA
+248,8.3,1983.0,Fantasy,Star Wars: Episode VI - Return of the Jedi,829146.0,USA
+249,8.3,1983.0,Sci-Fi,Star Wars: Episode VI - Return of the Jedi,829146.0,USA
+250,6.4,2013.0,Crime,The Frozen Ground,50582.0,Netherlands
+251,6.4,2013.0,Drama,The Frozen Ground,50582.0,Netherlands
+252,6.4,2013.0,Mystery,The Frozen Ground,50582.0,Netherlands
+253,6.4,2013.0,Thriller,The Frozen Ground,50582.0,Netherlands
+254,6.8,2001.0,Horror,From Hell,136766.0,USA
+255,6.8,2001.0,Mystery,From Hell,136766.0,USA
+256,6.8,2001.0,Thriller,From Hell,136766.0,USA
+257,5.4,1995.0,Action,Batman Forever,214211.0,USA
+258,5.4,1995.0,Adventure,Batman Forever,214211.0,USA
+259,5.4,1995.0,Fantasy,Batman Forever,214211.0,USA
+260,8.0,2004.0,Adventure,Big Fish,382399.0,USA
+261,8.0,2004.0,Drama,Big Fish,382399.0,USA
+262,8.0,2004.0,Fantasy,Big Fish,382399.0,USA
+263,8.0,2004.0,Romance,Big Fish,382399.0,USA
+264,5.3,2016.0,Action,Ghostbusters,177837.0,USA
+265,5.3,2016.0,Comedy,Ghostbusters,177837.0,USA
+266,5.3,2016.0,Fantasy,Ghostbusters,177837.0,USA
+267,5.3,2016.0,Sci-Fi,Ghostbusters,177837.0,USA
+268,6.7,2016.0,Adventure,Miss Peregrine's Home for Peculiar Children,133694.0,USA
+269,6.7,2016.0,Drama,Miss Peregrine's Home for Peculiar Children,133694.0,USA
+270,6.7,2016.0,Fantasy,Miss Peregrine's Home for Peculiar Children,133694.0,USA
+271,6.7,2016.0,Thriller,Miss Peregrine's Home for Peculiar Children,133694.0,USA
+272,7.3,1997.0,Action,Face/Off,317142.0,USA
+273,7.3,1997.0,Crime,Face/Off,317142.0,USA
+274,7.3,1997.0,Sci-Fi,Face/Off,317142.0,USA
+275,7.3,1997.0,Thriller,Face/Off,317142.0,USA
+276,6.7,1999.0,Mystery,The Ninth Gate,150741.0,USA
+277,6.7,1999.0,Thriller,The Ninth Gate,150741.0,USA
+278,6.7,1995.0,Comedy,Don Juan DeMarco,44899.0,USA
+279,6.7,1995.0,Drama,Don Juan DeMarco,44899.0,USA
+280,6.7,1995.0,Romance,Don Juan DeMarco,44899.0,USA
+281,6.5,1997.0,Action,The Lost World: Jurassic Park,330393.0,USA
+282,6.5,1997.0,Adventure,The Lost World: Jurassic Park,330393.0,USA
+283,6.5,1997.0,Sci-Fi,The Lost World: Jurassic Park,330393.0,USA
+284,7.4,1985.0,Crime,Witness,75893.0,USA
+285,7.4,1985.0,Drama,Witness,75893.0,USA
+286,7.4,1985.0,Romance,Witness,75893.0,USA
+287,7.4,1985.0,Thriller,Witness,75893.0,USA
+288,7.0,2012.0,Action,The Amazing Spider-Man,509908.0,USA
+289,7.0,2012.0,Adventure,The Amazing Spider-Man,509908.0,USA
+290,7.0,2012.0,Sci-Fi,The Amazing Spider-Man,509908.0,USA
+291,7.9,1994.0,Biography,Ed Wood,154486.0,USA
+292,7.9,1994.0,Comedy,Ed Wood,154486.0,USA
+293,7.9,1994.0,Drama,Ed Wood,154486.0,USA
+294,6.4,2005.0,Biography,The Libertine,33133.0,USA
+295,6.4,2005.0,Drama,The Libertine,33133.0,USA
+296,6.4,2005.0,History,The Libertine,33133.0,USA
+297,6.4,2005.0,Romance,The Libertine,33133.0,USA
+298,5.7,2005.0,Action,Fantastic Four,290860.0,USA
+299,5.7,2005.0,Adventure,Fantastic Four,290860.0,USA
+300,5.7,2005.0,Fantasy,Fantastic Four,290860.0,USA
+301,5.7,2005.0,Sci-Fi,Fantastic Four,290860.0,USA
+302,4.7,2005.0,Action,Elektra,79844.0,USA
+303,4.7,2005.0,Adventure,Elektra,79844.0,USA
+304,4.7,2005.0,Crime,Elektra,79844.0,USA
+305,4.7,2005.0,Fantasy,Elektra,79844.0,USA
+306,4.7,2005.0,Thriller,Elektra,79844.0,USA
+307,6.8,1993.0,Action,Cung on zo,4957.0,Hong Kong
+308,6.8,1993.0,Crime,Cung on zo,4957.0,Hong Kong
+309,6.8,1993.0,Drama,Cung on zo,4957.0,Hong Kong
+310,7.6,2001.0,Drama,Moulin Rouge!,246730.0,USA
+311,7.6,2001.0,Musical,Moulin Rouge!,246730.0,USA
+312,7.6,2001.0,Romance,Moulin Rouge!,246730.0,USA
+313,8.0,1984.0,Action,The Terminator,703456.0,USA
+314,8.0,1984.0,Sci-Fi,The Terminator,703456.0,USA
+315,7.3,2004.0,Drama,The Phantom of the Opera,107348.0,USA
+316,7.3,2004.0,Musical,The Phantom of the Opera,107348.0,USA
+317,7.3,2004.0,Romance,The Phantom of the Opera,107348.0,USA
+318,7.3,2004.0,Thriller,The Phantom of the Opera,107348.0,USA
+319,7.2,1984.0,Comedy,Gremlins,169436.0,USA
+320,7.2,1984.0,Fantasy,Gremlins,169436.0,USA
+321,7.2,1984.0,Horror,Gremlins,169436.0,USA
+322,7.5,2004.0,Crime,Collateral,327409.0,USA
+323,7.5,2004.0,Drama,Collateral,327409.0,USA
+324,7.5,2004.0,Thriller,Collateral,327409.0,USA
+325,4.7,2010.0,Action,Jonah Hex,50613.0,USA
+326,4.7,2010.0,Drama,Jonah Hex,50613.0,USA
+327,4.7,2010.0,Fantasy,Jonah Hex,50613.0,USA
+328,4.7,2010.0,Thriller,Jonah Hex,50613.0,USA
+329,4.7,2010.0,Western,Jonah Hex,50613.0,USA
+330,7.9,2014.0,Action,Edge of Tomorrow,525400.0,USA
+331,7.9,2014.0,Sci-Fi,Edge of Tomorrow,525400.0,USA
+332,6.2,2003.0,Action,Shanghai Knights,91468.0,USA
+333,6.2,2003.0,Adventure,Shanghai Knights,91468.0,USA
+334,6.2,2003.0,Comedy,Shanghai Knights,91468.0,USA
+335,4.3,2011.0,Action,Superman: Requiem,541.0,USA
+336,4.3,2011.0,Adventure,Superman: Requiem,541.0,USA
+337,4.3,2011.0,Drama,Superman: Requiem,541.0,USA
+338,4.3,2011.0,Fantasy,Superman: Requiem,541.0,USA
+339,4.3,2011.0,Sci-Fi,Superman: Requiem,541.0,USA
+340,6.8,1980.0,Action,Superman II,87882.0,USA
+341,6.8,1980.0,Adventure,Superman II,87882.0,USA
+342,6.8,1980.0,Sci-Fi,Superman II,87882.0,USA
+343,5.4,2011.0,Action,Drive Angry,88498.0,USA
+344,5.4,2011.0,Fantasy,Drive Angry,88498.0,USA
+345,5.4,2011.0,Thriller,Drive Angry,88498.0,USA
+346,6.0,2008.0,Action,Punisher: War Zone,55481.0,USA
+347,6.0,2008.0,Adventure,Punisher: War Zone,55481.0,USA
+348,6.0,2008.0,Crime,Punisher: War Zone,55481.0,USA
+349,6.0,2008.0,Drama,Punisher: War Zone,55481.0,USA
+350,6.0,2008.0,Thriller,Punisher: War Zone,55481.0,USA
+351,3.1,2014.0,Action,Left Behind,31475.0,USA
+352,3.1,2014.0,Drama,Left Behind,31475.0,USA
+353,3.1,2014.0,Fantasy,Left Behind,31475.0,USA
+354,3.1,2014.0,Mystery,Left Behind,31475.0,USA
+355,3.1,2014.0,Thriller,Left Behind,31475.0,USA
+356,5.8,1998.0,Action,Six Days Seven Nights,66899.0,USA
+357,5.8,1998.0,Adventure,Six Days Seven Nights,66899.0,USA
+358,5.8,1998.0,Comedy,Six Days Seven Nights,66899.0,USA
+359,5.8,1998.0,Romance,Six Days Seven Nights,66899.0,USA
+360,4.5,1989.0,Sci-Fi,The Return of Swamp Thing,3362.0,USA
+361,4.5,1989.0,Horror,The Return of Swamp Thing,3362.0,USA
+362,4.5,1989.0,Comedy,The Return of Swamp Thing,3362.0,USA
+363,4.5,1989.0,Action,The Return of Swamp Thing,3362.0,USA
+364,4.5,1989.0,Adventure,The Return of Swamp Thing,3362.0,USA
+365,4.2,2017.0,Horror,Cain Hill,88.0,USA
+366,4.2,2017.0,Thriller,Cain Hill,88.0,USA
+367,7.8,1984.0,Action,Ghost Busters,313153.0,USA
+368,7.8,1984.0,Comedy,Ghost Busters,313153.0,USA
+369,7.8,1984.0,Fantasy,Ghost Busters,313153.0,USA
+370,4.6,2014.0,Action,Outcast,11122.0,China
+371,4.6,2014.0,Adventure,Outcast,11122.0,China
+372,4.6,2014.0,Drama,Outcast,11122.0,China
+373,4.6,2014.0,Thriller,Outcast,11122.0,China
+374,7.6,2005.0,Crime,Lord of War,271931.0,USA
+375,7.6,2005.0,Drama,Lord of War,271931.0,USA
+376,7.6,2005.0,Thriller,Lord of War,271931.0,USA
+377,6.2,2000.0,Drama,The Man Who Cried,13400.0,UK
+378,6.2,2000.0,Music,The Man Who Cried,13400.0,UK
+379,6.2,2000.0,Romance,The Man Who Cried,13400.0,UK
+380,6.2,2000.0,War,The Man Who Cried,13400.0,UK
+381,7.8,1993.0,Action,The Fugitive,238601.0,USA
+382,7.8,1993.0,Crime,The Fugitive,238601.0,USA
+383,7.8,1993.0,Drama,The Fugitive,238601.0,USA
+384,7.8,1993.0,Mystery,The Fugitive,238601.0,USA
+385,7.8,1993.0,Thriller,The Fugitive,238601.0,USA
+386,5.5,2012.0,Action,Stolen,40595.0,United Arab Emirates
+387,5.5,2012.0,Crime,Stolen,40595.0,United Arab Emirates
+388,5.5,2012.0,Drama,Stolen,40595.0,United Arab Emirates
+389,5.5,2012.0,Thriller,Stolen,40595.0,United Arab Emirates
+390,8.3,2005.0,Action,Batman Begins,1150699.0,USA
+391,8.3,2005.0,Adventure,Batman Begins,1150699.0,USA
+392,8.3,2005.0,Thriller,Batman Begins,1150699.0,USA
+393,6.4,2003.0,Action,Once Upon a Time in Mexico,142165.0,USA
+394,6.4,2003.0,Thriller,Once Upon a Time in Mexico,142165.0,USA
+395,5.8,2018.0,Action,The Last Man,82.0,USA
+396,5.8,2018.0,Drama,The Last Man,82.0,USA
+397,5.8,2018.0,Sci-Fi,The Last Man,82.0,USA
+398,5.8,2018.0,Thriller,The Last Man,82.0,USA
+399,6.6,2013.0,Action,Elysium,384836.0,USA
+400,6.6,2013.0,Drama,Elysium,384836.0,USA
+401,6.6,2013.0,Sci-Fi,Elysium,384836.0,USA
+402,6.2,2011.0,Action,Seeking Justice,42158.0,Italy
+403,6.2,2011.0,Crime,Seeking Justice,42158.0,Italy
+404,6.2,2011.0,Drama,Seeking Justice,42158.0,Italy
+405,6.2,2011.0,Mystery,Seeking Justice,42158.0,Italy
+406,6.2,2011.0,Thriller,Seeking Justice,42158.0,Italy
+407,6.9,1994.0,Comedy,The Mask,303831.0,USA
+408,6.9,1994.0,Fantasy,The Mask,303831.0,USA
+409,6.4,1992.0,Action,Seong lung wui,9835.0,USA
+410,6.4,1992.0,Comedy,Seong lung wui,9835.0,USA
+417,5.4,2002.0,Action,The Tuxedo,70987.0,USA
+418,5.4,2002.0,Comedy,The Tuxedo,70987.0,USA
+419,5.4,2002.0,Sci-Fi,The Tuxedo,70987.0,USA
+420,5.4,2016.0,Crime,The Trust,15250.0,USA
+421,5.4,2016.0,Drama,The Trust,15250.0,USA
+422,5.4,2016.0,Thriller,The Trust,15250.0,USA
+423,6.6,2004.0,Drama,Secret Window,165401.0,USA
+424,6.6,2004.0,Mystery,Secret Window,165401.0,USA
+425,6.6,2004.0,Thriller,Secret Window,165401.0,USA
+426,8.5,1979.0,Horror,Alien,686226.0,USA
+427,8.5,1979.0,Sci-Fi,Alien,686226.0,USA
+428,6.6,2009.0,Crime,The Bad Lieutenant: Port of Call - New Orleans,69755.0,USA
+429,6.6,2009.0,Drama,The Bad Lieutenant: Port of Call - New Orleans,69755.0,USA
+430,7.2,2003.0,Adventure,Cold Mountain,129410.0,USA
+431,7.2,2003.0,Drama,Cold Mountain,129410.0,USA
+432,7.2,2003.0,History,Cold Mountain,129410.0,USA
+433,7.2,2003.0,Romance,Cold Mountain,129410.0,USA
+434,7.2,2003.0,War,Cold Mountain,129410.0,USA
+435,6.5,2000.0,Action,Gone in Sixty Seconds,240267.0,USA
+436,6.5,2000.0,Crime,Gone in Sixty Seconds,240267.0,USA
+437,6.5,2000.0,Thriller,Gone in Sixty Seconds,240267.0,USA
+438,6.7,2002.0,Action,Blade II,180990.0,USA
+439,6.7,2002.0,Horror,Blade II,180990.0,USA
+440,6.7,2002.0,Sci-Fi,Blade II,180990.0,USA
+441,6.7,2002.0,Thriller,Blade II,180990.0,USA
+442,6.1,1997.0,Action,Murder at 1600,26095.0,USA
+443,6.1,1997.0,Crime,Murder at 1600,26095.0,USA
+444,6.1,1997.0,Drama,Murder at 1600,26095.0,USA
+445,6.1,1997.0,Mystery,Murder at 1600,26095.0,USA
+446,6.1,1997.0,Thriller,Murder at 1600,26095.0,USA
+447,7.0,2012.0,Action,Jack Reacher,275118.0,USA
+448,7.0,2012.0,Crime,Jack Reacher,275118.0,USA
+449,7.0,2012.0,Thriller,Jack Reacher,275118.0,USA
+455,7.3,1991.0,Action,Fei ying gai wak,16270.0,USA
+456,7.3,1991.0,Adventure,Fei ying gai wak,16270.0,USA
+457,7.3,1991.0,Comedy,Fei ying gai wak,16270.0,USA
+458,7.3,1991.0,Crime,Fei ying gai wak,16270.0,USA
+459,7.3,1991.0,Thriller,Fei ying gai wak,16270.0,USA
+460,7.1,1996.0,Action,Mission: Impossible,347412.0,USA
+461,7.1,1996.0,Adventure,Mission: Impossible,347412.0,USA
+462,7.1,1996.0,Thriller,Mission: Impossible,347412.0,USA
+463,6.6,1986.0,Adventure,The Mosquito Coast,24157.0,USA
+464,6.6,1986.0,Drama,The Mosquito Coast,24157.0,USA
+465,6.6,1986.0,Thriller,The Mosquito Coast,24157.0,USA
+466,6.5,1990.0,Comedy,Cry-Baby,49310.0,USA
+467,6.5,1990.0,Musical,Cry-Baby,49310.0,USA
+479,7.3,1995.0,Action,Crimson Tide,91049.0,USA
+480,7.3,1995.0,Drama,Crimson Tide,91049.0,USA
+481,7.3,1995.0,Thriller,Crimson Tide,91049.0,USA
+482,7.3,1995.0,War,Crimson Tide,91049.0,USA
+483,6.9,2017.0,Action,Tatara Samurai,77.0,USA
+484,6.9,2017.0,Comedy,Tatara Samurai,77.0,USA
+485,6.9,2017.0,Drama,Tatara Samurai,77.0,USA
+486,6.9,2017.0,History,Tatara Samurai,77.0,USA
+487,6.9,2017.0,War,Tatara Samurai,77.0,USA
+488,6.9,2017.0,Action,Dark Ascension,32.0,USA
+489,6.9,2017.0,Adventure,Dark Ascension,32.0,USA
+490,6.9,2017.0,Fantasy,Dark Ascension,32.0,USA
+491,6.9,2017.0,Thriller,Dark Ascension,32.0,USA
+492,6.2,1991.0,Comedy,Green Card,20526.0,USA
+493,6.2,1991.0,Drama,Green Card,20526.0,USA
+494,6.2,1991.0,Romance,Green Card,20526.0,USA
+495,4.0,2005.0,Action,Man-Thing,5410.0,Singapore
+496,4.0,2005.0,Adventure,Man-Thing,5410.0,Singapore
+497,4.0,2005.0,Horror,Man-Thing,5410.0,Singapore
+498,4.0,2005.0,Romance,Man-Thing,5410.0,Singapore
+499,4.0,2005.0,Sci-Fi,Man-Thing,5410.0,Singapore
+500,6.9,2006.0,Action,Mission: Impossible III,296034.0,USA
+501,6.9,2006.0,Adventure,Mission: Impossible III,296034.0,USA
+502,6.9,2006.0,Thriller,Mission: Impossible III,296034.0,USA
+508,6.1,2016.0,Action,The Huntsman: Winter's War,82628.0,USA
+509,6.1,2016.0,Adventure,The Huntsman: Winter's War,82628.0,USA
+510,6.1,2016.0,Drama,The Huntsman: Winter's War,82628.0,USA
+511,6.1,2016.0,Fantasy,The Huntsman: Winter's War,82628.0,USA
+512,6.2,1993.0,Action,Rising Sun,38661.0,USA
+513,6.2,1993.0,Crime,Rising Sun,38661.0,USA
+514,6.2,1993.0,Drama,Rising Sun,38661.0,USA
+515,6.2,1993.0,Mystery,Rising Sun,38661.0,USA
+516,6.2,1993.0,Thriller,Rising Sun,38661.0,USA
+523,7.7,1988.0,Crime,Running on Empty,12130.0,USA
+524,7.7,1988.0,Drama,Running on Empty,12130.0,USA
+525,7.7,1988.0,Music,Running on Empty,12130.0,USA
+526,7.7,1988.0,Romance,Running on Empty,12130.0,USA
+527,6.5,1992.0,Action,Under Siege,68855.0,USA
+528,6.5,1992.0,Thriller,Under Siege,68855.0,USA
+529,7.6,2000.0,Biography,The Hurricane,84412.0,USA
+530,7.6,2000.0,Drama,The Hurricane,84412.0,USA
+531,7.6,2000.0,Sport,The Hurricane,84412.0,USA
+532,5.9,2001.0,Action,Te wu mi cheng,14579.0,Hong Kong
+533,5.9,2001.0,Comedy,Te wu mi cheng,14579.0,Hong Kong
+534,5.9,2001.0,Crime,Te wu mi cheng,14579.0,Hong Kong
+535,5.9,2001.0,Mystery,Te wu mi cheng,14579.0,Hong Kong
+536,5.9,2001.0,Thriller,Te wu mi cheng,14579.0,Hong Kong
+537,6.5,2004.0,Action,The Punisher,139047.0,USA
+538,6.5,2004.0,Adventure,The Punisher,139047.0,USA
+539,6.5,2004.0,Crime,The Punisher,139047.0,USA
+540,6.5,2004.0,Drama,The Punisher,139047.0,USA
+541,6.5,2004.0,Thriller,The Punisher,139047.0,USA
+542,7.2,1977.0,Comedy,Desperate Living,4207.0,USA
+543,7.2,1977.0,Crime,Desperate Living,4207.0,USA
+544,7.2,1977.0,Fantasy,Desperate Living,4207.0,USA
+545,7.2,1977.0,Horror,Desperate Living,4207.0,USA
+546,6.9,1994.0,Action,Clear and Present Danger,78907.0,USA
+547,6.9,1994.0,Crime,Clear and Present Danger,78907.0,USA
+548,6.9,1994.0,Drama,Clear and Present Danger,78907.0,USA
+549,6.9,1994.0,Thriller,Clear and Present Danger,78907.0,USA
+550,6.3,1995.0,Comedy,Sabrina,33069.0,USA
+551,6.3,1995.0,Drama,Sabrina,33069.0,USA
+552,6.9,2016.0,Action,Warcraft,217645.0,USA
+553,6.9,2016.0,Adventure,Warcraft,217645.0,USA
+554,6.9,2016.0,Fantasy,Warcraft,217645.0,USA
+555,6.5,1998.0,Action,The Man in the Iron Mask,141897.0,USA
+556,6.5,1998.0,Adventure,The Man in the Iron Mask,141897.0,USA
+557,6.5,1998.0,Drama,The Man in the Iron Mask,141897.0,USA
+558,7.3,1995.0,Drama,Death and the Maiden,19834.0,USA
+559,7.3,1995.0,Mystery,Death and the Maiden,19834.0,USA
+560,7.3,1995.0,Thriller,Death and the Maiden,19834.0,USA
+561,6.9,1997.0,Comedy,Liar Liar,251268.0,USA
+562,6.9,1997.0,Fantasy,Liar Liar,251268.0,USA
+563,5.1,2006.0,Horror,Abominable,3654.0,USA
+564,5.1,2006.0,Thriller,Abominable,3654.0,USA
+565,5.9,2005.0,Action,The Legend of Zorro,83047.0,USA
+566,5.9,2005.0,Adventure,The Legend of Zorro,83047.0,USA
+567,5.9,2005.0,Romance,The Legend of Zorro,83047.0,USA
+568,5.9,2005.0,Thriller,The Legend of Zorro,83047.0,USA
+569,5.9,2005.0,Western,The Legend of Zorro,83047.0,USA
+570,7.0,2013.0,Action,World War Z,536047.0,USA
+571,7.0,2013.0,Adventure,World War Z,536047.0,USA
+572,7.0,2013.0,Horror,World War Z,536047.0,USA
+573,7.0,2013.0,Sci-Fi,World War Z,536047.0,USA
+574,7.0,2013.0,Thriller,World War Z,536047.0,USA
+575,6.4,1977.0,Action,The Amazing Spider-Man,1618.0,1977–1979
+576,6.4,1977.0,Adventure,The Amazing Spider-Man,1618.0,1977–1979
+577,6.4,1977.0,Crime,The Amazing Spider-Man,1618.0,1977–1979
+578,6.4,1977.0,Fantasy,The Amazing Spider-Man,1618.0,1977–1979
+579,6.4,1977.0,Sci-Fi,The Amazing Spider-Man,1618.0,1977–1979
+580,6.7,2006.0,Action,Bo bui gai wak,11412.0,Hong Kong
+581,6.7,2006.0,Comedy,Bo bui gai wak,11412.0,Hong Kong
+582,6.7,2006.0,Drama,Bo bui gai wak,11412.0,Hong Kong
+583,5.7,2018.0,Comedy,Little Italy,2156.0,USA
+584,5.7,2018.0,Romance,Little Italy,2156.0,USA
+585,7.7,2011.0,Action,X: First Class,589831.0,USA
+586,7.7,2011.0,Adventure,X: First Class,589831.0,USA
+587,7.7,2011.0,Sci-Fi,X: First Class,589831.0,USA
+588,5.8,1990.0,Action,Hard to Kill,24721.0,USA
+589,5.8,1990.0,Crime,Hard to Kill,24721.0,USA
+590,5.8,1990.0,Drama,Hard to Kill,24721.0,USA
+591,5.8,1990.0,Thriller,Hard to Kill,24721.0,USA
+598,5.5,1988.0,Comedy,A Night in the Life of Jimmy Reardon,2314.0,USA
+599,5.5,1988.0,Drama,A Night in the Life of Jimmy Reardon,2314.0,USA
+600,5.5,1988.0,Romance,A Night in the Life of Jimmy Reardon,2314.0,USA
+601,7.2,1966.0,Comedy,Cul-de-sac,9936.0,USA
+602,7.2,1966.0,Drama,Cul-de-sac,9936.0,USA
+603,7.2,1966.0,Thriller,Cul-de-sac,9936.0,USA
+604,6.0,2014.0,Adventure,Into the Woods,119789.0,USA
+605,6.0,2014.0,Comedy,Into the Woods,119789.0,USA
+606,6.0,2014.0,Drama,Into the Woods,119789.0,USA
+607,6.0,2014.0,Fantasy,Into the Woods,119789.0,USA
+608,6.0,2014.0,Musical,Into the Woods,119789.0,USA
+609,7.4,1982.0,Biography,Le retour de Martin Guerre,3615.0,USA
+610,7.4,1982.0,Crime,Le retour de Martin Guerre,3615.0,USA
+611,7.4,1982.0,Drama,Le retour de Martin Guerre,3615.0,USA
+612,7.4,1982.0,History,Le retour de Martin Guerre,3615.0,USA
+613,7.4,1982.0,Mystery,Le retour de Martin Guerre,3615.0,USA
+614,7.4,1982.0,Romance,Le retour de Martin Guerre,3615.0,USA
+615,4.5,2018.0,Comedy,Cynthia,154.0,USA
+616,4.5,2018.0,Horror,Cynthia,154.0,USA
+622,4.9,1993.0,Action,Boiling Point,5027.0,USA
+623,4.9,1993.0,Crime,Boiling Point,5027.0,USA
+624,4.9,1993.0,Drama,Boiling Point,5027.0,USA
+625,4.9,1993.0,Thriller,Boiling Point,5027.0,USA
+626,5.3,2003.0,Action,Hollywood Homicide,33686.0,USA
+627,5.3,2003.0,Comedy,Hollywood Homicide,33686.0,USA
+628,5.3,2003.0,Crime,Hollywood Homicide,33686.0,USA
+629,5.3,2003.0,Thriller,Hollywood Homicide,33686.0,USA
+630,6.4,1996.0,Action,Executive Decision,45505.0,USA
+631,6.4,1996.0,Adventure,Executive Decision,45505.0,USA
+632,6.4,1996.0,Thriller,Executive Decision,45505.0,USA
+633,6.7,1999.0,Crime,The Bone Collector,136985.0,USA
+634,6.7,1999.0,Drama,The Bone Collector,136985.0,USA
+635,6.7,1999.0,Mystery,The Bone Collector,136985.0,USA
+636,6.7,1999.0,Thriller,The Bone Collector,136985.0,USA
+637,6.1,2005.0,Comedy,Fun with Dick and Jane,122374.0,USA
+638,6.1,2005.0,Crime,Fun with Dick and Jane,122374.0,USA
+639,7.1,2007.0,Action,Planet Terror,184282.0,Israel
+640,7.1,2007.0,Comedy,Planet Terror,184282.0,Israel
+641,7.1,2007.0,Horror,Planet Terror,184282.0,Israel
+642,7.1,2007.0,Thriller,Planet Terror,184282.0,Israel
+643,7.5,2004.0,Biography,The Aviator,299229.0,USA
+644,7.5,2004.0,Drama,The Aviator,299229.0,USA
+645,7.5,2004.0,History,The Aviator,299229.0,USA
+652,7.0,2010.0,Action,Da bing xiao jiang,13495.0,China
+653,7.0,2010.0,Adventure,Da bing xiao jiang,13495.0,China
+654,7.0,2010.0,Comedy,Da bing xiao jiang,13495.0,China
+655,7.0,2010.0,History,Da bing xiao jiang,13495.0,China
+656,7.0,2010.0,War,Da bing xiao jiang,13495.0,China
+657,7.3,2013.0,Drama,The Great Gatsby,418682.0,USA
+658,7.3,2013.0,Romance,The Great Gatsby,418682.0,USA
+659,5.2,2015.0,Drama,Pay the Ghost,13364.0,USA
+660,5.2,2015.0,Horror,Pay the Ghost,13364.0,USA
+661,5.2,2015.0,Mystery,Pay the Ghost,13364.0,USA
+662,5.2,2015.0,Thriller,Pay the Ghost,13364.0,USA
+663,8.0,2004.0,Action,Kill Bill: Vol. 2,590490.0,USA
+664,8.0,2004.0,Crime,Kill Bill: Vol. 2,590490.0,USA
+665,8.0,2004.0,Thriller,Kill Bill: Vol. 2,590490.0,USA
+666,6.1,1991.0,Action,Out for Justice,19267.0,USA
+667,6.1,1991.0,Crime,Out for Justice,19267.0,USA
+668,6.1,1991.0,Drama,Out for Justice,19267.0,USA
+669,6.1,1991.0,Thriller,Out for Justice,19267.0,USA
+670,6.8,2012.0,Action,Men in Black 3,298029.0,USA
+671,6.8,2012.0,Adventure,Men in Black 3,298029.0,USA
+672,6.8,2012.0,Comedy,Men in Black 3,298029.0,USA
+673,6.8,2012.0,Sci-Fi,Men in Black 3,298029.0,USA
+674,6.0,2018.0,Comedy,Destination Wedding,7459.0,Germany
+675,6.0,2018.0,Drama,Destination Wedding,7459.0,Germany
+676,6.0,2018.0,Romance,Destination Wedding,7459.0,Germany
+677,6.1,2013.0,Action,Jing cha gu shi 2013,7747.0,USA
+678,6.1,2013.0,Crime,Jing cha gu shi 2013,7747.0,USA
+679,6.1,2013.0,Drama,Jing cha gu shi 2013,7747.0,USA
+680,6.1,2013.0,Thriller,Jing cha gu shi 2013,7747.0,USA
+681,6.5,2003.0,Crime,Out of Time,51525.0,USA
+682,6.5,2003.0,Drama,Out of Time,51525.0,USA
+683,6.5,2003.0,Mystery,Out of Time,51525.0,USA
+684,6.5,2003.0,Thriller,Out of Time,51525.0,USA
+685,6.0,1992.0,Adventure,Medicine Man,19237.0,USA
+686,6.0,1992.0,Drama,Medicine Man,19237.0,USA
+687,6.0,1992.0,Romance,Medicine Man,19237.0,USA
+688,4.9,2011.0,Horror,Vanishing on 7th Street,23481.0,Japan
+689,4.9,2011.0,Mystery,Vanishing on 7th Street,23481.0,Japan
+690,4.9,2011.0,Thriller,Vanishing on 7th Street,23481.0,Japan
+691,7.2,2003.0,Action,The Matrix Reloaded,466107.0,USA
+692,7.2,2003.0,Sci-Fi,The Matrix Reloaded,466107.0,USA
+693,6.2,2005.0,Action,San wa,12999.0,Hong Kong
+694,6.2,2005.0,Adventure,San wa,12999.0,Hong Kong
+695,6.2,2005.0,Comedy,San wa,12999.0,Hong Kong
+696,6.2,2005.0,Drama,San wa,12999.0,Hong Kong
+697,6.2,2005.0,Fantasy,San wa,12999.0,Hong Kong
+698,6.2,2005.0,Romance,San wa,12999.0,Hong Kong
+699,8.8,2011.0,Drama,The Phantom of the Opera at the Royal Albert Hall,5562.0,UK
+700,8.8,2011.0,Music,The Phantom of the Opera at the Royal Albert Hall,5562.0,UK
+701,8.8,2011.0,Musical,The Phantom of the Opera at the Royal Albert Hall,5562.0,UK
+702,8.8,2011.0,Romance,The Phantom of the Opera at the Royal Albert Hall,5562.0,UK
+703,8.8,2011.0,Thriller,The Phantom of the Opera at the Royal Albert Hall,5562.0,UK
+704,7.0,2009.0,Action,San suk si gin,10338.0,Hong Kong
+705,7.0,2009.0,Crime,San suk si gin,10338.0,Hong Kong
+706,7.0,2009.0,Drama,San suk si gin,10338.0,Hong Kong
+707,7.0,2009.0,Thriller,San suk si gin,10338.0,Hong Kong
+708,8.1,1993.0,Adventure,Jurassic Park,750973.0,USA
+709,8.1,1993.0,Sci-Fi,Jurassic Park,750973.0,USA
+710,8.1,1993.0,Thriller,Jurassic Park,750973.0,USA
+711,7.8,2009.0,Action,Avatar,1007069.0,USA
+712,7.8,2009.0,Adventure,Avatar,1007069.0,USA
+713,7.8,2009.0,Fantasy,Avatar,1007069.0,USA
+714,7.8,2009.0,Sci-Fi,Avatar,1007069.0,USA
+715,5.2,2012.0,Animation,Quantum Quest: A Cassini Space Odyssey,283.0,USA
+716,5.2,2012.0,Sci-Fi,Quantum Quest: A Cassini Space Odyssey,283.0,USA
+717,5.2,2012.0,Adventure,Quantum Quest: A Cassini Space Odyssey,283.0,USA
+718,6.7,1991.0,Drama,Regarding Henry,26512.0,USA
+719,6.7,1991.0,Romance,Regarding Henry,26512.0,USA
+720,6.9,2011.0,Action,San siu lam zi,17494.0,Hong Kong
+721,6.9,2011.0,Drama,San siu lam zi,17494.0,Hong Kong
+722,5.8,2002.0,Action,Liberty Stands Still,6880.0,Italy
+723,5.8,2002.0,Drama,Liberty Stands Still,6880.0,Italy
+724,5.8,2002.0,Thriller,Liberty Stands Still,6880.0,Italy
+725,6.2,1993.0,Action,Chao ji ji hua,3277.0,Hong Kong
+726,6.2,1993.0,Comedy,Chao ji ji hua,3277.0,Hong Kong
+727,6.2,1993.0,Crime,Chao ji ji hua,3277.0,Hong Kong
+728,6.2,1993.0,Thriller,Chao ji ji hua,3277.0,Hong Kong
+729,5.9,1991.0,Action,Huo shao dao,2804.0,Taiwan
+730,5.9,1991.0,Crime,Huo shao dao,2804.0,Taiwan
+731,5.9,1991.0,Drama,Huo shao dao,2804.0,Taiwan
+732,6.6,2009.0,Action,Underworld: Rise of the Lycans,138602.0,USA
+733,6.6,2009.0,Adventure,Underworld: Rise of the Lycans,138602.0,USA
+734,6.6,2009.0,Fantasy,Underworld: Rise of the Lycans,138602.0,USA
+735,6.6,2009.0,Sci-Fi,Underworld: Rise of the Lycans,138602.0,USA
+736,6.6,2009.0,Thriller,Underworld: Rise of the Lycans,138602.0,USA
+737,5.3,2006.0,Comedy,Big Bad Wolf,2253.0,USA
+738,5.3,2006.0,Horror,Big Bad Wolf,2253.0,USA
+739,7.2,1992.0,Drama,Bitter Moon,30186.0,USA
+740,7.2,1992.0,Romance,Bitter Moon,30186.0,USA
+741,7.2,1992.0,Thriller,Bitter Moon,30186.0,USA
+742,6.1,1986.0,Comedy,Pink Flamingos,19399.0,West Germany
+743,6.1,1986.0,Crime,Pink Flamingos,19399.0,West Germany
+744,7.0,2015.0,Action,Jurassic World,517935.0,USA
+745,7.0,2015.0,Adventure,Jurassic World,517935.0,USA
+746,7.0,2015.0,Sci-Fi,Jurassic World,517935.0,USA
+747,7.4,1993.0,Comedy,Arizona Dream,37775.0,USA
+748,7.4,1993.0,Drama,Arizona Dream,37775.0,USA
+749,7.4,1993.0,Fantasy,Arizona Dream,37775.0,USA
+750,7.4,1993.0,Romance,Arizona Dream,37775.0,USA
+751,7.2,1998.0,Animation,Silver Surfer,1589.0,1998
+752,7.2,1998.0,Sci-Fi,Silver Surfer,1589.0,1998
+753,7.2,1998.0,Action,Silver Surfer,1589.0,1998
+754,7.2,1998.0,Thriller,Silver Surfer,1589.0,1998
+755,8.5,1981.0,Action,Raiders of the Lost Ark,778588.0,USA
+756,8.5,1981.0,Adventure,Raiders of the Lost Ark,778588.0,USA
+757,7.1,1993.0,Drama,Fearless,19418.0,USA
+758,7.1,1993.0,Thriller,Fearless,19418.0,USA
+759,5.9,1992.0,Action,Passenger 57,41111.0,USA
+760,5.9,1992.0,Crime,Passenger 57,41111.0,USA
+761,5.9,1992.0,Thriller,Passenger 57,41111.0,USA
+762,6.5,1994.0,Animation,Fantastic Four,2584.0,1994–1996
+763,6.5,1994.0,Action,Fantastic Four,2584.0,1994–1996
+764,6.5,1994.0,Sci-Fi,Fantastic Four,2584.0,1994–1996
+765,7.3,2003.0,Biography,Antwone Fisher,29747.0,USA
+766,7.3,2003.0,Drama,Antwone Fisher,29747.0,USA
+767,6.9,1992.0,Action,Patriot Games,91353.0,USA
+768,6.9,1992.0,Thriller,Patriot Games,91353.0,USA
+769,7.5,1995.0,Drama,Leaving Las Vegas,104043.0,USA
+770,7.5,1995.0,Romance,Leaving Las Vegas,104043.0,USA
+771,5.5,2001.0,Action,Exit Wounds,29720.0,USA
+772,5.5,2001.0,Comedy,Exit Wounds,29720.0,USA
+773,5.5,2001.0,Crime,Exit Wounds,29720.0,USA
+774,5.5,2001.0,Drama,Exit Wounds,29720.0,USA
+775,5.5,2001.0,Thriller,Exit Wounds,29720.0,USA
+776,7.8,1965.0,Drama,Repulsion,41951.0,USA
+777,7.8,1965.0,Horror,Repulsion,41951.0,USA
+778,7.8,1965.0,Thriller,Repulsion,41951.0,USA
+779,6.1,1997.0,Action,The Devil's Own,52074.0,USA
+780,6.1,1997.0,Crime,The Devil's Own,52074.0,USA
+781,6.1,1997.0,Drama,The Devil's Own,52074.0,USA
+782,6.1,1997.0,Thriller,The Devil's Own,52074.0,USA
+791,6.6,1985.0,Action,Fuk sing go jiu,3945.0,Hong Kong
+792,6.6,1985.0,Comedy,Fuk sing go jiu,3945.0,Hong Kong
+793,6.6,1985.0,Crime,Fuk sing go jiu,3945.0,Hong Kong
+794,7.4,2007.0,Drama,Sweeney Todd: The Demon Barber of Fleet Street,314748.0,USA
+795,7.4,2007.0,Horror,Sweeney Todd: The Demon Barber of Fleet Street,314748.0,USA
+796,7.4,2007.0,Musical,Sweeney Todd: The Demon Barber of Fleet Street,314748.0,USA
+797,7.4,2007.0,Thriller,Sweeney Todd: The Demon Barber of Fleet Street,314748.0,USA
+804,6.9,1991.0,Action,Robin Hood: Prince of Thieves,161615.0,USA
+805,6.9,1991.0,Adventure,Robin Hood: Prince of Thieves,161615.0,USA
+806,6.9,1991.0,Drama,Robin Hood: Prince of Thieves,161615.0,USA
+807,6.9,1991.0,Romance,Robin Hood: Prince of Thieves,161615.0,USA
+808,5.3,2018.0,Horror,He's Out There,1424.0,Lithuania
+809,5.3,2018.0,Thriller,He's Out There,1424.0,Lithuania
+815,3.5,2018.0,Adventure,The Outer Wild,189.0,USA
+816,3.5,2018.0,Fantasy,The Outer Wild,189.0,USA
+817,3.5,2018.0,Horror,The Outer Wild,189.0,USA
+818,3.5,2018.0,Sci-Fi,The Outer Wild,189.0,USA
+819,3.5,2018.0,Thriller,The Outer Wild,189.0,USA
+820,6.1,2001.0,Adventure,The Mexican,95213.0,USA
+821,6.1,2001.0,Comedy,The Mexican,95213.0,USA
+822,6.1,2001.0,Crime,The Mexican,95213.0,USA
+823,6.1,2001.0,Romance,The Mexican,95213.0,USA
+824,7.5,2003.0,Action,X2,465509.0,USA
+825,7.5,2003.0,Adventure,X2,465509.0,USA
+826,7.5,2003.0,Sci-Fi,X2,465509.0,USA
+827,7.5,2003.0,Thriller,X2,465509.0,USA
+828,7.2,1998.0,Drama,Meet Joe Black,189356.0,USA
+829,7.2,1998.0,Fantasy,Meet Joe Black,189356.0,USA
+830,7.2,1998.0,Romance,Meet Joe Black,189356.0,USA
+831,6.0,2016.0,Action,The Great Wall,103681.0,USA
+832,6.0,2016.0,Adventure,The Great Wall,103681.0,USA
+833,6.0,2016.0,Fantasy,The Great Wall,103681.0,USA
+834,6.0,2016.0,Thriller,The Great Wall,103681.0,USA
+835,6.6,2010.0,Biography,I Love You Phillip Morris,85725.0,USA
+836,6.6,2010.0,Comedy,I Love You Phillip Morris,85725.0,USA
+837,6.6,2010.0,Crime,I Love You Phillip Morris,85725.0,USA
+838,6.6,2010.0,Drama,I Love You Phillip Morris,85725.0,USA
+839,6.6,2010.0,Romance,I Love You Phillip Morris,85725.0,USA
+840,7.2,2004.0,Drama,Troy,437256.0,USA
+841,7.2,2004.0,History,Troy,437256.0,USA
+842,7.2,2004.0,Romance,Troy,437256.0,USA
+843,6.9,2005.0,Crime,Oliver Twist,28408.0,USA
+844,6.9,2005.0,Drama,Oliver Twist,28408.0,USA
+845,6.6,2000.0,Adventure,The Beach,202089.0,USA
+846,6.6,2000.0,Drama,The Beach,202089.0,USA
+847,6.6,2000.0,Romance,The Beach,202089.0,USA
+848,6.6,2000.0,Thriller,The Beach,202089.0,USA
+849,7.0,1997.0,Adventure,Seven Years in Tibet,109246.0,USA
+850,7.0,1997.0,Biography,Seven Years in Tibet,109246.0,USA
+851,7.0,1997.0,Drama,Seven Years in Tibet,109246.0,USA
+852,7.0,1997.0,History,Seven Years in Tibet,109246.0,USA
+853,7.0,1997.0,War,Seven Years in Tibet,109246.0,USA
+860,7.2,1994.0,Action,Speed,293492.0,USA
+861,7.2,1994.0,Adventure,Speed,293492.0,USA
+862,7.2,1994.0,Crime,Speed,293492.0,USA
+863,7.2,1994.0,Thriller,Speed,293492.0,USA
+870,6.8,1995.0,Action,Hung fan kui,34535.0,USA
+871,6.8,1995.0,Comedy,Hung fan kui,34535.0,USA
+872,6.8,1995.0,Crime,Hung fan kui,34535.0,USA
+873,6.8,1995.0,Thriller,Hung fan kui,34535.0,USA
+874,5.7,2018.0,Fantasy,I Still See You,1461.0,USA
+875,5.7,2018.0,Thriller,I Still See You,1461.0,USA
+876,6.3,1998.0,Action,The Siege,63443.0,USA
+877,6.3,1998.0,Thriller,The Siege,63443.0,USA
+878,6.9,1997.0,Action,Breakdown,43153.0,USA
+879,6.9,1997.0,Crime,Breakdown,43153.0,USA
+880,6.9,1997.0,Drama,Breakdown,43153.0,USA
+881,6.9,1997.0,Mystery,Breakdown,43153.0,USA
+882,6.9,1997.0,Thriller,Breakdown,43153.0,USA
+889,7.1,1986.0,Action,Lung hing foo dai,15135.0,Hong Kong
+890,7.1,1986.0,Adventure,Lung hing foo dai,15135.0,Hong Kong
+891,7.1,1986.0,Comedy,Lung hing foo dai,15135.0,Hong Kong
+892,4.9,2003.0,Action,Charlie's Angels: Full Throttle,110304.0,USA
+893,4.9,2003.0,Adventure,Charlie's Angels: Full Throttle,110304.0,USA
+894,4.9,2003.0,Comedy,Charlie's Angels: Full Throttle,110304.0,USA
+895,4.9,2003.0,Crime,Charlie's Angels: Full Throttle,110304.0,USA
+896,7.6,2009.0,Action,Sherlock Holmes,534928.0,USA
+897,7.6,2009.0,Adventure,Sherlock Holmes,534928.0,USA
+898,7.6,2009.0,Crime,Sherlock Holmes,534928.0,USA
+899,7.6,2009.0,Mystery,Sherlock Holmes,534928.0,USA
+900,7.6,2009.0,Thriller,Sherlock Holmes,534928.0,USA
+901,5.4,1982.0,Horror,Swamp Thing,11207.0,USA
+902,5.4,1982.0,Sci-Fi,Swamp Thing,11207.0,USA
+909,8.1,2017.0,Action,Logan,516799.0,USA
+910,8.1,2017.0,Drama,Logan,516799.0,USA
+911,8.1,2017.0,Sci-Fi,Logan,516799.0,USA
+912,8.1,2017.0,Thriller,Logan,516799.0,USA
+913,5.9,2004.0,Action,Blade: Trinity,151234.0,USA
+914,5.9,2004.0,Adventure,Blade: Trinity,151234.0,USA
+915,5.9,2004.0,Horror,Blade: Trinity,151234.0,USA
+916,5.9,2004.0,Sci-Fi,Blade: Trinity,151234.0,USA
+917,5.9,2004.0,Thriller,Blade: Trinity,151234.0,USA
+918,7.1,2008.0,Drama,Valkyrie,208159.0,USA
+919,7.1,2008.0,History,Valkyrie,208159.0,USA
+920,7.1,2008.0,Thriller,Valkyrie,208159.0,USA
+921,7.1,2008.0,War,Valkyrie,208159.0,USA
+922,5.2,1987.0,Comedy,Hello Again,2651.0,USA
+923,5.2,1987.0,Drama,Hello Again,2651.0,USA
+924,5.2,1987.0,Fantasy,Hello Again,2651.0,USA
+925,5.2,1987.0,Romance,Hello Again,2651.0,USA
+932,4.8,1984.0,Comedy,Hot Dog... The Movie,2666.0,USA
+933,4.8,1984.0,Romance,Hot Dog... The Movie,2666.0,USA
+934,4.8,1984.0,Sport,Hot Dog... The Movie,2666.0,USA
+935,5.5,1989.0,Drama,The Phantom of the Opera,3314.0,USA
+936,5.5,1989.0,Horror,The Phantom of the Opera,3314.0,USA
+937,5.5,1989.0,Music,The Phantom of the Opera,3314.0,USA
+938,5.5,1989.0,Romance,The Phantom of the Opera,3314.0,USA
+939,5.4,1996.0,Action,The Glimmer Man,17150.0,USA
+940,5.4,1996.0,Comedy,The Glimmer Man,17150.0,USA
+941,5.4,1996.0,Crime,The Glimmer Man,17150.0,USA
+942,5.4,1996.0,Drama,The Glimmer Man,17150.0,USA
+943,5.4,1996.0,Thriller,The Glimmer Man,17150.0,USA
+944,6.6,1991.0,Action,New Jack City,27666.0,USA
+945,6.6,1991.0,Crime,New Jack City,27666.0,USA
+946,6.6,1991.0,Drama,New Jack City,27666.0,USA
+947,6.6,1991.0,Thriller,New Jack City,27666.0,USA
+948,4.6,2014.0,Horror,Blood Moon,646.0,USA
+949,4.6,2014.0,Thriller,Blood Moon,646.0,USA
+950,4.6,2014.0,Western,Blood Moon,646.0,USA
+951,6.2,2015.0,Action,Insurgent,192000.0,USA
+952,6.2,2015.0,Adventure,Insurgent,192000.0,USA
+953,6.2,2015.0,Sci-Fi,Insurgent,192000.0,USA
+954,6.2,2015.0,Thriller,Insurgent,192000.0,USA
+955,5.7,2000.0,Action,The Art of War,27015.0,USA
+956,5.7,2000.0,Adventure,The Art of War,27015.0,USA
+957,5.7,2000.0,Crime,The Art of War,27015.0,USA
+958,5.7,2000.0,Thriller,The Art of War,27015.0,USA
+959,7.3,2003.0,Comedy,Matchstick Men,115930.0,USA
+960,7.3,2003.0,Crime,Matchstick Men,115930.0,USA
+961,7.3,2003.0,Drama,Matchstick Men,115930.0,USA
+962,7.3,2003.0,Thriller,Matchstick Men,115930.0,USA
+963,6.7,2006.0,Drama,Facing the Giants,14038.0,USA
+964,6.7,2006.0,Sport,Facing the Giants,14038.0,USA
+965,7.2,1989.0,Action,Qi ji,3853.0,Hong Kong
+966,7.2,1989.0,Comedy,Qi ji,3853.0,Hong Kong
+967,7.2,1989.0,Crime,Qi ji,3853.0,Hong Kong
+968,7.2,1989.0,Drama,Qi ji,3853.0,Hong Kong
+969,7.2,1989.0,Romance,Qi ji,3853.0,Hong Kong
+976,5.9,2013.0,Adventure,The Incredible Burt Wonderstone,66113.0,USA
+977,5.9,2013.0,Comedy,The Incredible Burt Wonderstone,66113.0,USA
+978,5.9,2013.0,Fantasy,The Incredible Burt Wonderstone,66113.0,USA
+985,7.2,2005.0,Action,Kingdom of Heaven,244297.0,USA
+986,7.2,2005.0,Adventure,Kingdom of Heaven,244297.0,USA
+987,7.2,2005.0,Drama,Kingdom of Heaven,244297.0,USA
+988,7.2,2005.0,History,Kingdom of Heaven,244297.0,USA
+989,7.2,2005.0,War,Kingdom of Heaven,244297.0,USA
+995,6.2,1985.0,Comedy,Seven Minutes in Heaven,1193.0,USA
+996,6.2,1985.0,Drama,Seven Minutes in Heaven,1193.0,USA
+997,6.2,1985.0,Romance,Seven Minutes in Heaven,1193.0,USA
+998,5.2,2016.0,Short,Superman Meets Batman,15.0,Australia
+999,5.2,2016.0,Action,Superman Meets Batman,15.0,Australia
+1000,5.2,2016.0,Sci-Fi,Superman Meets Batman,15.0,Australia
+1001,6.7,2003.0,Action,The Matrix Revolutions,404432.0,USA
+1002,6.7,2003.0,Adventure,The Matrix Revolutions,404432.0,USA
+1003,6.7,2003.0,Fantasy,The Matrix Revolutions,404432.0,USA
+1004,6.7,2003.0,Sci-Fi,The Matrix Revolutions,404432.0,USA
+1013,7.5,2002.0,Crime,Gangs of New York,360629.0,USA
+1014,7.5,2002.0,Drama,Gangs of New York,360629.0,USA
+1015,6.7,2018.0,Drama,Summer of 84,12090.0,USA
+1016,6.7,2018.0,Horror,Summer of 84,12090.0,USA
+1017,6.7,2018.0,Mystery,Summer of 84,12090.0,USA
+1018,6.7,2018.0,Thriller,Summer of 84,12090.0,USA
+1019,4.9,2018.0,Horror,Await Further Instructions,1324.0,USA
+1020,4.9,2018.0,Mystery,Await Further Instructions,1324.0,USA
+1021,4.9,2018.0,Sci-Fi,Await Further Instructions,1324.0,USA
+1022,6.6,2016.0,Action,Jason Bourne,182199.0,USA
+1023,6.6,2016.0,Thriller,Jason Bourne,182199.0,USA
+1024,5.6,2014.0,Adventure,Dumb and Dumber To,114346.0,USA
+1025,5.6,2014.0,Comedy,Dumb and Dumber To,114346.0,USA
+1032,3.8,1997.0,Action,Speed 2: Cruise Control,67348.0,USA
+1033,3.8,1997.0,Adventure,Speed 2: Cruise Control,67348.0,USA
+1034,3.8,1997.0,Crime,Speed 2: Cruise Control,67348.0,USA
+1035,3.8,1997.0,Romance,Speed 2: Cruise Control,67348.0,USA
+1036,3.8,1997.0,Thriller,Speed 2: Cruise Control,67348.0,USA
+1037,5.2,1983.0,Comedy,Private School,4941.0,USA
+1038,5.2,1983.0,Romance,Private School,4941.0,USA
+1039,7.8,2016.0,Action,Rogue One,447110.0,USA
+1040,7.8,2016.0,Adventure,Rogue One,447110.0,USA
+1041,7.8,2016.0,Sci-Fi,Rogue One,447110.0,USA
+1042,5.5,2000.0,Action,Charlie's Angels,159387.0,USA
+1043,5.5,2000.0,Adventure,Charlie's Angels,159387.0,USA
+1044,5.5,2000.0,Comedy,Charlie's Angels,159387.0,USA
+1045,5.5,2000.0,Crime,Charlie's Angels,159387.0,USA
+1046,5.5,2000.0,Thriller,Charlie's Angels,159387.0,USA
+1047,5.2,2018.0,Action,Better Start Running,231.0,USA
+1048,5.2,2018.0,Comedy,Better Start Running,231.0,USA
+1049,3.3,2004.0,Action,Catwoman,98602.0,USA
+1050,3.3,2004.0,Adventure,Catwoman,98602.0,USA
+1051,3.3,2004.0,Crime,Catwoman,98602.0,USA
+1052,3.3,2004.0,Drama,Catwoman,98602.0,USA
+1053,3.3,2004.0,Fantasy,Catwoman,98602.0,USA
+1054,3.3,2004.0,Romance,Catwoman,98602.0,USA
+1061,7.5,1995.0,Drama,Legends of the Fall,128618.0,USA
+1062,7.5,1995.0,Romance,Legends of the Fall,128618.0,USA
+1063,7.5,1995.0,War,Legends of the Fall,128618.0,USA
+1064,7.5,1995.0,Western,Legends of the Fall,128618.0,USA
+1076,7.8,1997.0,Drama,Titanic,916303.0,USA
+1077,7.8,1997.0,Romance,Titanic,916303.0,USA
+1078,6.0,1993.0,Drama,Poetic Justice,10622.0,USA
+1079,6.0,1993.0,Romance,Poetic Justice,10622.0,USA
+1080,5.5,2003.0,Action,Lara Croft Tomb Raider: The Cradle of Life,118569.0,USA
+1081,5.5,2003.0,Adventure,Lara Croft Tomb Raider: The Cradle of Life,118569.0,USA
+1082,5.5,2003.0,Fantasy,Lara Croft Tomb Raider: The Cradle of Life,118569.0,USA
+1083,7.0,2013.0,Action,Oblivion,440357.0,USA
+1084,7.0,2013.0,Adventure,Oblivion,440357.0,USA
+1085,7.0,2013.0,Mystery,Oblivion,440357.0,USA
+1086,7.0,2013.0,Sci-Fi,Oblivion,440357.0,USA
+1087,7.2,1995.0,Action,Desperado,155206.0,USA
+1088,7.2,1995.0,Thriller,Desperado,155206.0,USA
+1089,7.6,1996.0,Crime,Sleepers,171231.0,USA
+1090,7.6,1996.0,Drama,Sleepers,171231.0,USA
+1091,7.6,1996.0,Thriller,Sleepers,171231.0,USA
+1097,4.9,2018.0,Horror,Downward Twin,48.0,USA
+1098,4.9,2018.0,Thriller,Downward Twin,48.0,USA
+1099,7.0,1977.0,Action,The Incredible Hulk,10179.0,1978–1982
+1100,7.0,1977.0,Adventure,The Incredible Hulk,10179.0,1978–1982
+1101,7.0,1977.0,Drama,The Incredible Hulk,10179.0,1978–1982
+1102,7.0,1977.0,Sci-Fi,The Incredible Hulk,10179.0,1978–1982
+1103,7.2,1981.0,Animation,Spider-Man,794.0,1981–1987
+1104,7.2,1981.0,Adventure,Spider-Man,794.0,1981–1987
+1105,7.2,1981.0,Fantasy,Spider-Man,794.0,1981–1987
+1106,7.2,1981.0,Sci-Fi,Spider-Man,794.0,1981–1987
+1112,6.3,1996.0,Comedy,Mars Attacks!,191474.0,USA
+1113,6.3,1996.0,Sci-Fi,Mars Attacks!,191474.0,USA
+1114,7.6,2001.0,Biography,Blow,219066.0,USA
+1115,7.6,2001.0,Crime,Blow,219066.0,USA
+1116,7.6,2001.0,Drama,Blow,219066.0,USA
+1117,6.1,2014.0,Drama,Bird People,2697.0,France
+1118,6.1,2014.0,Fantasy,Bird People,2697.0,France
+1119,6.1,2014.0,Romance,Bird People,2697.0,France
+1120,6.3,2003.0,Action,Terminator 3: Rise of the Machines,340925.0,USA
+1121,6.3,2003.0,Sci-Fi,Terminator 3: Rise of the Machines,340925.0,USA
+1122,5.0,2004.0,Action,Unstoppable,4399.0,United Arab Emirates
+1123,5.0,2004.0,Adventure,Unstoppable,4399.0,United Arab Emirates
+1124,5.0,2004.0,Drama,Unstoppable,4399.0,United Arab Emirates
+1125,5.0,2004.0,Thriller,Unstoppable,4399.0,United Arab Emirates
+1132,7.7,1954.0,Comedy,Sabrina,51405.0,USA
+1133,7.7,1954.0,Drama,Sabrina,51405.0,USA
+1134,7.7,1954.0,Romance,Sabrina,51405.0,USA
+1135,7.1,2008.0,Action,Body of Lies,194636.0,USA
+1136,7.1,2008.0,Drama,Body of Lies,194636.0,USA
+1137,7.1,2008.0,Thriller,Body of Lies,194636.0,USA
+1138,8.8,2001.0,Adventure,The Lord of the Rings: The Fellowship of the Ring,1448357.0,USA
+1139,8.8,2001.0,Drama,The Lord of the Rings: The Fellowship of the Ring,1448357.0,USA
+1140,8.8,2001.0,Fantasy,The Lord of the Rings: The Fellowship of the Ring,1448357.0,USA
+1141,6.8,2008.0,Comedy,Yes Man,302744.0,USA
+1142,6.8,2008.0,Romance,Yes Man,302744.0,USA
+1143,7.9,1993.0,Crime,Carlito's Way,181148.0,USA
+1144,7.9,1993.0,Drama,Carlito's Way,181148.0,USA
+1145,7.9,1993.0,Thriller,Carlito's Way,181148.0,USA
+1146,8.2,1988.0,Action,Die Hard,693450.0,USA
+1147,8.2,1988.0,Thriller,Die Hard,693450.0,USA
+1148,5.2,2013.0,Comedy,Si ren ding zhi,961.0,USA
+1149,5.2,2013.0,Drama,Si ren ding zhi,961.0,USA
+1150,8.1,2003.0,Action,Kill Bill: Vol. 1,869979.0,USA
+1151,8.1,2003.0,Crime,Kill Bill: Vol. 1,869979.0,USA
+1152,8.1,2003.0,Thriller,Kill Bill: Vol. 1,869979.0,USA
+1153,6.2,2012.0,Crime,Killing Them Softly,122082.0,USA
+1154,6.2,2012.0,Thriller,Killing Them Softly,122082.0,USA
+1155,6.5,2004.0,Horror,Ginger Snaps 2: Unleashed,11444.0,Canada
+1156,6.5,2004.0,Thriller,Ginger Snaps 2: Unleashed,11444.0,Canada
+1157,6.3,2004.0,Action,King Arthur,149240.0,USA
+1158,6.3,2004.0,Adventure,King Arthur,149240.0,USA
+1159,6.3,2004.0,Drama,King Arthur,149240.0,USA
+1160,6.3,2004.0,History,King Arthur,149240.0,USA
+1161,6.3,2004.0,War,King Arthur,149240.0,USA
+1162,6.6,2010.0,Action,Machete,178925.0,USA
+1163,6.6,2010.0,Crime,Machete,178925.0,USA
+1164,6.6,2010.0,Thriller,Machete,178925.0,USA
+1165,5.9,2016.0,Action,Railroad Tigers,2917.0,China
+1166,5.9,2016.0,Comedy,Railroad Tigers,2917.0,China
+1167,5.9,2016.0,War,Railroad Tigers,2917.0,China
+1168,5.5,2004.0,Comedy,The Whole Ten Yards,50147.0,USA
+1169,5.5,2004.0,Crime,The Whole Ten Yards,50147.0,USA
+1170,5.5,2004.0,Thriller,The Whole Ten Yards,50147.0,USA
+1176,6.2,2014.0,Action,Jack Ryan: Shadow Recruit,111399.0,USA
+1177,6.2,2014.0,Drama,Jack Ryan: Shadow Recruit,111399.0,USA
+1178,6.2,2014.0,Thriller,Jack Ryan: Shadow Recruit,111399.0,USA
+1179,7.6,1989.0,Action,Batman,303928.0,USA
+1180,7.6,1989.0,Adventure,Batman,303928.0,USA
+1186,7.7,1976.0,Drama,Le locataire,32869.0,France
+1187,7.7,1976.0,Thriller,Le locataire,32869.0,France
+1200,7.3,1957.0,Comedy,Love in the Afternoon,11949.0,USA
+1201,7.3,1957.0,Crime,Love in the Afternoon,11949.0,USA
+1202,7.3,1957.0,Drama,Love in the Afternoon,11949.0,USA
+1203,7.3,1957.0,Romance,Love in the Afternoon,11949.0,USA
+1204,6.1,1990.0,Drama,The Russia House,12896.0,USA
+1205,6.1,1990.0,Romance,The Russia House,12896.0,USA
+1206,6.1,1990.0,Thriller,The Russia House,12896.0,USA
+1207,4.9,1982.0,Comedy,Zapped!,5353.0,USA
+1208,4.9,1982.0,Fantasy,Zapped!,5353.0,USA
+1209,4.9,1982.0,Sci-Fi,Zapped!,5353.0,USA
+1216,8.0,2007.0,Action,The Bourne Ultimatum,569914.0,USA
+1217,8.0,2007.0,Mystery,The Bourne Ultimatum,569914.0,USA
+1218,8.0,2007.0,Thriller,The Bourne Ultimatum,569914.0,USA
+1224,8.0,2006.0,Adventure,Blood Diamond,451021.0,USA
+1225,8.0,2006.0,Drama,Blood Diamond,451021.0,USA
+1226,8.0,2006.0,Thriller,Blood Diamond,451021.0,USA
+1227,3.9,2013.0,Comedy,Airborne,2197.0,Sweden
+1228,3.9,2013.0,Crime,Airborne,2197.0,Sweden
+1229,3.9,2013.0,Horror,Airborne,2197.0,Sweden
+1230,3.9,2013.0,Mystery,Airborne,2197.0,Sweden
+1231,3.9,2013.0,Sci-Fi,Airborne,2197.0,Sweden
+1232,3.9,2013.0,Thriller,Airborne,2197.0,Sweden
+1233,8.2,2012.0,Short,The Punisher: Dirty Laundry,8035.0,USA
+1234,8.2,2012.0,Action,The Punisher: Dirty Laundry,8035.0,USA
+1235,8.2,2012.0,Crime,The Punisher: Dirty Laundry,8035.0,USA
+1236,8.2,2012.0,Drama,The Punisher: Dirty Laundry,8035.0,USA
+1237,5.8,2001.0,Action,Lara Croft: Tomb Raider,180706.0,USA
+1238,5.8,2001.0,Adventure,Lara Croft: Tomb Raider,180706.0,USA
+1239,5.8,2001.0,Fantasy,Lara Croft: Tomb Raider,180706.0,USA
+1240,5.8,2001.0,Thriller,Lara Croft: Tomb Raider,180706.0,USA
+1241,6.3,2016.0,Action,The Legend of Tarzan,143407.0,USA
+1242,6.3,2016.0,Adventure,The Legend of Tarzan,143407.0,USA
+1243,6.3,2016.0,Drama,The Legend of Tarzan,143407.0,USA
+1244,6.3,2016.0,Fantasy,The Legend of Tarzan,143407.0,USA
+1245,6.3,2016.0,Romance,The Legend of Tarzan,143407.0,USA
+1246,6.1,1974.0,Drama,Chi o suu bara,281.0,USA
+1247,6.1,1974.0,Horror,Chi o suu bara,281.0,USA
+1248,6.3,1991.0,Comedy,For the Boys,4628.0,USA
+1249,6.3,1991.0,Drama,For the Boys,4628.0,USA
+1250,6.3,1991.0,Music,For the Boys,4628.0,USA
+1251,6.3,1993.0,Comedy,The Thing Called Love,6408.0,USA
+1252,6.3,1993.0,Drama,The Thing Called Love,6408.0,USA
+1253,6.3,1993.0,Music,The Thing Called Love,6408.0,USA
+1254,6.3,1993.0,Romance,The Thing Called Love,6408.0,USA
+1261,8.9,1994.0,Crime,Pulp Fiction,1569991.0,USA
+1262,8.9,1994.0,Drama,Pulp Fiction,1569991.0,USA
+1263,6.1,1998.0,Action,Mercury Rising,60971.0,USA
+1264,6.1,1998.0,Crime,Mercury Rising,60971.0,USA
+1265,6.1,1998.0,Drama,Mercury Rising,60971.0,USA
+1266,6.1,1998.0,Thriller,Mercury Rising,60971.0,USA
+1273,6.4,2002.0,Action,The Sum of All Fears,94825.0,USA
+1274,6.4,2002.0,Drama,The Sum of All Fears,94825.0,USA
+1275,6.4,2002.0,Thriller,The Sum of All Fears,94825.0,USA
+1276,6.4,2002.0,War,The Sum of All Fears,94825.0,USA
+1277,6.2,2000.0,Comedy,Cecil B. DeMented,12319.0,USA
+1278,6.2,2000.0,Crime,Cecil B. DeMented,12319.0,USA
+1279,6.2,2000.0,Thriller,Cecil B. DeMented,12319.0,USA
+1280,6.3,2007.0,Action,Resident Evil: Extinction,169232.0,USA
+1281,6.3,2007.0,Horror,Resident Evil: Extinction,169232.0,USA
+1282,6.3,2007.0,Sci-Fi,Resident Evil: Extinction,169232.0,USA
+1283,6.3,2007.0,Thriller,Resident Evil: Extinction,169232.0,USA
+1284,7.4,1948.0,Comedy,A Foreign Affair,5747.0,USA
+1285,7.4,1948.0,Drama,A Foreign Affair,5747.0,USA
+1286,7.4,1948.0,Romance,A Foreign Affair,5747.0,USA
+1287,6.7,2010.0,Crime,Brooklyn's Finest,56889.0,USA
+1288,6.7,2010.0,Drama,Brooklyn's Finest,56889.0,USA
+1289,6.7,2010.0,Thriller,Brooklyn's Finest,56889.0,USA
+1290,4.9,1982.0,Adventure,Paradise,2161.0,USA
+1291,4.9,1982.0,Romance,Paradise,2161.0,USA
+1292,6.7,2000.0,Comedy,The Whole Nine Yards,100128.0,USA
+1293,6.7,2000.0,Crime,The Whole Nine Yards,100128.0,USA
+1294,9.2,1972.0,Crime,The Godfather,1378041.0,USA
+1295,9.2,1972.0,Drama,The Godfather,1378041.0,USA
+1296,5.1,1987.0,Comedy,Like Father Like Son,5068.0,USA
+1297,5.1,1987.0,Fantasy,Like Father Like Son,5068.0,USA
+1298,5.5,2017.0,Action,Jailbreak,755.0,USA
+1299,5.5,2017.0,Comedy,Jailbreak,755.0,USA
+1306,5.5,2008.0,Drama,The Day the Earth Stood Still,152488.0,USA
+1307,5.5,2008.0,Sci-Fi,The Day the Earth Stood Still,152488.0,USA
+1308,5.5,2008.0,Thriller,The Day the Earth Stood Still,152488.0,USA
+1309,5.6,1995.0,Action,Johnny Mnemonic,60961.0,USA
+1310,5.6,1995.0,Crime,Johnny Mnemonic,60961.0,USA
+1311,5.6,1995.0,Sci-Fi,Johnny Mnemonic,60961.0,USA
+1312,5.6,1995.0,Thriller,Johnny Mnemonic,60961.0,USA
+1313,7.7,1984.0,Comedy,Sjecas li se Dolly Bell?,4976.0,USA
+1314,7.7,1984.0,Drama,Sjecas li se Dolly Bell?,4976.0,USA
+1315,7.7,1984.0,Romance,Sjecas li se Dolly Bell?,4976.0,USA
+1324,6.2,2007.0,Action,Rush Hour 3,137069.0,USA
+1325,6.2,2007.0,Comedy,Rush Hour 3,137069.0,USA
+1326,6.2,2007.0,Crime,Rush Hour 3,137069.0,USA
+1327,6.2,2007.0,Thriller,Rush Hour 3,137069.0,USA
+1328,6.1,1996.0,Comedy,The Cable Guy,137393.0,USA
+1329,6.1,1996.0,Drama,The Cable Guy,137393.0,USA
+1330,6.1,1996.0,Thriller,The Cable Guy,137393.0,USA
+1331,8.0,1963.0,Comedy,Charade,57714.0,USA
+1332,8.0,1963.0,Mystery,Charade,57714.0,USA
+1333,8.0,1963.0,Romance,Charade,57714.0,USA
+1334,8.0,1963.0,Thriller,Charade,57714.0,USA
+1335,6.5,1976.0,Action,Charlie's Angels,8370.0,1976–1981
+1336,6.5,1976.0,Adventure,Charlie's Angels,8370.0,1976–1981
+1337,6.5,1976.0,Crime,Charlie's Angels,8370.0,1976–1981
+1338,6.5,1976.0,Drama,Charlie's Angels,8370.0,1976–1981
+1339,6.5,1976.0,Mystery,Charlie's Angels,8370.0,1976–1981
+1346,6.0,1972.0,Horror,The Last House on the Left,28838.0,USA
+1347,6.0,1972.0,Thriller,The Last House on the Left,28838.0,USA
+1348,8.9,1980.0,Adventure,Ko to tamo peva,11939.0,Yugoslavia
+1349,8.9,1980.0,Comedy,Ko to tamo peva,11939.0,Yugoslavia
+1350,8.9,1980.0,Drama,Ko to tamo peva,11939.0,Yugoslavia
+1351,8.9,1980.0,War,Ko to tamo peva,11939.0,Yugoslavia
+1352,5.4,2011.0,Action,Season of the Witch,83791.0,USA
+1353,5.4,2011.0,Adventure,Season of the Witch,83791.0,USA
+1354,5.4,2011.0,Fantasy,Season of the Witch,83791.0,USA
+1355,5.9,1989.0,Comedy,Dream a Little Dream,5542.0,USA
+1356,5.9,1989.0,Drama,Dream a Little Dream,5542.0,USA
+1357,5.9,1989.0,Romance,Dream a Little Dream,5542.0,USA
+1358,5.5,1996.0,Comedy,The Preacher's Wife,9889.0,USA
+1359,5.5,1996.0,Drama,The Preacher's Wife,9889.0,USA
+1360,5.5,1996.0,Fantasy,The Preacher's Wife,9889.0,USA
+1361,5.5,1996.0,Romance,The Preacher's Wife,9889.0,USA
+1362,4.2,2018.0,Action,Reprisal,2456.0,USA
+1363,4.2,2018.0,Crime,Reprisal,2456.0,USA
+1364,4.2,2018.0,Thriller,Reprisal,2456.0,USA
+1365,7.7,2004.0,Action,Man on Fire,298976.0,USA
+1366,7.7,2004.0,Crime,Man on Fire,298976.0,USA
+1367,7.7,2004.0,Drama,Man on Fire,298976.0,USA
+1368,7.7,2004.0,Thriller,Man on Fire,298976.0,USA
+1369,7.3,2001.0,Drama,Chocolat,164925.0,USA
+1370,7.3,2001.0,Romance,Chocolat,164925.0,USA
+1371,4.8,2015.0,Drama,Dark,1774.0,USA
+1372,4.8,2015.0,Thriller,Dark,1774.0,USA
+1373,2.8,1992.0,Crime,Dance Macabre,265.0,USA
+1374,2.8,1992.0,Horror,Dance Macabre,265.0,USA
+1375,2.8,1992.0,Thriller,Dance Macabre,265.0,USA
+1376,6.1,2018.0,Action,Mile 22,17421.0,USA
+1377,6.1,2018.0,Adventure,Mile 22,17421.0,USA
+1378,6.1,2018.0,Crime,Mile 22,17421.0,USA
+1379,6.1,2018.0,Thriller,Mile 22,17421.0,USA
+1386,8.4,1986.0,Action,Aliens,580243.0,USA
+1387,8.4,1986.0,Adventure,Aliens,580243.0,USA
+1388,8.4,1986.0,Sci-Fi,Aliens,580243.0,USA
+1389,8.4,1986.0,Thriller,Aliens,580243.0,USA
+1390,5.2,2017.0,Action,Gong fu yu jia,6799.0,China
+1391,5.2,2017.0,Adventure,Gong fu yu jia,6799.0,China
+1392,5.2,2017.0,Comedy,Gong fu yu jia,6799.0,China
+1393,5.2,2017.0,Fantasy,Gong fu yu jia,6799.0,China
+1394,5.2,2017.0,Mystery,Gong fu yu jia,6799.0,China
+1395,7.1,1990.0,Action,Die Hard 2,303511.0,USA
+1396,7.1,1990.0,Thriller,Die Hard 2,303511.0,USA
+1397,6.1,2018.0,Action,Hotel Artemis,16624.0,USA
+1398,6.1,2018.0,Crime,Hotel Artemis,16624.0,USA
+1399,6.1,2018.0,Drama,Hotel Artemis,16624.0,USA
+1400,6.1,2018.0,Sci-Fi,Hotel Artemis,16624.0,USA
+1401,6.1,2018.0,Thriller,Hotel Artemis,16624.0,USA
+1402,7.4,1989.0,Crime,Drugstore Cowboy,28698.0,USA
+1403,7.4,1989.0,Drama,Drugstore Cowboy,28698.0,USA
+1404,7.6,2004.0,Comedy,Zivot je cudo,11160.0,France
+1405,7.6,2004.0,Romance,Zivot je cudo,11160.0,France
+1406,7.6,2004.0,Music,Zivot je cudo,11160.0,France
+1407,7.6,2004.0,Drama,Zivot je cudo,11160.0,France
+1408,7.6,2004.0,War,Zivot je cudo,11160.0,France
+1409,9.0,1982.0,Comedy,Maratonci trce pocasni krug,12497.0,Yugoslavia
+1410,9.0,1982.0,Drama,Maratonci trce pocasni krug,12497.0,Yugoslavia
+1411,6.6,1999.0,Action,The 13th Warrior,108897.0,USA
+1412,6.6,1999.0,Adventure,The 13th Warrior,108897.0,USA
+1413,6.6,1999.0,History,The 13th Warrior,108897.0,USA
+1414,6.4,1977.0,Crime,CHiPs,6283.0,1977–1983
+1415,6.4,1977.0,Drama,CHiPs,6283.0,1977–1983
+1416,6.4,1977.0,Mystery,CHiPs,6283.0,1977–1983
+1417,6.8,1992.0,Crime,South Central,4226.0,USA
+1418,6.8,1992.0,Drama,South Central,4226.0,USA
+1419,6.7,2013.0,Action,2 Guns,177092.0,USA
+1420,6.7,2013.0,Comedy,2 Guns,177092.0,USA
+1421,6.7,2013.0,Crime,2 Guns,177092.0,USA
+1422,6.7,2013.0,Thriller,2 Guns,177092.0,USA
+1423,6.7,2014.0,Action,The Hunger Games: Mockingjay - Part 1,364855.0,USA
+1424,6.7,2014.0,Adventure,The Hunger Games: Mockingjay - Part 1,364855.0,USA
+1425,6.7,2014.0,Sci-Fi,The Hunger Games: Mockingjay - Part 1,364855.0,USA
+1426,6.7,2014.0,Thriller,The Hunger Games: Mockingjay - Part 1,364855.0,USA
+1427,7.5,1991.0,Comedy,Trust,8181.0,UK
+1428,7.5,1991.0,Drama,Trust,8181.0,UK
+1429,7.6,2001.0,Horror,The Others,305772.0,USA
+1430,7.6,2001.0,Mystery,The Others,305772.0,USA
+1431,7.6,2001.0,Thriller,The Others,305772.0,USA
+1432,7.2,2012.0,Adventure,The Hunger Games,777455.0,USA
+1433,7.2,2012.0,Sci-Fi,The Hunger Games,777455.0,USA
+1434,7.2,2012.0,Thriller,The Hunger Games,777455.0,USA
+1435,6.1,2012.0,Action,Snow White and the Huntsman,253333.0,USA
+1436,6.1,2012.0,Adventure,Snow White and the Huntsman,253333.0,USA
+1437,6.1,2012.0,Drama,Snow White and the Huntsman,253333.0,USA
+1438,6.1,2012.0,Fantasy,Snow White and the Huntsman,253333.0,USA
+1439,6.1,1990.0,Drama,Stella,2119.0,USA
+1440,6.1,1990.0,Romance,Stella,2119.0,USA
+1441,8.2,1951.0,Drama,Ace in the Hole,23349.0,USA
+1442,8.2,1951.0,Film-Noir,Ace in the Hole,23349.0,USA
+1443,7.4,1987.0,Comedy,Raising Arizona,113093.0,USA
+1444,7.4,1987.0,Crime,Raising Arizona,113093.0,USA
+1445,6.0,2018.0,Horror,The Cleaning Lady,115.0,USA
+1446,6.0,2018.0,Thriller,The Cleaning Lady,115.0,USA
+1447,7.4,2000.0,Drama,The Cider House Rules,86405.0,USA
+1448,7.4,2000.0,Romance,The Cider House Rules,86405.0,USA
+1449,5.0,2016.0,Adventure,Army of One,5380.0,Singapore
+1450,5.0,2016.0,Biography,Army of One,5380.0,Singapore
+1451,5.0,2016.0,Comedy,Army of One,5380.0,Singapore
+1458,6.3,1995.0,Action,Nick of Time,35905.0,USA
+1459,6.3,1995.0,Crime,Nick of Time,35905.0,USA
+1460,6.3,1995.0,Drama,Nick of Time,35905.0,USA
+1461,6.3,1995.0,Thriller,Nick of Time,35905.0,USA
+1462,7.0,1997.0,Comedy,Gridlock'd,13348.0,USA
+1463,7.0,1997.0,Crime,Gridlock'd,13348.0,USA
+1464,7.0,1997.0,Drama,Gridlock'd,13348.0,USA
+1465,7.3,2001.0,Biography,Before Night Falls,22399.0,USA
+1466,7.3,2001.0,Drama,Before Night Falls,22399.0,USA
+1467,7.3,2001.0,Romance,Before Night Falls,22399.0,USA
+1479,6.2,2007.0,Action,Next,137066.0,USA
+1480,6.2,2007.0,Sci-Fi,Next,137066.0,USA
+1481,6.2,2007.0,Thriller,Next,137066.0,USA
+1482,5.9,2018.0,Comedy,Stella's Last Weekend,123.0,USA
+1483,5.9,2018.0,Romance,Stella's Last Weekend,123.0,USA
+1484,8.0,2003.0,Documentary,Tupac: Resurrection,8477.0,USA
+1485,8.0,2003.0,Biography,Tupac: Resurrection,8477.0,USA
+1486,8.0,2003.0,Music,Tupac: Resurrection,8477.0,USA
+1493,3.2,2013.0,Horror,Huff,311.0,USA
+1494,3.2,2013.0,Thriller,Huff,311.0,USA
+1495,5.3,2018.0,Drama,Our House,1764.0,USA
+1496,5.3,2018.0,Horror,Our House,1764.0,USA
+1497,5.3,2018.0,Thriller,Our House,1764.0,USA
+1498,4.0,2018.0,Horror,The Toybox,693.0,USA
+1499,4.0,2018.0,Thriller,The Toybox,693.0,USA
+1500,6.1,2007.0,Short,Return to Supermans,14.0,2007–2008
+1501,6.1,2007.0,Action,Return to Supermans,14.0,2007–2008
+1502,6.1,2007.0,Comedy,Return to Supermans,14.0,2007–2008
+1503,7.2,2010.0,Drama,The Ghost Writer,145697.0,USA
+1504,7.2,2010.0,Mystery,The Ghost Writer,145697.0,USA
+1505,7.2,2010.0,Thriller,The Ghost Writer,145697.0,USA
+1506,7.3,1997.0,Adventure,Men in Black,459900.0,USA
+1507,7.3,1997.0,Comedy,Men in Black,459900.0,USA
+1508,7.3,1997.0,Mystery,Men in Black,459900.0,USA
+1509,7.3,1997.0,Sci-Fi,Men in Black,459900.0,USA
+1510,7.0,1991.0,Action,The Last Boy Scout,84194.0,USA
+1511,7.0,1991.0,Comedy,The Last Boy Scout,84194.0,USA
+1512,7.0,1991.0,Crime,The Last Boy Scout,84194.0,USA
+1513,7.0,1991.0,Thriller,The Last Boy Scout,84194.0,USA
+1514,6.6,1996.0,Action,Bullet,7140.0,Italy
+1515,6.6,1996.0,Crime,Bullet,7140.0,Italy
+1516,6.6,1996.0,Drama,Bullet,7140.0,Italy
+1517,6.8,1971.0,Mystery,La coda dello scorpione,2010.0,Italy
+1518,6.8,1971.0,Thriller,La coda dello scorpione,2010.0,Italy
+1519,5.6,1989.0,Fantasy,Etoile,381.0,Italy
+1520,5.6,1989.0,Romance,Etoile,381.0,Italy
+1521,5.6,1989.0,Thriller,Etoile,381.0,Italy
+1522,6.9,2017.0,Drama,Koi to uso,117.0,Japan
+1523,6.9,2017.0,Romance,Koi to uso,117.0,Japan
+1524,6.9,2014.0,Crime,Joe,41778.0,USA
+1525,6.9,2014.0,Drama,Joe,41778.0,USA
+1526,6.8,2002.0,Documentary,Biggie and Tupac,4125.0,UK
+1527,6.8,2002.0,Biography,Biggie and Tupac,4125.0,UK
+1528,6.8,2002.0,Crime,Biggie and Tupac,4125.0,UK
+1529,6.8,2002.0,Music,Biggie and Tupac,4125.0,UK
+1530,7.8,1993.0,Crime,A Bronx Tale,112749.0,USA
+1531,7.8,1993.0,Drama,A Bronx Tale,112749.0,USA
+1532,6.3,1985.0,Comedy,The Heavenly Kid,3632.0,USA
+1533,6.3,1985.0,Fantasy,The Heavenly Kid,3632.0,USA
+1534,6.3,1985.0,Romance,The Heavenly Kid,3632.0,USA
+1535,7.0,1975.0,Action,Starsky and Hutch,6056.0,1975–1979
+1536,7.0,1975.0,Crime,Starsky and Hutch,6056.0,1975–1979
+1537,7.0,1975.0,Drama,Starsky and Hutch,6056.0,1975–1979
+1538,7.0,1975.0,Mystery,Starsky and Hutch,6056.0,1975–1979
+1539,6.8,1983.0,Action,Qi mou miao ji: Wu fu xing,3751.0,Hong Kong
+1540,6.8,1983.0,Comedy,Qi mou miao ji: Wu fu xing,3751.0,Hong Kong
+1541,6.8,1983.0,Crime,Qi mou miao ji: Wu fu xing,3751.0,Hong Kong
+1542,5.8,1986.0,Comedy,Touch and Go,725.0,USA
+1543,5.8,1986.0,Drama,Touch and Go,725.0,USA
+1544,5.8,1986.0,Romance,Touch and Go,725.0,USA
+1545,5.8,1986.0,Sport,Touch and Go,725.0,USA
+1546,7.5,2011.0,Mystery,Source Code,438937.0,USA
+1547,7.5,2011.0,Romance,Source Code,438937.0,USA
+1548,7.5,2011.0,Sci-Fi,Source Code,438937.0,USA
+1549,7.5,2011.0,Thriller,Source Code,438937.0,USA
+1550,7.1,1957.0,Comedy,Funny Face,22769.0,USA
+1551,7.1,1957.0,Musical,Funny Face,22769.0,USA
+1552,7.1,1957.0,Romance,Funny Face,22769.0,USA
+1553,7.9,2004.0,Drama,The Notebook,456916.0,USA
+1554,7.9,2004.0,Romance,The Notebook,456916.0,USA
+1561,7.4,2002.0,Drama,A Walk to Remember,183507.0,USA
+1562,7.4,2002.0,Romance,A Walk to Remember,183507.0,USA
+1563,8.0,1944.0,Comedy,Arsenic and Old Lace,60155.0,USA
+1564,8.0,1944.0,Crime,Arsenic and Old Lace,60155.0,USA
+1565,8.0,1944.0,Thriller,Arsenic and Old Lace,60155.0,USA
+1566,5.7,1980.0,Adventure,The Blue Lagoon,56835.0,USA
+1567,5.7,1980.0,Drama,The Blue Lagoon,56835.0,USA
+1568,5.7,1980.0,Romance,The Blue Lagoon,56835.0,USA
+1569,7.6,2001.0,Drama,Enemy at the Gates,217492.0,USA
+1570,7.6,2001.0,History,Enemy at the Gates,217492.0,USA
+1571,7.6,2001.0,War,Enemy at the Gates,217492.0,USA
+1572,5.6,1991.0,Fantasy,The Boneyard,860.0,USA
+1573,5.6,1991.0,Horror,The Boneyard,860.0,USA
+1584,7.8,2000.0,Adventure,"O Brother, Where Art Thou?",255422.0,USA
+1585,7.8,2000.0,Comedy,"O Brother, Where Art Thou?",255422.0,USA
+1586,7.8,2000.0,Crime,"O Brother, Where Art Thou?",255422.0,USA
+1587,7.8,2000.0,Music,"O Brother, Where Art Thou?",255422.0,USA
+1588,7.7,1991.0,Comedy,Barton Fink,101161.0,USA
+1589,7.7,1991.0,Drama,Barton Fink,101161.0,USA
+1590,7.7,1991.0,Thriller,Barton Fink,101161.0,USA
+1591,6.0,1988.0,Action,Above the Law,25525.0,USA
+1592,6.0,1988.0,Crime,Above the Law,25525.0,USA
+1593,6.0,1988.0,Drama,Above the Law,25525.0,USA
+1594,6.0,1988.0,Mystery,Above the Law,25525.0,USA
+1595,6.0,1988.0,Thriller,Above the Law,25525.0,USA
+1596,6.4,2009.0,Action,The Taking of Pelham 123,168202.0,USA
+1597,6.4,2009.0,Crime,The Taking of Pelham 123,168202.0,USA
+1598,6.4,2009.0,Thriller,The Taking of Pelham 123,168202.0,USA
+1599,5.3,2000.0,Crime,The Watcher,23901.0,USA
+1600,5.3,2000.0,Horror,The Watcher,23901.0,USA
+1601,5.3,2000.0,Mystery,The Watcher,23901.0,USA
+1602,5.3,2000.0,Thriller,The Watcher,23901.0,USA
+1603,6.3,2013.0,Drama,American Mary,19821.0,UK
+1604,6.3,2013.0,Horror,American Mary,19821.0,UK
+1605,8.3,2009.0,Adventure,Inglourious Basterds,1071894.0,USA
+1606,8.3,2009.0,Drama,Inglourious Basterds,1071894.0,USA
+1607,8.3,2009.0,War,Inglourious Basterds,1071894.0,USA
+1608,7.3,1993.0,Biography,This Boy's Life,41218.0,USA
+1609,7.3,1993.0,Drama,This Boy's Life,41218.0,USA
+1610,5.5,1978.0,Drama,A Distant Thunder,251.0,USA
+1611,5.5,1978.0,Sci-Fi,A Distant Thunder,251.0,USA
+1612,6.8,1987.0,Comedy,Overboard,45262.0,USA
+1613,6.8,1987.0,Romance,Overboard,45262.0,USA
+1614,7.4,2011.0,Comedy,"Crazy, Stupid, Love.",425812.0,USA
+1615,7.4,2011.0,Drama,"Crazy, Stupid, Love.",425812.0,USA
+1616,7.4,2011.0,Romance,"Crazy, Stupid, Love.",425812.0,USA
+1623,6.5,1985.0,Action,Long de xin,3419.0,Hong Kong
+1624,6.5,1985.0,Comedy,Long de xin,3419.0,Hong Kong
+1625,6.5,1985.0,Crime,Long de xin,3419.0,Hong Kong
+1626,6.5,1985.0,Drama,Long de xin,3419.0,Hong Kong
+1627,6.5,1985.0,Thriller,Long de xin,3419.0,Hong Kong
+1628,7.7,1979.0,Adventure,The World's Greatest SuperFriends,474.0,1979– 
+1629,7.7,1979.0,Animation,The World's Greatest SuperFriends,474.0,1979– 
+1642,5.9,1987.0,Comedy,Dragnet,28671.0,USA
+1643,5.9,1987.0,Crime,Dragnet,28671.0,USA
+1644,7.6,1990.0,Drama,The Phantom of the Opera,1336.0,1990– 
+1645,7.6,1990.0,Music,The Phantom of the Opera,1336.0,1990– 
+1646,7.6,1990.0,Mystery,The Phantom of the Opera,1336.0,1990– 
+1647,7.6,1990.0,Romance,The Phantom of the Opera,1336.0,1990– 
+1648,7.6,1990.0,Thriller,The Phantom of the Opera,1336.0,1990– 
+1649,7.4,2011.0,Action,Mission: Impossible - Ghost Protocol,414407.0,USA
+1650,7.4,2011.0,Adventure,Mission: Impossible - Ghost Protocol,414407.0,USA
+1651,7.4,2011.0,Thriller,Mission: Impossible - Ghost Protocol,414407.0,USA
+1652,6.7,2018.0,Action,Mandy,21395.0,USA
+1653,6.7,2018.0,Horror,Mandy,21395.0,USA
+1654,6.7,2018.0,Thriller,Mandy,21395.0,USA
+1655,5.9,2010.0,Action,Resident Evil: Afterlife,149623.0,USA
+1656,5.9,2010.0,Adventure,Resident Evil: Afterlife,149623.0,USA
+1657,5.9,2010.0,Horror,Resident Evil: Afterlife,149623.0,USA
+1658,5.9,2010.0,Sci-Fi,Resident Evil: Afterlife,149623.0,USA
+1659,7.0,1973.0,Horror,Cosa avete fatto a Solange?,3546.0,USA
+1660,7.0,1973.0,Mystery,Cosa avete fatto a Solange?,3546.0,USA
+1661,7.0,1973.0,Thriller,Cosa avete fatto a Solange?,3546.0,USA
+1662,5.8,1986.0,Drama,Violets Are Blue...,705.0,USA
+1663,5.8,1986.0,Romance,Violets Are Blue...,705.0,USA
+1664,7.3,1979.0,Drama,Tess,13089.0,USA
+1665,7.3,1979.0,Romance,Tess,13089.0,USA
+1666,6.3,1981.0,Horror,Years of the Beast,145.0,USA
+1667,6.3,1981.0,Sci-Fi,Years of the Beast,145.0,USA
+1668,8.3,1989.0,Action,Indiana Jones and the Last Crusade,609373.0,USA
+1669,8.3,1989.0,Adventure,Indiana Jones and the Last Crusade,609373.0,USA
+1670,8.3,1989.0,Fantasy,Indiana Jones and the Last Crusade,609373.0,USA
+1671,3.7,2018.0,Horror,3,118.0,USA
+1672,3.7,2018.0,Mystery,3,118.0,USA
+1673,3.7,2018.0,Thriller,3,118.0,USA
+1674,7.5,1980.0,Animation,Super Friends,937.0,1980–1983
+1675,7.5,1980.0,Adventure,Super Friends,937.0,1980–1983
+1676,7.5,1980.0,Sci-Fi,Super Friends,937.0,1980–1983
+1682,4.1,2018.0,Comedy,Ahockalypse,102.0,USA
+1683,4.1,2018.0,Horror,Ahockalypse,102.0,USA
+1684,6.8,1994.0,Animation,Iron Man,2351.0,1994–1996
+1685,6.8,1994.0,Action,Iron Man,2351.0,1994–1996
+1686,6.8,1994.0,Adventure,Iron Man,2351.0,1994–1996
+1687,6.8,1994.0,Sci-Fi,Iron Man,2351.0,1994–1996
+1688,7.7,2018.0,Biography,BlacKkKlansman,45299.0,USA
+1689,7.7,2018.0,Comedy,BlacKkKlansman,45299.0,USA
+1690,7.7,2018.0,Crime,BlacKkKlansman,45299.0,USA
+1691,7.7,2018.0,Drama,BlacKkKlansman,45299.0,USA
+1692,6.7,1994.0,Adventure,Wyatt Earp,40364.0,USA
+1693,6.7,1994.0,Biography,Wyatt Earp,40364.0,USA
+1694,6.7,1994.0,Crime,Wyatt Earp,40364.0,USA
+1695,6.7,1994.0,Drama,Wyatt Earp,40364.0,USA
+1696,6.7,1994.0,Western,Wyatt Earp,40364.0,USA
+1697,2.0,1985.0,Action,Final Justice,2892.0,USA
+1698,2.0,1985.0,Crime,Final Justice,2892.0,USA
+1699,2.0,1985.0,Drama,Final Justice,2892.0,USA
+1712,5.3,2015.0,Action,12 Rounds 3: Lockdown,3101.0,USA
+1713,5.3,2015.0,Crime,12 Rounds 3: Lockdown,3101.0,USA
+1714,5.3,2015.0,Thriller,12 Rounds 3: Lockdown,3101.0,USA
+1715,7.0,2008.0,Action,Hellboy II: The Golden Army,232816.0,USA
+1716,7.0,2008.0,Adventure,Hellboy II: The Golden Army,232816.0,USA
+1717,7.0,2008.0,Fantasy,Hellboy II: The Golden Army,232816.0,USA
+1718,7.0,2008.0,Horror,Hellboy II: The Golden Army,232816.0,USA
+1719,7.0,2008.0,Sci-Fi,Hellboy II: The Golden Army,232816.0,USA
+1720,8.1,1953.0,Comedy,Roman Holiday,114556.0,USA
+1721,8.1,1953.0,Romance,Roman Holiday,114556.0,USA
+1722,7.6,1995.0,Action,Die Hard with a Vengeance,332039.0,USA
+1723,7.6,1995.0,Adventure,Die Hard with a Vengeance,332039.0,USA
+1724,7.6,1995.0,Thriller,Die Hard with a Vengeance,332039.0,USA
+1725,7.3,1998.0,Comedy,Henry Fool,6425.0,USA
+1726,7.3,1998.0,Drama,Henry Fool,6425.0,USA
+1727,5.4,2018.0,Comedy,Puppet Master: The Littlest Reich,1500.0,USA
+1728,5.4,2018.0,Horror,Puppet Master: The Littlest Reich,1500.0,USA
+1729,5.7,1988.0,Comedy,18 Again!,3779.0,USA
+1730,5.7,1988.0,Fantasy,18 Again!,3779.0,USA
+1731,5.7,1988.0,Romance,18 Again!,3779.0,USA
+1732,5.6,2018.0,Action,Final Score,3214.0,USA
+1733,5.6,2018.0,Thriller,Final Score,3214.0,USA
+1734,6.8,2010.0,Action,Unstoppable,168253.0,USA
+1735,6.8,2010.0,Thriller,Unstoppable,168253.0,USA
+1736,7.8,1951.0,Drama,The Day the Earth Stood Still,70734.0,Brazil
+1737,7.8,1951.0,Sci-Fi,The Day the Earth Stood Still,70734.0,Brazil
+1738,7.1,1970.0,Adventure,The Private Life of Sherlock Holmes,8987.0,USA
+1739,7.1,1970.0,Comedy,The Private Life of Sherlock Holmes,8987.0,USA
+1740,7.1,1970.0,Crime,The Private Life of Sherlock Holmes,8987.0,USA
+1741,7.1,1970.0,Mystery,The Private Life of Sherlock Holmes,8987.0,USA
+1742,7.1,1970.0,Romance,The Private Life of Sherlock Holmes,8987.0,USA
+1743,7.1,1970.0,Thriller,The Private Life of Sherlock Holmes,8987.0,USA
+1744,7.8,1997.0,Biography,Donnie Brasco,249845.0,USA
+1745,7.8,1997.0,Crime,Donnie Brasco,249845.0,USA
+1746,7.8,1997.0,Drama,Donnie Brasco,249845.0,USA
+1752,8.0,1940.0,Comedy,The Philadelphia Story,56765.0,USA
+1753,8.0,1940.0,Romance,The Philadelphia Story,56765.0,USA
+1754,8.3,1992.0,Crime,Reservoir Dogs,791231.0,France
+1755,8.3,1992.0,Drama,Reservoir Dogs,791231.0,France
+1756,8.3,1992.0,Thriller,Reservoir Dogs,791231.0,France
+1757,4.0,2017.0,Action,Executor,52.0,USA
+1758,4.0,2017.0,Drama,Executor,52.0,USA
+1759,7.2,1989.0,Action,Lethal Weapon 2,144898.0,USA
+1760,7.2,1989.0,Crime,Lethal Weapon 2,144898.0,USA
+1761,7.2,1989.0,Thriller,Lethal Weapon 2,144898.0,USA
+1762,7.4,1999.0,Crime,The Talented Mr. Ripley,157002.0,USA
+1763,7.4,1999.0,Drama,The Talented Mr. Ripley,157002.0,USA
+1764,7.4,1999.0,Thriller,The Talented Mr. Ripley,157002.0,USA
+1771,5.4,2018.0,Comedy,Age of Summer,170.0,USA
+1772,5.4,2018.0,Drama,Age of Summer,170.0,USA
+1773,5.4,2018.0,Romance,Age of Summer,170.0,USA
+1774,6.2,1978.0,Animation,The Fantastic Four,606.0,1978
+1775,6.2,1978.0,Sci-Fi,The Fantastic Four,606.0,1978
+1776,6.4,1972.0,Mystery,Sette orchidee macchiate di rosso,1485.0,Italy
+1777,6.4,1972.0,Thriller,Sette orchidee macchiate di rosso,1485.0,Italy
+1778,5.6,2005.0,Drama,Dark Water,55592.0,USA
+1779,5.6,2005.0,Horror,Dark Water,55592.0,USA
+1780,5.6,2005.0,Thriller,Dark Water,55592.0,USA
+1781,3.9,2014.0,Horror,The Last Seven,1766.0,UK
+1782,3.9,2014.0,Mystery,The Last Seven,1766.0,UK
+1783,3.9,2014.0,Thriller,The Last Seven,1766.0,UK
+1784,8.2,1995.0,Crime,Heat,506493.0,USA
+1785,8.2,1995.0,Drama,Heat,506493.0,USA
+1786,8.2,1995.0,Thriller,Heat,506493.0,USA
+1793,7.3,1996.0,Comedy,Jerry Maguire,216090.0,USA
+1794,7.3,1996.0,Drama,Jerry Maguire,216090.0,USA
+1795,7.3,1996.0,Romance,Jerry Maguire,216090.0,USA
+1796,7.3,1996.0,Sport,Jerry Maguire,216090.0,USA
+1797,7.3,2013.0,Crime,Now You See Me,534979.0,USA
+1798,7.3,2013.0,Mystery,Now You See Me,534979.0,USA
+1799,7.3,2013.0,Thriller,Now You See Me,534979.0,USA
+1806,5.5,1987.0,Fantasy,Maid to Order,2949.0,USA
+1807,5.5,1987.0,Comedy,Maid to Order,2949.0,USA
+1813,5.7,2010.0,Comedy,Once More with Feeling,188.0,USA
+1814,5.7,2010.0,Drama,Once More with Feeling,188.0,USA
+1821,7.1,2002.0,Horror,The Ring,290290.0,USA
+1822,7.1,2002.0,Mystery,The Ring,290290.0,USA
+1841,6.3,2008.0,Action,Outlander,67984.0,Latvia
+1842,6.3,2008.0,Adventure,Outlander,67984.0,Latvia
+1843,6.3,2008.0,Sci-Fi,Outlander,67984.0,Latvia
+1844,4.9,2017.0,Drama,Jieyou zahuodian,214.0,China
+1845,4.9,2017.0,Fantasy,Jieyou zahuodian,214.0,China
+1846,4.2,2011.0,Comedy,Blood Hook,760.0,USA
+1847,4.2,2011.0,Horror,Blood Hook,760.0,USA
+1848,7.8,2000.0,Adventure,Cast Away,456902.0,USA
+1849,7.8,2000.0,Drama,Cast Away,456902.0,USA
+1850,7.8,2000.0,Romance,Cast Away,456902.0,USA
+1856,5.4,2018.0,Comedy,Sorry for Your Loss,68.0,Canada
+1857,5.4,2018.0,Drama,Sorry for Your Loss,68.0,Canada
+1863,6.2,2018.0,Action,UFO,4003.0,USA
+1864,6.2,2018.0,Sci-Fi,UFO,4003.0,USA
+1865,6.2,2018.0,Thriller,UFO,4003.0,USA
+1866,7.6,2011.0,Adventure,127 Hours,314767.0,USA
+1867,7.6,2011.0,Biography,127 Hours,314767.0,USA
+1868,7.6,2011.0,Drama,127 Hours,314767.0,USA
+1869,7.6,2011.0,Thriller,127 Hours,314767.0,USA
+1870,6.3,2010.0,Action,Knight and Day,165888.0,USA
+1871,6.3,2010.0,Adventure,Knight and Day,165888.0,USA
+1872,6.3,2010.0,Comedy,Knight and Day,165888.0,USA
+1873,6.3,2010.0,Thriller,Knight and Day,165888.0,USA
+1874,8.8,2010.0,Drama,Les Misérables in Concert: The 25th Anniversary,4360.0,UK
+1875,8.8,2010.0,Music,Les Misérables in Concert: The 25th Anniversary,4360.0,UK
+1876,8.8,2010.0,Musical,Les Misérables in Concert: The 25th Anniversary,4360.0,UK
+1877,7.1,2015.0,Drama,The Longest Ride,67344.0,USA
+1878,7.1,2015.0,Romance,The Longest Ride,67344.0,USA
+1879,5.2,2017.0,Drama,Inconceivable,6270.0,USA
+1880,5.2,2017.0,Thriller,Inconceivable,6270.0,USA
+1881,7.2,1987.0,Action,'A' gai wak 2,7737.0,Hong Kong
+1882,7.2,1987.0,Comedy,'A' gai wak 2,7737.0,Hong Kong
+1883,7.2,1987.0,Crime,'A' gai wak 2,7737.0,Hong Kong
+1884,6.6,2018.0,Drama,Disobedience,12699.0,USA
+1885,6.6,2018.0,Romance,Disobedience,12699.0,USA
+1886,4.2,1991.0,Comedy,Mannequin: On the Move,5129.0,USA
+1887,4.2,1991.0,Fantasy,Mannequin: On the Move,5129.0,USA
+1888,6.7,2007.0,Crime,Reservation Road,20545.0,Germany
+1889,6.7,2007.0,Drama,Reservation Road,20545.0,Germany
+1890,6.7,2007.0,Thriller,Reservation Road,20545.0,Germany
+1891,6.7,2008.0,Crime,Ang lihim ni Antonio,309.0,Philippines
+1892,6.7,2008.0,Drama,Ang lihim ni Antonio,309.0,Philippines
+1893,5.1,1991.0,Adventure,Return to the Blue Lagoon,16177.0,USA
+1894,5.1,1991.0,Drama,Return to the Blue Lagoon,16177.0,USA
+1895,5.1,1991.0,Romance,Return to the Blue Lagoon,16177.0,USA
+1896,2.1,2014.0,Drama,United Passions,3779.0,Serbia
+1897,2.1,2014.0,History,United Passions,3779.0,Serbia
+1898,2.1,2014.0,Sport,United Passions,3779.0,Serbia
+1899,5.0,1997.0,Action,Fire Down Below,15236.0,USA
+1900,5.0,1997.0,Drama,Fire Down Below,15236.0,USA
+1901,5.0,1997.0,Thriller,Fire Down Below,15236.0,USA
+1902,6.3,2017.0,Animation,Resident Evil: Vendetta,8058.0,Japan
+1903,6.3,2017.0,Action,Resident Evil: Vendetta,8058.0,Japan
+1904,6.3,2017.0,Adventure,Resident Evil: Vendetta,8058.0,Japan
+1905,6.3,2017.0,Horror,Resident Evil: Vendetta,8058.0,Japan
+1906,6.3,2017.0,Mystery,Resident Evil: Vendetta,8058.0,Japan
+1907,6.3,2017.0,Sci-Fi,Resident Evil: Vendetta,8058.0,Japan
+1908,6.4,1975.0,Action,Zhong guo chao ren,1573.0,USA
+1909,6.4,1975.0,Sci-Fi,Zhong guo chao ren,1573.0,USA
+1910,7.6,1967.0,Comedy,Two for the Road,10544.0,Japan
+1911,7.6,1967.0,Drama,Two for the Road,10544.0,Japan
+1912,7.6,1967.0,Romance,Two for the Road,10544.0,Japan
+1913,6.8,1966.0,Animation,Iron Man,742.0,1966– 
+1914,6.8,1966.0,Action,Iron Man,742.0,1966– 
+1915,6.8,1966.0,Sci-Fi,Iron Man,742.0,1966– 
+1916,4.8,2008.0,Adventure,Virgin Territory,7085.0,France
+1917,4.8,2008.0,Comedy,Virgin Territory,7085.0,France
+1918,4.8,2008.0,History,Virgin Territory,7085.0,France
+1919,4.8,2008.0,Romance,Virgin Territory,7085.0,France
+1920,5.6,1980.0,Comedy,Tendres cousines,1327.0,USA
+1921,5.6,1980.0,Drama,Tendres cousines,1327.0,USA
+1922,5.6,1980.0,Romance,Tendres cousines,1327.0,USA
+1923,6.3,1989.0,Comedy,Staying Together,674.0,USA
+1924,6.3,1989.0,Drama,Staying Together,674.0,USA
+1925,6.6,2008.0,Drama,Fireproof,19143.0,USA
+1926,6.6,2008.0,Romance,Fireproof,19143.0,USA
+1927,7.3,1999.0,Comedy,10 Things I Hate About You,260253.0,USA
+1928,7.3,1999.0,Drama,10 Things I Hate About You,260253.0,USA
+1929,7.3,1999.0,Romance,10 Things I Hate About You,260253.0,USA
+1930,7.6,2007.0,Action,Grindhouse,166988.0,USA
+1931,7.6,2007.0,Horror,Grindhouse,166988.0,USA
+1932,7.6,2007.0,Thriller,Grindhouse,166988.0,USA
+1933,7.4,2008.0,Documentary,Berlin,625.0,UK
+1934,7.4,2008.0,Music,Berlin,625.0,UK
+1941,5.3,1988.0,Action,Watchers,3556.0,USA
+1942,5.3,1988.0,Horror,Watchers,3556.0,USA
+1943,5.3,1988.0,Sci-Fi,Watchers,3556.0,USA
+1944,5.3,1988.0,Thriller,Watchers,3556.0,USA
+1945,5.6,1994.0,Action,Drop Zone,17538.0,USA
+1946,5.6,1994.0,Adventure,Drop Zone,17538.0,USA
+1947,5.6,1994.0,Thriller,Drop Zone,17538.0,USA
+1959,6.6,1985.0,Comedy,Mischief,4718.0,USA
+1960,6.6,1985.0,Romance,Mischief,4718.0,USA
+1961,6.6,1982.0,Action,Lung siu yeh,2892.0,Hong Kong
+1962,6.6,1982.0,Comedy,Lung siu yeh,2892.0,Hong Kong
+1963,6.6,1982.0,Sport,Lung siu yeh,2892.0,Hong Kong
+1969,4.9,2018.0,Drama,Cruise,325.0,USA
+1970,4.9,2018.0,Romance,Cruise,325.0,USA
+1977,6.7,2000.0,Comedy,The Family Man,94617.0,USA
+1978,6.7,2000.0,Drama,The Family Man,94617.0,USA
+1979,6.7,2000.0,Fantasy,The Family Man,94617.0,USA
+1980,6.7,2000.0,Romance,The Family Man,94617.0,USA
+1989,5.6,2004.0,Action,Alexander,151519.0,USA
+1990,5.6,2004.0,Adventure,Alexander,151519.0,USA
+1991,5.6,2004.0,Biography,Alexander,151519.0,USA
+1992,5.6,2004.0,Drama,Alexander,151519.0,USA
+1993,5.6,2004.0,History,Alexander,151519.0,USA
+1994,5.6,2004.0,Romance,Alexander,151519.0,USA
+1995,5.6,2004.0,War,Alexander,151519.0,USA
+1996,2.2,1965.0,Adventure,Eegah,5142.0,Mexico
+1997,2.2,1965.0,Comedy,Eegah,5142.0,Mexico
+1998,2.2,1965.0,Fantasy,Eegah,5142.0,Mexico
+1999,2.2,1965.0,Music,Eegah,5142.0,Mexico
+2000,7.1,2013.0,Drama,The Sweet Shop,58.0,UK
+2001,7.1,2013.0,Music,The Sweet Shop,58.0,UK
+2002,7.1,2013.0,Romance,The Sweet Shop,58.0,UK
+2003,6.4,2017.0,Action,Ghost in the Shell,162887.0,USA
+2004,6.4,2017.0,Drama,Ghost in the Shell,162887.0,USA
+2005,6.4,2017.0,Sci-Fi,Ghost in the Shell,162887.0,USA
+2006,6.4,2017.0,Thriller,Ghost in the Shell,162887.0,USA
+2007,7.2,2018.0,Action,Sicario: Day of the Soldado,61786.0,USA
+2008,7.2,2018.0,Crime,Sicario: Day of the Soldado,61786.0,USA
+2009,7.2,2018.0,Drama,Sicario: Day of the Soldado,61786.0,USA
+2010,7.2,2018.0,Thriller,Sicario: Day of the Soldado,61786.0,USA
+2011,7.6,1994.0,Action,Jui kuen II,38994.0,USA
+2012,7.6,1994.0,Comedy,Jui kuen II,38994.0,USA
+2013,4.6,2007.0,Action,Skinwalkers,12352.0,USA
+2014,4.6,2007.0,Fantasy,Skinwalkers,12352.0,USA
+2015,4.6,2007.0,Horror,Skinwalkers,12352.0,USA
+2016,4.6,2007.0,Thriller,Skinwalkers,12352.0,USA
+2017,6.4,2017.0,Drama,Whispers,8069.0,USA
+2018,6.4,2017.0,Horror,Whispers,8069.0,USA
+2019,6.4,2017.0,Thriller,Whispers,8069.0,USA
+2020,5.0,2018.0,Drama,Live,94.0,USA
+2021,5.0,2018.0,Horror,Live,94.0,USA
+2022,5.0,2018.0,Thriller,Live,94.0,USA
+2023,7.6,2018.0,Action,Ready Player One,236106.0,USA
+2024,7.6,2018.0,Adventure,Ready Player One,236106.0,USA
+2025,7.6,2018.0,Sci-Fi,Ready Player One,236106.0,USA
+2026,6.6,1994.0,Crime,Above the Rim,12198.0,USA
+2027,6.6,1994.0,Drama,Above the Rim,12198.0,USA
+2028,6.6,1994.0,Sport,Above the Rim,12198.0,USA
+2029,6.6,1994.0,Thriller,Above the Rim,12198.0,USA
+2030,7.6,1978.0,Action,Zui quan,30745.0,Hong Kong
+2031,7.6,1978.0,Comedy,Zui quan,30745.0,Hong Kong
+2043,5.7,2016.0,Action,Allegiant,88982.0,USA
+2044,5.7,2016.0,Adventure,Allegiant,88982.0,USA
+2045,5.7,2016.0,Mystery,Allegiant,88982.0,USA
+2046,5.7,2016.0,Sci-Fi,Allegiant,88982.0,USA
+2047,5.7,2016.0,Thriller,Allegiant,88982.0,USA
+2048,5.7,2018.0,Sci-Fi,Elizabeth Harvest,1263.0,Poland
+2049,5.7,2018.0,Thriller,Elizabeth Harvest,1263.0,Poland
+2050,5.8,2006.0,Crime,Firewall,53104.0,USA
+2051,5.8,2006.0,Thriller,Firewall,53104.0,USA
+2052,6.4,2018.0,Action,Tomb Raider,135412.0,USA
+2053,6.4,2018.0,Adventure,Tomb Raider,135412.0,USA
+2054,6.4,2018.0,Fantasy,Tomb Raider,135412.0,USA
+2055,6.4,2018.0,Thriller,Tomb Raider,135412.0,USA
+2056,7.6,1956.0,Action,Forbidden Planet,39898.0,France
+2057,7.6,1956.0,Adventure,Forbidden Planet,39898.0,France
+2058,7.6,1956.0,Sci-Fi,Forbidden Planet,39898.0,France
+2059,7.6,1956.0,Thriller,Forbidden Planet,39898.0,France
+2060,8.1,1940.0,Comedy,The Shop Around the Corner,23377.0,USA
+2061,8.1,1940.0,Drama,The Shop Around the Corner,23377.0,USA
+2062,8.1,1940.0,Romance,The Shop Around the Corner,23377.0,USA
+2063,5.6,2013.0,Action,Machete Kills,67815.0,USA
+2064,5.6,2013.0,Crime,Machete Kills,67815.0,USA
+2065,5.6,2013.0,Sci-Fi,Machete Kills,67815.0,USA
+2066,5.6,2013.0,Thriller,Machete Kills,67815.0,USA
+2067,6.9,1979.0,Action,Buck Rogers in the 25th Century,6189.0,1979–1981
+2068,6.9,1979.0,Adventure,Buck Rogers in the 25th Century,6189.0,1979–1981
+2069,6.9,1979.0,Sci-Fi,Buck Rogers in the 25th Century,6189.0,1979–1981
+2070,6.9,2004.0,Action,Hellboy,276461.0,USA
+2071,6.9,2004.0,Fantasy,Hellboy,276461.0,USA
+2072,6.9,2004.0,Horror,Hellboy,276461.0,USA
+2073,6.9,2004.0,Sci-Fi,Hellboy,276461.0,USA
+2074,5.6,2002.0,Comedy,The Banger Sisters,13543.0,USA
+2075,5.6,2002.0,Drama,The Banger Sisters,13543.0,USA
+2076,6.9,2018.0,Action,The Equalizer 2,36883.0,USA
+2077,6.9,2018.0,Crime,The Equalizer 2,36883.0,USA
+2078,6.9,2018.0,Thriller,The Equalizer 2,36883.0,USA
+2079,8.3,1944.0,Crime,Double Indemnity,121544.0,USA
+2080,8.3,1944.0,Drama,Double Indemnity,121544.0,USA
+2081,8.3,1944.0,Film-Noir,Double Indemnity,121544.0,USA
+2082,8.3,1944.0,Mystery,Double Indemnity,121544.0,USA
+2083,8.3,1944.0,Thriller,Double Indemnity,121544.0,USA
+2090,6.7,2013.0,Drama,Safe Haven,93383.0,USA
+2091,6.7,2013.0,Romance,Safe Haven,93383.0,USA
+2092,6.7,2013.0,Thriller,Safe Haven,93383.0,USA
+2093,5.9,2009.0,Comedy,Una semana solos,325.0,Argentina
+2094,5.9,2009.0,Drama,Una semana solos,325.0,Argentina
+2095,4.1,2017.0,Action,Jeepers Creepers 3,13275.0,Mexico
+2096,4.1,2017.0,Horror,Jeepers Creepers 3,13275.0,Mexico
+2097,4.1,2017.0,Mystery,Jeepers Creepers 3,13275.0,Mexico
+2098,4.1,2017.0,Thriller,Jeepers Creepers 3,13275.0,Mexico
+2099,7.1,1999.0,Action,Payback,122313.0,USA
+2100,7.1,1999.0,Crime,Payback,122313.0,USA
+2101,7.1,1999.0,Drama,Payback,122313.0,USA
+2102,7.1,1999.0,Thriller,Payback,122313.0,USA
+2117,8.4,2018.0,Action,Mard Ko Dard Nahin Hota,79.0,India
+2118,8.4,2018.0,Comedy,Mard Ko Dard Nahin Hota,79.0,India
+2119,5.4,2005.0,Horror,The Ring Two,83142.0,USA
+2120,5.4,2005.0,Mystery,The Ring Two,83142.0,USA
+2121,5.4,2005.0,Thriller,The Ring Two,83142.0,USA
+2122,6.4,1995.0,Action,Pik lik foh,7222.0,Hong Kong
+2123,6.4,1995.0,Comedy,Pik lik foh,7222.0,Hong Kong
+2124,6.4,1995.0,Drama,Pik lik foh,7222.0,Hong Kong
+2125,6.4,1995.0,Thriller,Pik lik foh,7222.0,Hong Kong
+2126,6.2,1984.0,Horror,Sole Survivor,994.0,USA
+2127,6.2,1984.0,Thriller,Sole Survivor,994.0,USA
+2128,6.3,1989.0,Comedy,Shag,3406.0,USA
+2129,6.3,1989.0,Drama,Shag,3406.0,USA
+2130,6.3,1989.0,Romance,Shag,3406.0,USA
+2131,6.6,1998.0,Action,Lethal Weapon 4,140509.0,USA
+2132,6.6,1998.0,Crime,Lethal Weapon 4,140509.0,USA
+2133,6.6,1998.0,Thriller,Lethal Weapon 4,140509.0,USA
+2134,6.8,1995.0,Action,Bad Boys,199472.0,USA
+2135,6.8,1995.0,Comedy,Bad Boys,199472.0,USA
+2136,6.8,1995.0,Crime,Bad Boys,199472.0,USA
+2137,6.8,1995.0,Drama,Bad Boys,199472.0,USA
+2138,6.8,1995.0,Thriller,Bad Boys,199472.0,USA
+2139,7.6,1962.0,Drama,Nóz w wodzie,17186.0,USA
+2140,7.6,1962.0,Thriller,Nóz w wodzie,17186.0,USA
+2141,7.9,1950.0,Crime,The Asphalt Jungle,20783.0,USA
+2142,7.9,1950.0,Drama,The Asphalt Jungle,20783.0,USA
+2143,7.9,1950.0,Film-Noir,The Asphalt Jungle,20783.0,USA
+2144,7.9,1950.0,Thriller,The Asphalt Jungle,20783.0,USA
+2145,6.4,1958.0,Horror,The Blob,19450.0,USA
+2146,6.4,1958.0,Sci-Fi,The Blob,19450.0,USA
+2152,8.1,1998.0,Comedy,"Crna macka, beli macor",45877.0,Federal Republic of Yugoslavia
+2153,8.1,1998.0,Crime,"Crna macka, beli macor",45877.0,Federal Republic of Yugoslavia
+2154,8.1,1998.0,Romance,"Crna macka, beli macor",45877.0,Federal Republic of Yugoslavia
+2155,6.2,2014.0,Drama,Grace Unplugged,2903.0,Portugal
+2156,6.2,2014.0,Music,Grace Unplugged,2903.0,Portugal
+2157,7.7,1995.0,Drama,Dead Man,81469.0,USA
+2158,7.7,1995.0,Fantasy,Dead Man,81469.0,USA
+2159,7.7,1995.0,Western,Dead Man,81469.0,USA
+2160,4.9,1970.0,Horror,Akuma ga yondeiru,10.0,Japan
+2161,4.9,1970.0,Mystery,Akuma ga yondeiru,10.0,Japan
+2162,4.9,1970.0,Thriller,Akuma ga yondeiru,10.0,Japan
+2163,7.1,2018.0,Comedy,Sorry to Bother You,16775.0,USA
+2164,7.1,2018.0,Fantasy,Sorry to Bother You,16775.0,USA
+2165,7.1,2018.0,Sci-Fi,Sorry to Bother You,16775.0,USA
+2166,7.0,1994.0,Comedy,Amateur,5025.0,USA
+2167,7.0,1994.0,Crime,Amateur,5025.0,USA
+2168,7.0,1994.0,Drama,Amateur,5025.0,USA
+2169,7.0,1994.0,Thriller,Amateur,5025.0,USA
+2190,5.9,1980.0,Adventure,Cannibal Holocaust,44871.0,Italy
+2191,5.9,1980.0,Horror,Cannibal Holocaust,44871.0,Italy
+2192,7.6,1995.0,Adventure,Apollo 13,237983.0,USA
+2193,7.6,1995.0,Drama,Apollo 13,237983.0,USA
+2194,7.6,1995.0,History,Apollo 13,237983.0,USA
+2195,5.3,2014.0,Action,Wolves,6996.0,Belarus
+2196,5.3,2014.0,Fantasy,Wolves,6996.0,Belarus
+2197,5.3,2014.0,Horror,Wolves,6996.0,Belarus
+2198,5.3,2014.0,Thriller,Wolves,6996.0,Belarus
+2199,5.1,2015.0,Action,American Heist,15178.0,USA
+2200,5.1,2015.0,Crime,American Heist,15178.0,USA
+2201,5.1,2015.0,Drama,American Heist,15178.0,USA
+2202,5.1,2015.0,Thriller,American Heist,15178.0,USA
+2203,5.2,1980.0,Comedy,"Oh, God! Book II",1896.0,USA
+2204,5.2,1980.0,Fantasy,"Oh, God! Book II",1896.0,USA
+2211,4.1,2015.0,Action,Supergirl V: Deadly Seduction,8.0,USA
+2212,4.1,2015.0,Sci-Fi,Supergirl V: Deadly Seduction,8.0,USA
+2218,6.8,1993.0,Drama,The Firm,102185.0,USA
+2219,6.8,1993.0,Mystery,The Firm,102185.0,USA
+2220,6.8,1993.0,Thriller,The Firm,102185.0,USA
+2221,6.0,1997.0,Action,The Postman,62739.0,USA
+2222,6.0,1997.0,Adventure,The Postman,62739.0,USA
+2223,6.0,1997.0,Drama,The Postman,62739.0,USA
+2224,6.0,1997.0,Sci-Fi,The Postman,62739.0,USA
+2225,7.6,2018.0,Comedy,Blindspotting,3767.0,USA
+2226,7.6,2018.0,Crime,Blindspotting,3767.0,USA
+2227,7.6,2018.0,Drama,Blindspotting,3767.0,USA
+2228,6.1,2000.0,Action,Mission: Impossible II,280833.0,USA
+2229,6.1,2000.0,Adventure,Mission: Impossible II,280833.0,USA
+2230,6.1,2000.0,Thriller,Mission: Impossible II,280833.0,USA
+2231,7.6,2004.0,Crime,House of Sand and Fog,60823.0,USA
+2232,7.6,2004.0,Drama,House of Sand and Fog,60823.0,USA
+2238,7.1,2002.0,Action,Paid in Full,8976.0,USA
+2239,7.1,2002.0,Crime,Paid in Full,8976.0,USA
+2240,7.1,2002.0,Drama,Paid in Full,8976.0,USA
+2247,7.4,1983.0,Action,'A' gai wak,12652.0,Hong Kong
+2248,7.4,1983.0,Comedy,'A' gai wak,12652.0,Hong Kong
+2255,8.6,2018.0,Action,Avengers: Infinity War,514801.0,USA
+2256,8.6,2018.0,Adventure,Avengers: Infinity War,514801.0,USA
+2257,8.6,2018.0,Fantasy,Avengers: Infinity War,514801.0,USA
+2258,8.6,2018.0,Sci-Fi,Avengers: Infinity War,514801.0,USA
+2259,7.7,2002.0,Action,Minority Report,455811.0,USA
+2260,7.7,2002.0,Adventure,Minority Report,455811.0,USA
+2261,7.7,2002.0,Crime,Minority Report,455811.0,USA
+2262,7.7,2002.0,Drama,Minority Report,455811.0,USA
+2263,7.7,2002.0,Mystery,Minority Report,455811.0,USA
+2264,7.7,2002.0,Sci-Fi,Minority Report,455811.0,USA
+2265,7.7,2002.0,Thriller,Minority Report,455811.0,USA
+2266,7.0,2017.0,Documentary,Terror in the Woods,116.0,2017– 
+2267,7.0,2017.0,Horror,Terror in the Woods,116.0,2017– 
+2268,6.4,1997.0,Action,The Jackal,97225.0,USA
+2269,6.4,1997.0,Crime,The Jackal,97225.0,USA
+2270,6.4,1997.0,Drama,The Jackal,97225.0,USA
+2271,6.4,1997.0,Thriller,The Jackal,97225.0,USA
+2272,7.2,1955.0,Comedy,The Seven Year Itch,29815.0,UK
+2273,7.2,1955.0,Romance,The Seven Year Itch,29815.0,UK
+2274,7.0,1953.0,Comedy,How to Marry a Millionaire,18118.0,USA
+2275,7.0,1953.0,Drama,How to Marry a Millionaire,18118.0,USA
+2276,7.0,1953.0,Romance,How to Marry a Millionaire,18118.0,USA
+2277,8.5,1991.0,Action,Terminator 2: Judgment Day,872323.0,USA
+2278,8.5,1991.0,Sci-Fi,Terminator 2: Judgment Day,872323.0,USA
+2279,5.9,2011.0,Action,Xin hai ge ming,5412.0,China
+2280,5.9,2011.0,Adventure,Xin hai ge ming,5412.0,China
+2281,5.9,2011.0,Drama,Xin hai ge ming,5412.0,China
+2282,5.9,2011.0,History,Xin hai ge ming,5412.0,China
+2283,5.9,2011.0,War,Xin hai ge ming,5412.0,China
+2284,6.4,2007.0,Crime,The Number 23,181046.0,USA
+2285,6.4,2007.0,Drama,The Number 23,181046.0,USA
+2286,6.4,2007.0,Horror,The Number 23,181046.0,USA
+2287,6.4,2007.0,Mystery,The Number 23,181046.0,USA
+2288,6.4,2007.0,Thriller,The Number 23,181046.0,USA
+2295,7.6,2013.0,Short,Venom: Truth in Journalism,529.0,USA
+2296,7.6,2013.0,Comedy,Venom: Truth in Journalism,529.0,USA
+2297,7.6,2013.0,Crime,Venom: Truth in Journalism,529.0,USA
+2298,7.6,2013.0,Drama,Venom: Truth in Journalism,529.0,USA
+2299,7.6,2013.0,Sci-Fi,Venom: Truth in Journalism,529.0,USA
+2300,7.2,1932.0,Fantasy,The Mummy,19850.0,USA
+2301,7.2,1932.0,Horror,The Mummy,19850.0,USA
+2302,6.3,1993.0,Action,Last Action Hero,120852.0,USA
+2303,6.3,1993.0,Adventure,Last Action Hero,120852.0,USA
+2304,6.3,1993.0,Comedy,Last Action Hero,120852.0,USA
+2305,6.3,1993.0,Fantasy,Last Action Hero,120852.0,USA
+2306,7.8,2008.0,Action,Taken,527982.0,USA
+2307,7.8,2008.0,Crime,Taken,527982.0,USA
+2308,7.8,2008.0,Thriller,Taken,527982.0,USA
+2309,8.3,1989.0,Comedy,Dom za vesanje,21500.0,USA
+2310,8.3,1989.0,Crime,Dom za vesanje,21500.0,USA
+2311,8.3,1989.0,Drama,Dom za vesanje,21500.0,USA
+2312,8.3,1989.0,Fantasy,Dom za vesanje,21500.0,USA
+2313,8.2,1942.0,Comedy,To Be or Not to Be,22401.0,USA
+2314,8.2,1942.0,War,To Be or Not to Be,22401.0,USA
+2315,6.5,2005.0,Action,Mr. & Mrs. Smith,402103.0,USA
+2316,6.5,2005.0,Comedy,Mr. & Mrs. Smith,402103.0,USA
+2317,6.5,2005.0,Crime,Mr. & Mrs. Smith,402103.0,USA
+2318,6.5,2005.0,Thriller,Mr. & Mrs. Smith,402103.0,USA
+2319,4.9,1973.0,Drama,A Thief in the Night,575.0,USA
+2320,4.9,1973.0,Fantasy,A Thief in the Night,575.0,USA
+2321,4.9,1973.0,Horror,A Thief in the Night,575.0,USA
+2322,6.8,1983.0,Comedy,Risky Business,71351.0,USA
+2323,6.8,1983.0,Crime,Risky Business,71351.0,USA
+2324,6.8,1983.0,Drama,Risky Business,71351.0,USA
+2325,6.8,1983.0,Romance,Risky Business,71351.0,USA
+2326,6.7,1997.0,Action,Conspiracy Theory,85171.0,USA
+2327,6.7,1997.0,Mystery,Conspiracy Theory,85171.0,USA
+2328,6.7,1997.0,Thriller,Conspiracy Theory,85171.0,USA
+2329,6.5,1994.0,Comedy,There Goes My Baby,947.0,USA
+2330,6.5,1994.0,Drama,There Goes My Baby,947.0,USA
+2348,6.2,1985.0,Action,Gotcha!,6096.0,USA
+2349,6.2,1985.0,Comedy,Gotcha!,6096.0,USA
+2350,6.2,1985.0,Mystery,Gotcha!,6096.0,USA
+2351,6.2,1985.0,Romance,Gotcha!,6096.0,USA
+2352,6.0,1971.0,Animation,Gojira tai Hedora,3491.0,USA
+2353,6.0,1971.0,Action,Gojira tai Hedora,3491.0,USA
+2354,6.0,1971.0,Adventure,Gojira tai Hedora,3491.0,USA
+2355,6.0,1971.0,Horror,Gojira tai Hedora,3491.0,USA
+2356,6.0,1971.0,Music,Gojira tai Hedora,3491.0,USA
+2357,6.0,1971.0,Sci-Fi,Gojira tai Hedora,3491.0,USA
+2358,7.7,2003.0,Action,The Last Samurai,359624.0,USA
+2359,7.7,2003.0,Drama,The Last Samurai,359624.0,USA
+2360,7.7,2003.0,History,The Last Samurai,359624.0,USA
+2361,7.7,2003.0,War,The Last Samurai,359624.0,USA
+2362,6.6,1972.0,Mystery,La morte cammina con i tacchi alti,1113.0,Spain
+2363,6.6,1972.0,Thriller,La morte cammina con i tacchi alti,1113.0,Spain
+2364,5.1,2000.0,Drama,Tribulation,769.0,USA
+2365,5.1,2000.0,Sci-Fi,Tribulation,769.0,USA
+2366,5.1,2000.0,Thriller,Tribulation,769.0,USA
+2367,6.1,2012.0,Drama,Excision,18412.0,UK
+2368,6.1,2012.0,Horror,Excision,18412.0,UK
+2369,5.6,2000.0,Comedy,Drowning Mona,12483.0,USA
+2370,5.6,2000.0,Crime,Drowning Mona,12483.0,USA
+2371,5.6,2000.0,Mystery,Drowning Mona,12483.0,USA
+2384,4.9,2017.0,Comedy,Pool Party Massacre,220.0,USA
+2385,4.9,2017.0,Horror,Pool Party Massacre,220.0,USA
+2386,6.8,2007.0,Drama,1408,236440.0,USA
+2387,6.8,2007.0,Horror,1408,236440.0,USA
+2388,6.5,1964.0,Action,Mosura tai Gojira,5806.0,USA
+2389,6.5,1964.0,Adventure,Mosura tai Gojira,5806.0,USA
+2390,6.5,1964.0,Fantasy,Mosura tai Gojira,5806.0,USA
+2391,6.5,1964.0,Sci-Fi,Mosura tai Gojira,5806.0,USA
+2402,5.8,1988.0,Comedy,Punchline,7236.0,USA
+2403,5.8,1988.0,Drama,Punchline,7236.0,USA
+2404,5.8,1988.0,Romance,Punchline,7236.0,USA
+2405,6.7,2003.0,Drama,May,30113.0,Denmark
+2406,6.7,2003.0,Horror,May,30113.0,Denmark
+2407,5.6,1984.0,Action,Angel,2107.0,USA
+2408,5.6,1984.0,Crime,Angel,2107.0,USA
+2409,5.6,1984.0,Thriller,Angel,2107.0,USA
+2410,5.4,1994.0,Comedy,Lightning Jack,5840.0,USA
+2411,5.4,1994.0,Western,Lightning Jack,5840.0,USA
+2412,8.5,1960.0,Horror,Psycho,512941.0,USA
+2413,8.5,1960.0,Mystery,Psycho,512941.0,USA
+2414,8.5,1960.0,Thriller,Psycho,512941.0,USA
+2415,7.9,2014.0,Crime,Nightcrawler,383831.0,USA
+2416,7.9,2014.0,Drama,Nightcrawler,383831.0,USA
+2417,7.9,2014.0,Thriller,Nightcrawler,383831.0,USA
+2418,6.8,1996.0,Action,Set It Off,12061.0,USA
+2419,6.8,1996.0,Crime,Set It Off,12061.0,USA
+2420,6.8,1996.0,Drama,Set It Off,12061.0,USA
+2421,6.8,1996.0,Romance,Set It Off,12061.0,USA
+2422,6.8,1996.0,Thriller,Set It Off,12061.0,USA
+2423,8.2,2013.0,Biography,The Wolf of Wall Street,983162.0,USA
+2424,8.2,2013.0,Comedy,The Wolf of Wall Street,983162.0,USA
+2425,8.2,2013.0,Crime,The Wolf of Wall Street,983162.0,USA
+2426,8.2,2013.0,Drama,The Wolf of Wall Street,983162.0,USA
+2427,4.7,1990.0,Action,Terminator II,873.0,Italy
+2428,4.7,1990.0,Horror,Terminator II,873.0,Italy
+2429,4.7,1990.0,Sci-Fi,Terminator II,873.0,Italy
+2430,6.5,1991.0,Action,Toy Soldiers,17879.0,USA
+2431,6.5,1991.0,Drama,Toy Soldiers,17879.0,USA
+2432,6.5,1991.0,Thriller,Toy Soldiers,17879.0,USA
+2439,5.2,2002.0,Action,Left Behind II: Tribulation Force,3369.0,USA
+2440,5.2,2002.0,Drama,Left Behind II: Tribulation Force,3369.0,USA
+2441,5.2,2002.0,Fantasy,Left Behind II: Tribulation Force,3369.0,USA
+2442,5.2,2002.0,Sci-Fi,Left Behind II: Tribulation Force,3369.0,USA
+2443,5.2,2002.0,Thriller,Left Behind II: Tribulation Force,3369.0,USA
+2444,6.9,1992.0,Action,Ging chaat goo si III: Chiu kup ging chaat,17064.0,USA
+2445,6.9,1992.0,Comedy,Ging chaat goo si III: Chiu kup ging chaat,17064.0,USA
+2446,6.9,1992.0,Crime,Ging chaat goo si III: Chiu kup ging chaat,17064.0,USA
+2447,6.9,1992.0,Thriller,Ging chaat goo si III: Chiu kup ging chaat,17064.0,USA
+2448,5.3,2005.0,Action,The Girl from Monday,923.0,USA
+2449,5.3,2005.0,Comedy,The Girl from Monday,923.0,USA
+2450,5.3,2005.0,Sci-Fi,The Girl from Monday,923.0,USA
+2457,7.3,1980.0,Action,Shi di chu ma,5602.0,Hong Kong
+2458,7.3,1980.0,Adventure,Shi di chu ma,5602.0,Hong Kong
+2459,7.3,1980.0,Comedy,Shi di chu ma,5602.0,Hong Kong
+2460,6.6,1953.0,Horror,It Came from Outer Space,7154.0,USA
+2461,6.6,1953.0,Sci-Fi,It Came from Outer Space,7154.0,USA
+2462,7.7,2013.0,Drama,Gravity,680859.0,USA
+2463,7.7,2013.0,Sci-Fi,Gravity,680859.0,USA
+2464,7.7,2013.0,Thriller,Gravity,680859.0,USA
+2465,6.9,1995.0,Action,Gojira vs. Desutoroiâ,4371.0,Japan
+2466,6.9,1995.0,Horror,Gojira vs. Desutoroiâ,4371.0,Japan
+2467,6.9,1995.0,Sci-Fi,Gojira vs. Desutoroiâ,4371.0,Japan
+2468,7.9,1933.0,Adventure,King Kong,72014.0,USA
+2469,7.9,1933.0,Horror,King Kong,72014.0,USA
+2470,7.9,1933.0,Sci-Fi,King Kong,72014.0,USA
+2477,7.0,1990.0,Biography,Henry: Portrait of a Serial Killer,27278.0,USA
+2478,7.0,1990.0,Crime,Henry: Portrait of a Serial Killer,27278.0,USA
+2479,7.0,1990.0,Drama,Henry: Portrait of a Serial Killer,27278.0,USA
+2480,7.0,1990.0,Horror,Henry: Portrait of a Serial Killer,27278.0,USA
+2481,7.0,1990.0,Thriller,Henry: Portrait of a Serial Killer,27278.0,USA
+2482,7.1,1978.0,Action,Battlestar Galactica,11939.0,1978–1979
+2483,7.1,1978.0,Adventure,Battlestar Galactica,11939.0,1978–1979
+2484,7.1,1978.0,Sci-Fi,Battlestar Galactica,11939.0,1978–1979
+2485,2.9,2015.0,Action,Checkmate,909.0,USA
+2486,2.9,2015.0,Crime,Checkmate,909.0,USA
+2487,2.9,2015.0,Thriller,Checkmate,909.0,USA
+2488,6.6,1995.0,Biography,Total Eclipse,11983.0,USA
+2489,6.6,1995.0,Drama,Total Eclipse,11983.0,USA
+2490,6.6,1995.0,Romance,Total Eclipse,11983.0,USA
+2491,6.8,1995.0,Comedy,Now and Then,23678.0,USA
+2492,6.8,1995.0,Drama,Now and Then,23678.0,USA
+2493,6.8,1995.0,Romance,Now and Then,23678.0,USA
+2494,6.7,1998.0,Action,The Mask of Zorro,152340.0,USA
+2495,6.7,1998.0,Adventure,The Mask of Zorro,152340.0,USA
+2496,6.7,1998.0,Comedy,The Mask of Zorro,152340.0,USA
+2497,6.7,1998.0,Romance,The Mask of Zorro,152340.0,USA
+2498,6.7,1998.0,Thriller,The Mask of Zorro,152340.0,USA
+2499,6.7,1998.0,Western,The Mask of Zorro,152340.0,USA
+2500,6.9,2012.0,Drama,"Hot Boy Noi Loan va Cau Chuyen ve Thang Cuoi, Co Gai Diem va Con Vit",618.0,Taiwan
+2501,6.9,2012.0,Romance,"Hot Boy Noi Loan va Cau Chuyen ve Thang Cuoi, Co Gai Diem va Con Vit",618.0,Taiwan
+2508,3.8,2016.0,Adventure,ISRA 88,764.0,USA
+2509,3.8,2016.0,Mystery,ISRA 88,764.0,USA
+2510,3.8,2016.0,Sci-Fi,ISRA 88,764.0,USA
+2511,3.8,2016.0,Thriller,ISRA 88,764.0,USA
+2512,4.8,1983.0,Comedy,Spring Break,2238.0,USA
+2513,4.8,1983.0,Romance,Spring Break,2238.0,USA
+2514,5.5,1998.0,Crime,Body Count,1648.0,USA
+2515,5.5,1998.0,Drama,Body Count,1648.0,USA
+2516,5.5,1998.0,Thriller,Body Count,1648.0,USA
+2517,8.1,1998.0,Comedy,The Truman Show,803750.0,USA
+2518,8.1,1998.0,Drama,The Truman Show,803750.0,USA
+2519,8.1,1998.0,Sci-Fi,The Truman Show,803750.0,USA
+2520,4.9,2016.0,Drama,Deserted,344.0,Japan
+2521,4.9,2016.0,Thriller,Deserted,344.0,Japan
+2522,6.5,1987.0,Comedy,Hiding Out,2754.0,USA
+2523,6.5,1987.0,Drama,Hiding Out,2754.0,USA
+2524,6.5,1987.0,Romance,Hiding Out,2754.0,USA
+2525,6.5,1987.0,Thriller,Hiding Out,2754.0,USA
+2531,5.8,1987.0,Comedy,Date with an Angel,2271.0,USA
+2532,5.8,1987.0,Fantasy,Date with an Angel,2271.0,USA
+2533,5.8,1987.0,Romance,Date with an Angel,2271.0,USA
+2534,5.2,2008.0,Drama,Twilight,382174.0,USA
+2535,5.2,2008.0,Fantasy,Twilight,382174.0,USA
+2536,5.2,2008.0,Romance,Twilight,382174.0,USA
+2537,6.4,2013.0,Crime,Chained,14608.0,South Korea
+2538,6.4,2013.0,Drama,Chained,14608.0,South Korea
+2539,6.4,2013.0,Horror,Chained,14608.0,South Korea
+2540,6.4,2013.0,Thriller,Chained,14608.0,South Korea
+2541,8.8,2017.0,Action,12 Rounds,10.0,Mexico
+2542,8.8,2017.0,Drama,12 Rounds,10.0,Mexico
+2543,8.8,2017.0,Romance,12 Rounds,10.0,Mexico
+2544,8.8,2017.0,Sport,12 Rounds,10.0,Mexico
+2545,7.1,2014.0,Drama,Bitten,13961.0,2014–2016
+2546,7.1,2014.0,Fantasy,Bitten,13961.0,2014–2016
+2547,7.1,2014.0,Horror,Bitten,13961.0,2014–2016
+2548,7.1,2014.0,Mystery,Bitten,13961.0,2014–2016
+2549,5.7,2012.0,Comedy,A Few Best Men,11805.0,Australia
+2550,5.7,2012.0,Romance,A Few Best Men,11805.0,Australia
+2551,5.6,2018.0,Comedy,Reach,108.0,USA
+2552,5.6,2018.0,Drama,Reach,108.0,USA
+2553,7.5,2013.0,Action,The Hunger Games: Catching Fire,560387.0,USA
+2554,7.5,2013.0,Adventure,The Hunger Games: Catching Fire,560387.0,USA
+2555,7.5,2013.0,Mystery,The Hunger Games: Catching Fire,560387.0,USA
+2556,7.5,2013.0,Sci-Fi,The Hunger Games: Catching Fire,560387.0,USA
+2557,7.5,2013.0,Thriller,The Hunger Games: Catching Fire,560387.0,USA
+2558,6.6,2016.0,Crime,Purasangre,150.0,Mexico
+2559,6.6,2016.0,Mystery,Purasangre,150.0,Mexico
+2560,6.6,2016.0,Thriller,Purasangre,150.0,Mexico
+2561,6.5,2013.0,Action,Olympus Has Fallen,229334.0,USA
+2562,6.5,2013.0,Thriller,Olympus Has Fallen,229334.0,USA
+2569,7.2,1977.0,Animation,The New Adventures of Batman,835.0,1977–1978
+2570,7.2,1977.0,Action,The New Adventures of Batman,835.0,1977–1978
+2571,7.2,1977.0,Adventure,The New Adventures of Batman,835.0,1977–1978
+2572,7.2,1977.0,Crime,The New Adventures of Batman,835.0,1977–1978
+2573,7.2,1977.0,Sci-Fi,The New Adventures of Batman,835.0,1977–1978
+2574,6.9,1985.0,Horror,Phenomena,19566.0,USA
+2575,6.9,1985.0,Mystery,Phenomena,19566.0,USA
+2587,6.0,2015.0,Action,Tian jiang xiong shi,15879.0,USA
+2588,6.0,2015.0,Adventure,Tian jiang xiong shi,15879.0,USA
+2589,6.0,2015.0,Drama,Tian jiang xiong shi,15879.0,USA
+2590,6.0,2015.0,History,Tian jiang xiong shi,15879.0,USA
+2591,7.0,1991.0,Comedy,Theory of Achievement,364.0,USA
+2592,7.0,1991.0,Drama,Theory of Achievement,364.0,USA
+2593,7.0,1991.0,Short,Theory of Achievement,364.0,USA
+2594,6.4,2018.0,Drama,Apostle,14583.0,USA
+2595,6.4,2018.0,Fantasy,Apostle,14583.0,USA
+2596,6.4,2018.0,Horror,Apostle,14583.0,USA
+2597,6.4,2018.0,Mystery,Apostle,14583.0,USA
+2598,6.4,2018.0,Thriller,Apostle,14583.0,USA
+2599,5.7,2017.0,Action,The Dark Tower,98901.0,USA
+2600,5.7,2017.0,Adventure,The Dark Tower,98901.0,USA
+2601,5.7,2017.0,Fantasy,The Dark Tower,98901.0,USA
+2602,5.7,2017.0,Horror,The Dark Tower,98901.0,USA
+2603,5.7,2017.0,Sci-Fi,The Dark Tower,98901.0,USA
+2604,5.7,2017.0,Western,The Dark Tower,98901.0,USA
+2605,6.5,2004.0,Action,Gojira: Fainaru uôzu,6245.0,Japan
+2606,6.5,2004.0,Adventure,Gojira: Fainaru uôzu,6245.0,Japan
+2607,6.5,2004.0,Fantasy,Gojira: Fainaru uôzu,6245.0,Japan
+2608,6.5,2004.0,Sci-Fi,Gojira: Fainaru uôzu,6245.0,Japan
+2609,6.5,2004.0,Thriller,Gojira: Fainaru uôzu,6245.0,Japan
+2610,8.0,1922.0,Fantasy,"Nosferatu, eine Symphonie des Grauens",78387.0,USA
+2611,8.0,1922.0,Horror,"Nosferatu, eine Symphonie des Grauens",78387.0,USA
+2612,6.6,2013.0,Action,RED 2,144354.0,USA
+2613,6.6,2013.0,Comedy,RED 2,144354.0,USA
+2614,6.6,2013.0,Crime,RED 2,144354.0,USA
+2615,6.6,2013.0,Thriller,RED 2,144354.0,USA
+2616,7.1,2010.0,Comedy,Easy A,319594.0,USA
+2617,7.1,2010.0,Drama,Easy A,319594.0,USA
+2618,7.1,2010.0,Romance,Easy A,319594.0,USA
+2619,6.8,2014.0,Drama,If I Stay,103347.0,USA
+2620,6.8,2014.0,Fantasy,If I Stay,103347.0,USA
+2621,6.8,2014.0,Music,If I Stay,103347.0,USA
+2622,6.8,2014.0,Romance,If I Stay,103347.0,USA
+2623,7.5,1971.0,Biography,The Tragedy of Macbeth,11126.0,Brazil
+2624,7.5,1971.0,Drama,The Tragedy of Macbeth,11126.0,Brazil
+2625,7.5,1971.0,History,The Tragedy of Macbeth,11126.0,Brazil
+2626,6.2,1996.0,Crime,Mulholland Falls,14370.0,USA
+2627,6.2,1996.0,Drama,Mulholland Falls,14370.0,USA
+2628,6.2,1996.0,Mystery,Mulholland Falls,14370.0,USA
+2629,6.2,1996.0,Thriller,Mulholland Falls,14370.0,USA
+2630,5.6,2011.0,Comedy,Bad Teacher,176924.0,USA
+2631,5.6,2011.0,Romance,Bad Teacher,176924.0,USA
+2632,6.8,2001.0,Drama,Ginger Snaps,37119.0,Canada
+2633,6.8,2001.0,Fantasy,Ginger Snaps,37119.0,Canada
+2634,6.8,2001.0,Horror,Ginger Snaps,37119.0,Canada
+2635,6.2,2004.0,Action,Resident Evil: Apocalypse,171309.0,USA
+2636,6.2,2004.0,Horror,Resident Evil: Apocalypse,171309.0,USA
+2637,6.2,2004.0,Sci-Fi,Resident Evil: Apocalypse,171309.0,USA
+2638,6.2,2004.0,Thriller,Resident Evil: Apocalypse,171309.0,USA
+2645,8.4,2012.0,Action,The Dark Knight Rises,1338272.0,USA
+2646,8.4,2012.0,Thriller,The Dark Knight Rises,1338272.0,USA
+2647,6.1,2018.0,Action,Tang ren jie tan an 2,995.0,USA
+2648,6.1,2018.0,Comedy,Tang ren jie tan an 2,995.0,USA
+2649,6.1,2018.0,Mystery,Tang ren jie tan an 2,995.0,USA
+2650,8.0,1946.0,Drama,The Lost Weekend,29433.0,USA
+2651,8.0,1946.0,Film-Noir,The Lost Weekend,29433.0,USA
+2658,6.7,1995.0,Crime,New Jersey Drive,2483.0,USA
+2659,6.7,1995.0,Drama,New Jersey Drive,2483.0,USA
+2660,8.5,2013.0,Documentary,A Crime to Remember,668.0,2013– 
+2661,8.5,2013.0,Crime,A Crime to Remember,668.0,2013– 
+2662,7.6,2001.0,Crime,The Man Who Wasn't There,95086.0,USA
+2663,7.6,2001.0,Drama,The Man Who Wasn't There,95086.0,USA
+2664,6.1,2016.0,Short,Dark Superman,25.0,USA
+2665,6.1,2016.0,Sci-Fi,Dark Superman,25.0,USA
+2666,5.8,1990.0,Comedy,Joe Versus the Volcano,31189.0,USA
+2667,5.8,1990.0,Romance,Joe Versus the Volcano,31189.0,USA
+2674,5.7,2018.0,Sci-Fi,The Domestics,3275.0,USA
+2675,5.7,2018.0,Thriller,The Domestics,3275.0,USA
+2676,5.1,2017.0,Horror,Mata Batin,460.0,Indonesia
+2677,5.1,2017.0,Thriller,Mata Batin,460.0,Indonesia
+2684,4.8,1985.0,Action,Avenging Angel,961.0,USA
+2685,4.8,1985.0,Crime,Avenging Angel,961.0,USA
+2686,4.8,1985.0,Thriller,Avenging Angel,961.0,USA
+2687,7.3,1973.0,Drama,Don't Look Now,40789.0,USA
+2688,7.3,1973.0,Horror,Don't Look Now,40789.0,USA
+2689,7.3,1973.0,Thriller,Don't Look Now,40789.0,USA
+2690,6.5,2016.0,Action,Now You See Me 2,200665.0,USA
+2691,6.5,2016.0,Adventure,Now You See Me 2,200665.0,USA
+2692,6.5,2016.0,Comedy,Now You See Me 2,200665.0,USA
+2693,6.5,2016.0,Crime,Now You See Me 2,200665.0,USA
+2694,6.5,2016.0,Mystery,Now You See Me 2,200665.0,USA
+2695,6.5,2016.0,Thriller,Now You See Me 2,200665.0,USA
+2696,7.6,1960.0,Adventure,The Time Machine,31855.0,West Germany
+2697,7.6,1960.0,Romance,The Time Machine,31855.0,West Germany
+2698,7.6,1960.0,Sci-Fi,The Time Machine,31855.0,West Germany
+2699,7.6,1960.0,Thriller,The Time Machine,31855.0,West Germany
+2705,6.7,2014.0,Adventure,Divergent,389044.0,USA
+2706,6.7,2014.0,Mystery,Divergent,389044.0,USA
+2707,6.7,2014.0,Sci-Fi,Divergent,389044.0,USA
+2708,5.1,1997.0,Comedy,An American Werewolf in Paris,21141.0,USA
+2709,5.1,1997.0,Fantasy,An American Werewolf in Paris,21141.0,USA
+2710,5.1,1997.0,Horror,An American Werewolf in Paris,21141.0,USA
+2711,5.1,1997.0,Thriller,An American Werewolf in Paris,21141.0,USA
+2712,7.6,2003.0,Comedy,Love Actually,366753.0,USA
+2713,7.6,2003.0,Drama,Love Actually,366753.0,USA
+2714,7.6,2003.0,Romance,Love Actually,366753.0,USA
+2725,8.0,2006.0,Action,Casino Royale,525527.0,USA
+2726,8.0,2006.0,Adventure,Casino Royale,525527.0,USA
+2727,8.0,2006.0,Thriller,Casino Royale,525527.0,USA
+2728,5.3,2013.0,Action,A Good Day to Die Hard,183672.0,USA
+2729,5.3,2013.0,Thriller,A Good Day to Die Hard,183672.0,USA
+2730,8.0,1950.0,Comedy,Harvey,48840.0,USA
+2731,8.0,1950.0,Drama,Harvey,48840.0,USA
+2732,8.0,1950.0,Fantasy,Harvey,48840.0,USA
+2733,6.5,1997.0,Action,Gang Related,7069.0,USA
+2734,6.5,1997.0,Crime,Gang Related,7069.0,USA
+2735,6.5,1997.0,Drama,Gang Related,7069.0,USA
+2736,6.5,1997.0,Romance,Gang Related,7069.0,USA
+2737,6.5,1997.0,Thriller,Gang Related,7069.0,USA
+2738,5.4,2013.0,Action,12 Rounds 2: Reloaded,4684.0,USA
+2739,5.4,2013.0,Adventure,12 Rounds 2: Reloaded,4684.0,USA
+2740,5.4,2013.0,Thriller,12 Rounds 2: Reloaded,4684.0,USA
+2741,6.8,1959.0,Adventure,The Mummy,6728.0,USA
+2742,6.8,1959.0,Horror,The Mummy,6728.0,USA
+2743,6.1,1980.0,Comedy,Private Benjamin,21029.0,USA
+2744,6.1,1980.0,War,Private Benjamin,21029.0,USA
+2745,7.2,2000.0,Action,The Patriot,231272.0,USA
+2746,7.2,2000.0,Drama,The Patriot,231272.0,USA
+2747,7.2,2000.0,History,The Patriot,231272.0,USA
+2748,7.2,2000.0,War,The Patriot,231272.0,USA
+2749,8.2,1995.0,Crime,Casino,398929.0,USA
+2750,8.2,1995.0,Drama,Casino,398929.0,USA
+2751,6.2,2011.0,Comedy,No Strings Attached,191911.0,USA
+2752,6.2,2011.0,Romance,No Strings Attached,191911.0,USA
+2753,7.8,2013.0,Comedy,About Time,248762.0,USA
+2754,7.8,2013.0,Drama,About Time,248762.0,USA
+2755,7.8,2013.0,Fantasy,About Time,248762.0,USA
+2756,7.8,2013.0,Romance,About Time,248762.0,USA
+2757,7.8,2013.0,Sci-Fi,About Time,248762.0,USA
+2758,6.6,2003.0,Action,Tears of the Sun,103878.0,USA
+2759,6.6,2003.0,Drama,Tears of the Sun,103878.0,USA
+2760,6.6,2003.0,Thriller,Tears of the Sun,103878.0,USA
+2761,6.6,2003.0,War,Tears of the Sun,103878.0,USA
+2762,8.1,1934.0,Comedy,It Happened One Night,81680.0,USA
+2763,8.1,1934.0,Romance,It Happened One Night,81680.0,USA
+2764,4.8,2015.0,Action,Vendetta,2299.0,USA
+2765,4.8,2015.0,Drama,Vendetta,2299.0,USA
+2766,6.4,1974.0,Action,Gojira tai Mekagojira,4335.0,USA
+2767,6.4,1974.0,Fantasy,Gojira tai Mekagojira,4335.0,USA
+2768,6.4,1974.0,Horror,Gojira tai Mekagojira,4335.0,USA
+2769,6.4,1974.0,Sci-Fi,Gojira tai Mekagojira,4335.0,USA
+2776,5.2,1980.0,Adventure,Mangiati vivi!,3030.0,Italy
+2777,5.2,1980.0,Horror,Mangiati vivi!,3030.0,Italy
+2778,6.7,1993.0,Adventure,Robin Hood: Men in Tights,103511.0,USA
+2779,6.7,1993.0,Comedy,Robin Hood: Men in Tights,103511.0,USA
+2780,6.7,1993.0,Musical,Robin Hood: Men in Tights,103511.0,USA
+2781,6.7,1993.0,Romance,Robin Hood: Men in Tights,103511.0,USA
+2782,5.6,2018.0,Drama,Possum,362.0,UK
+2783,5.6,2018.0,Horror,Possum,362.0,UK
+2784,5.6,2018.0,Thriller,Possum,362.0,UK
+2785,6.1,1987.0,Comedy,Psychos in Love,876.0,USA
+2786,6.1,1987.0,Horror,Psychos in Love,876.0,USA
+2787,6.6,2017.0,Drama,Gerald's Game,54703.0,USA
+2788,6.6,2017.0,Horror,Gerald's Game,54703.0,USA
+2789,6.6,2017.0,Thriller,Gerald's Game,54703.0,USA
+2796,5.1,2012.0,Horror,Srpski film,49108.0,Japan
+2797,5.1,2012.0,Mystery,Srpski film,49108.0,Japan
+2798,5.1,2012.0,Thriller,Srpski film,49108.0,Japan
+2799,6.6,1976.0,Adventure,Robin and Marian,10016.0,USA
+2800,6.6,1976.0,Drama,Robin and Marian,10016.0,USA
+2801,6.6,1976.0,Romance,Robin and Marian,10016.0,USA
+2802,7.4,1975.0,Adventure,Space: 1999,5852.0,1975–1977
+2803,7.4,1975.0,Drama,Space: 1999,5852.0,1975–1977
+2804,7.4,1975.0,Sci-Fi,Space: 1999,5852.0,1975–1977
+2812,7.6,1981.0,Crime,Prince of the City,6112.0,USA
+2813,7.6,1981.0,Drama,Prince of the City,6112.0,USA
+2819,6.9,2001.0,Fantasy,Vanilla Sky,228892.0,USA
+2820,6.9,2001.0,Mystery,Vanilla Sky,228892.0,USA
+2821,6.9,2001.0,Romance,Vanilla Sky,228892.0,USA
+2822,6.9,2001.0,Sci-Fi,Vanilla Sky,228892.0,USA
+2823,6.9,2001.0,Thriller,Vanilla Sky,228892.0,USA
+2824,8.3,1959.0,Comedy,Some Like It Hot,211174.0,Japan
+2825,8.3,1959.0,Romance,Some Like It Hot,211174.0,Japan
+2826,4.7,1980.0,Comedy,Revenge of the Cheerleaders,641.0,USA
+2827,4.7,1980.0,Sport,Revenge of the Cheerleaders,641.0,USA
+2828,7.5,1993.0,Crime,A Perfect World,65476.0,USA
+2829,7.5,1993.0,Drama,A Perfect World,65476.0,USA
+2830,7.5,1993.0,Thriller,A Perfect World,65476.0,USA
+2831,6.8,1975.0,Comedy,Cousin cousine,1200.0,USA
+2832,6.8,1975.0,Romance,Cousin cousine,1200.0,USA
+2833,7.0,2016.0,Short,Glacial Wave,32.0,USA
+2834,7.0,2016.0,Fantasy,Glacial Wave,32.0,USA
+2835,2.2,1987.0,Action,Leonard Part 6,7583.0,USA
+2836,2.2,1987.0,Comedy,Leonard Part 6,7583.0,USA
+2837,2.2,1987.0,Sci-Fi,Leonard Part 6,7583.0,USA
+2838,6.7,1954.0,Action,River of No Return,9062.0,Sweden
+2839,6.7,1954.0,Adventure,River of No Return,9062.0,Sweden
+2840,6.7,1954.0,Drama,River of No Return,9062.0,Sweden
+2841,6.7,1954.0,Music,River of No Return,9062.0,Sweden
+2842,6.7,1954.0,Romance,River of No Return,9062.0,Sweden
+2843,6.7,1954.0,Western,River of No Return,9062.0,Sweden
+2844,5.8,1995.0,Comedy,Waiting to Exhale,8422.0,USA
+2845,5.8,1995.0,Drama,Waiting to Exhale,8422.0,USA
+2846,5.8,1995.0,Romance,Waiting to Exhale,8422.0,USA
+2853,7.3,1983.0,Horror,Videodrome,72014.0,USA
+2854,7.3,1983.0,Sci-Fi,Videodrome,72014.0,USA
+2855,7.3,1983.0,Thriller,Videodrome,72014.0,USA
+2856,7.8,2018.0,Biography,Manto,754.0,India
+2857,7.8,2018.0,Drama,Manto,754.0,India
+2866,6.6,2006.0,Action,16 Blocks,119977.0,USA
+2867,6.6,2006.0,Crime,16 Blocks,119977.0,USA
+2868,6.6,2006.0,Drama,16 Blocks,119977.0,USA
+2869,6.6,2006.0,Thriller,16 Blocks,119977.0,USA
+2876,6.6,2008.0,Adventure,Australia,111689.0,USA
+2877,6.6,2008.0,Drama,Australia,111689.0,USA
+2878,6.6,2008.0,Romance,Australia,111689.0,USA
+2879,6.6,2008.0,War,Australia,111689.0,USA
+2880,6.7,1994.0,Comedy,Serial Mom,23907.0,USA
+2881,6.7,1994.0,Crime,Serial Mom,23907.0,USA
+2882,6.7,1994.0,Thriller,Serial Mom,23907.0,USA
+2883,6.9,1996.0,Comedy,That Thing You Do!,55747.0,USA
+2884,6.9,1996.0,Drama,That Thing You Do!,55747.0,USA
+2885,6.9,1996.0,Music,That Thing You Do!,55747.0,USA
+2886,6.4,2014.0,Action,Lucy,388018.0,USA
+2887,6.4,2014.0,Sci-Fi,Lucy,388018.0,USA
+2888,6.4,2014.0,Thriller,Lucy,388018.0,USA
+2889,7.2,2014.0,Action,The Equalizer,283432.0,USA
+2890,7.2,2014.0,Crime,The Equalizer,283432.0,USA
+2891,7.2,2014.0,Thriller,The Equalizer,283432.0,USA
+2892,6.4,1999.0,Action,The World Is Not Enough,171937.0,USA
+2893,6.4,1999.0,Adventure,The World Is Not Enough,171937.0,USA
+2894,6.4,1999.0,Thriller,The World Is Not Enough,171937.0,USA
+2895,7.6,1995.0,Drama,The Bridges of Madison County,63157.0,USA
+2896,7.6,1995.0,Romance,The Bridges of Madison County,63157.0,USA
+2897,6.8,2011.0,Horror,Insidious,244068.0,USA
+2898,6.8,2011.0,Mystery,Insidious,244068.0,USA
+2899,6.8,2011.0,Thriller,Insidious,244068.0,USA
+2900,2.4,1988.0,Fantasy,Zombie Nightmare,2829.0,Canada
+2901,2.4,1988.0,Horror,Zombie Nightmare,2829.0,Canada
+2908,7.8,1938.0,Comedy,Holiday,12421.0,USA
+2909,7.8,1938.0,Romance,Holiday,12421.0,USA
+2910,7.2,1985.0,Biography,Out of Africa,62184.0,USA
+2911,7.2,1985.0,Drama,Out of Africa,62184.0,USA
+2912,7.2,1985.0,Romance,Out of Africa,62184.0,USA
+2913,5.4,1995.0,Action,Under Siege 2: Dark Territory,40135.0,USA
+2914,5.4,1995.0,Thriller,Under Siege 2: Dark Territory,40135.0,USA
+2915,5.3,1995.0,Action,Search and Destroy,1141.0,USA
+2916,5.3,1995.0,Comedy,Search and Destroy,1141.0,USA
+2917,5.3,1995.0,Drama,Search and Destroy,1141.0,USA
+2918,8.3,2018.0,Drama,Laila Majnu,433.0,India
+2919,8.3,2018.0,Romance,Laila Majnu,433.0,India
+2920,7.2,2018.0,Action,The Night Comes for Us,5692.0,USA
+2921,7.2,2018.0,Thriller,The Night Comes for Us,5692.0,USA
+2922,7.6,2013.0,Drama,Witches of East End,21874.0,2013–2014
+2923,7.6,2013.0,Fantasy,Witches of East End,21874.0,2013–2014
+2924,7.7,1998.0,Adventure,Fear and Loathing in Las Vegas,236703.0,USA
+2925,7.7,1998.0,Comedy,Fear and Loathing in Las Vegas,236703.0,USA
+2926,7.7,1998.0,Drama,Fear and Loathing in Las Vegas,236703.0,USA
+2933,1.6,1970.0,Action,Five the Hard Way,1628.0,Sweden
+2934,1.6,1970.0,Sport,Five the Hard Way,1628.0,Sweden
+2935,7.7,1964.0,Action,Goldfinger,154466.0,USA
+2936,7.7,1964.0,Adventure,Goldfinger,154466.0,USA
+2937,7.7,1964.0,Thriller,Goldfinger,154466.0,USA
+2946,7.8,1974.0,Biography,Serpico,93730.0,Italy
+2947,7.8,1974.0,Crime,Serpico,93730.0,Italy
+2948,7.8,1974.0,Drama,Serpico,93730.0,Italy
+2949,7.8,1974.0,Thriller,Serpico,93730.0,Italy
+2950,7.4,1940.0,Comedy,My Favorite Wife,8033.0,USA
+2951,7.4,1940.0,Romance,My Favorite Wife,8033.0,USA
+2952,6.2,1972.0,Comedy,Such Good Friends,408.0,UK
+2953,6.2,1972.0,Drama,Such Good Friends,408.0,UK
+2954,5.4,1984.0,Comedy,"Oh, God! You Devil",2084.0,USA
+2955,5.4,1984.0,Fantasy,"Oh, God! You Devil",2084.0,USA
+2956,8.1,1998.0,Comedy,The Big Lebowski,636600.0,USA
+2957,8.1,1998.0,Crime,The Big Lebowski,636600.0,USA
+2958,4.6,1970.0,Fantasy,The Haunted House of Horror,673.0,USA
+2959,4.6,1970.0,Horror,The Haunted House of Horror,673.0,USA
+2960,4.6,1970.0,Thriller,The Haunted House of Horror,673.0,USA
+2961,7.2,2005.0,Comedy,Broken Flowers,90142.0,USA
+2962,7.2,2005.0,Drama,Broken Flowers,90142.0,USA
+2963,7.2,2005.0,Mystery,Broken Flowers,90142.0,USA
+2964,7.2,2005.0,Romance,Broken Flowers,90142.0,USA
+2965,5.9,1982.0,Action,Firefox,22538.0,USA
+2966,5.9,1982.0,Adventure,Firefox,22538.0,USA
+2967,5.9,1982.0,Thriller,Firefox,22538.0,USA
+2968,6.5,1985.0,Comedy,Just One of the Guys,11777.0,USA
+2969,6.5,1985.0,Romance,Just One of the Guys,11777.0,USA
+2970,6.1,2001.0,Action,Pearl Harbor,286334.0,USA
+2971,6.1,2001.0,Drama,Pearl Harbor,286334.0,USA
+2972,6.1,2001.0,History,Pearl Harbor,286334.0,USA
+2973,6.1,2001.0,Romance,Pearl Harbor,286334.0,USA
+2974,6.1,2001.0,War,Pearl Harbor,286334.0,USA
+2975,6.6,1996.0,Action,Ging chaat goo si 4: Ji gaan daan yam mo,17016.0,USA
+2976,6.6,1996.0,Adventure,Ging chaat goo si 4: Ji gaan daan yam mo,17016.0,USA
+2977,6.6,1996.0,Comedy,Ging chaat goo si 4: Ji gaan daan yam mo,17016.0,USA
+2978,6.6,1996.0,Crime,Ging chaat goo si 4: Ji gaan daan yam mo,17016.0,USA
+2979,6.6,1996.0,Drama,Ging chaat goo si 4: Ji gaan daan yam mo,17016.0,USA
+2980,6.6,1996.0,Thriller,Ging chaat goo si 4: Ji gaan daan yam mo,17016.0,USA
+2987,6.8,1999.0,Horror,eXistenZ,85622.0,USA
+2988,6.8,1999.0,Sci-Fi,eXistenZ,85622.0,USA
+2989,6.8,1999.0,Thriller,eXistenZ,85622.0,USA
+2990,7.0,2017.0,Action,Polícia Federal: A Lei é para Todos,2874.0,Brazil
+2991,7.0,2017.0,Crime,Polícia Federal: A Lei é para Todos,2874.0,Brazil
+2992,7.0,2017.0,Thriller,Polícia Federal: A Lei é para Todos,2874.0,Brazil
+2999,8.0,1975.0,Biography,Dog Day Afternoon,212977.0,USA
+3000,8.0,1975.0,Crime,Dog Day Afternoon,212977.0,USA
+3001,8.0,1975.0,Drama,Dog Day Afternoon,212977.0,USA
+3002,8.0,1975.0,Thriller,Dog Day Afternoon,212977.0,USA
+3003,7.3,1988.0,Action,Fei lung mang jeung,6201.0,Hong Kong
+3004,7.3,1988.0,Comedy,Fei lung mang jeung,6201.0,Hong Kong
+3005,7.3,1988.0,Romance,Fei lung mang jeung,6201.0,Hong Kong
+3006,4.1,2001.0,Action,Megiddo: The Omega Code 2,2408.0,USA
+3007,4.1,2001.0,Adventure,Megiddo: The Omega Code 2,2408.0,USA
+3008,4.1,2001.0,Fantasy,Megiddo: The Omega Code 2,2408.0,USA
+3009,4.1,2001.0,Sci-Fi,Megiddo: The Omega Code 2,2408.0,USA
+3010,4.1,2001.0,Thriller,Megiddo: The Omega Code 2,2408.0,USA
+3011,2.4,2003.0,Comedy,Gigli,43926.0,USA
+3012,2.4,2003.0,Crime,Gigli,43926.0,USA
+3013,2.4,2003.0,Romance,Gigli,43926.0,USA
+3014,6.6,2015.0,Short,He Came at Midnight,27.0,USA
+3015,6.6,2015.0,Horror,He Came at Midnight,27.0,USA
+3016,6.8,2018.0,Comedy,Sui Dhaaga: Made in India,1947.0,USA
+3017,6.8,2018.0,Drama,Sui Dhaaga: Made in India,1947.0,USA
+3018,6.8,1962.0,Adventure,Captain Clegg,2279.0,USA
+3019,6.8,1962.0,Horror,Captain Clegg,2279.0,USA
+3020,5.4,2016.0,Horror,The Watcher,2566.0,France
+3021,5.4,2016.0,Thriller,The Watcher,2566.0,France
+3022,7.4,2018.0,Drama,The Rider,5029.0,USA
+3023,7.4,2018.0,Western,The Rider,5029.0,USA
+3024,7.2,1994.0,Action,True Lies,213709.0,USA
+3025,7.2,1994.0,Comedy,True Lies,213709.0,USA
+3026,7.2,1994.0,Thriller,True Lies,213709.0,USA
+3027,7.8,1990.0,Crime,Miller's Crossing,115209.0,USA
+3028,7.8,1990.0,Drama,Miller's Crossing,115209.0,USA
+3029,7.8,1990.0,Thriller,Miller's Crossing,115209.0,USA
+3030,5.6,1991.0,Action,Prayer of the Rollerboys,2025.0,Germany
+3031,5.6,1991.0,Drama,Prayer of the Rollerboys,2025.0,Germany
+3032,5.6,1991.0,Sci-Fi,Prayer of the Rollerboys,2025.0,Germany
+3033,6.5,2014.0,Crime,Sin City: A Dame to Kill For,135434.0,USA
+3034,6.5,2014.0,Thriller,Sin City: A Dame to Kill For,135434.0,USA
+3035,6.5,1988.0,Horror,Hellbound: Hellraiser II,36041.0,USA
+3036,6.5,1988.0,Thriller,Hellbound: Hellraiser II,36041.0,USA
+3037,5.2,2016.0,Action,Independence Day: Resurgence,149438.0,USA
+3038,5.2,2016.0,Adventure,Independence Day: Resurgence,149438.0,USA
+3039,5.2,2016.0,Sci-Fi,Independence Day: Resurgence,149438.0,USA
+3040,8.2,1949.0,Film-Noir,The Third Man,138053.0,France
+3041,8.2,1949.0,Mystery,The Third Man,138053.0,France
+3042,8.2,1949.0,Thriller,The Third Man,138053.0,France
+3043,5.1,1975.0,Action,Rosebud,616.0,USA
+3044,5.1,1975.0,Adventure,Rosebud,616.0,USA
+3045,5.1,1975.0,Drama,Rosebud,616.0,USA
+3046,5.1,1975.0,Thriller,Rosebud,616.0,USA
+3047,7.6,2018.0,Action,Upgrade,65679.0,USA
+3048,7.6,2018.0,Horror,Upgrade,65679.0,USA
+3049,7.6,2018.0,Sci-Fi,Upgrade,65679.0,USA
+3050,7.6,2018.0,Thriller,Upgrade,65679.0,USA
+3051,5.2,2017.0,Drama,Porcupine Lake,235.0,USA
+3052,5.2,2017.0,Romance,Porcupine Lake,235.0,USA
+3058,6.5,2004.0,Drama,Le clan,1538.0,France
+3059,6.5,2004.0,Romance,Le clan,1538.0,France
+3060,6.5,1980.0,Action,Luca il contrabbandiere,1392.0,Italy
+3061,6.5,1980.0,Crime,Luca il contrabbandiere,1392.0,Italy
+3062,6.5,1980.0,Drama,Luca il contrabbandiere,1392.0,Italy
+3063,6.5,1980.0,Thriller,Luca il contrabbandiere,1392.0,Italy
+3064,6.7,2002.0,Drama,K-19: The Widowmaker,54327.0,USA
+3065,6.7,2002.0,History,K-19: The Widowmaker,54327.0,USA
+3066,6.7,2002.0,Thriller,K-19: The Widowmaker,54327.0,USA
+3067,6.7,2002.0,War,K-19: The Widowmaker,54327.0,USA
+3068,7.2,1939.0,Drama,In Name Only,2189.0,USA
+3069,7.2,1939.0,Romance,In Name Only,2189.0,USA
+3070,6.5,2004.0,Action,Ladder 49,51764.0,USA
+3071,6.5,2004.0,Drama,Ladder 49,51764.0,USA
+3072,6.5,2004.0,Thriller,Ladder 49,51764.0,USA
+3079,5.2,2005.0,Drama,Comme un frère,865.0,USA
+3080,5.2,2005.0,Romance,Comme un frère,865.0,USA
+3088,6.9,1988.0,Action,Young Guns,48591.0,USA
+3089,6.9,1988.0,Western,Young Guns,48591.0,USA
+3090,7.4,2016.0,Drama,Me Before You,156456.0,USA
+3091,7.4,2016.0,Romance,Me Before You,156456.0,USA
+3092,5.7,1996.0,Comedy,Michael,37766.0,USA
+3093,5.7,1996.0,Drama,Michael,37766.0,USA
+3094,5.7,1996.0,Fantasy,Michael,37766.0,USA
+3095,4.3,2015.0,Action,Operator,1625.0,USA
+3096,4.3,2015.0,Drama,Operator,1625.0,USA
+3097,4.3,2015.0,Thriller,Operator,1625.0,USA
+3098,6.2,2007.0,Drama,The Hottest State,2542.0,Italy
+3099,6.2,2007.0,Music,The Hottest State,2542.0,Italy
+3100,6.2,2007.0,Romance,The Hottest State,2542.0,Italy
+3101,6.6,1989.0,Action,Licence to Kill,83401.0,USA
+3102,6.6,1989.0,Adventure,Licence to Kill,83401.0,USA
+3103,6.6,1989.0,Thriller,Licence to Kill,83401.0,USA
+3104,5.7,2018.0,Horror,Insidious: The Last Key,35663.0,USA
+3105,5.7,2018.0,Mystery,Insidious: The Last Key,35663.0,USA
+3106,5.7,2018.0,Thriller,Insidious: The Last Key,35663.0,USA
+3107,4.6,1987.0,Action,The Squeeze,834.0,USA
+3108,4.6,1987.0,Comedy,The Squeeze,834.0,USA
+3109,4.6,1987.0,Crime,The Squeeze,834.0,USA
+3110,4.6,1987.0,Romance,The Squeeze,834.0,USA
+3111,4.6,1987.0,Thriller,The Squeeze,834.0,USA
+3112,7.5,2017.0,Comedy,The Trouble with Mistletoe,98.0,USA
+3113,7.5,2017.0,Romance,The Trouble with Mistletoe,98.0,USA
+3114,6.5,1990.0,Action,Young Guns II,27377.0,USA
+3115,6.5,1990.0,Western,Young Guns II,27377.0,USA
+3116,1.9,1980.0,Action,Angels' Brigade,1539.0,USA
+3117,1.9,1980.0,Comedy,Angels' Brigade,1539.0,USA
+3118,6.6,1996.0,Action,Ransom,108741.0,USA
+3119,6.6,1996.0,Crime,Ransom,108741.0,USA
+3120,6.6,1996.0,Thriller,Ransom,108741.0,USA
+3121,5.5,1992.0,Comedy,Folks!,2244.0,USA
+3122,5.5,1992.0,Drama,Folks!,2244.0,USA
+3123,7.2,1977.0,Adventure,Logan's Run,1585.0,1977–1978
+3124,7.2,1977.0,Sci-Fi,Logan's Run,1585.0,1977–1978
+3125,6.4,2018.0,Drama,Ghostland,13039.0,USA
+3126,6.4,2018.0,Horror,Ghostland,13039.0,USA
+3127,6.4,2018.0,Mystery,Ghostland,13039.0,USA
+3128,6.4,2018.0,Thriller,Ghostland,13039.0,USA
+3129,6.6,1936.0,Comedy,Big Brown Eyes,618.0,USA
+3130,6.6,1936.0,Mystery,Big Brown Eyes,618.0,USA
+3147,5.2,2003.0,Action,The Medallion,34927.0,USA
+3148,5.2,2003.0,Comedy,The Medallion,34927.0,USA
+3149,5.2,2003.0,Fantasy,The Medallion,34927.0,USA
+3150,5.3,1966.0,Action,"Gojira, Ebirâ, Mosura: Nankai no daiketto",3365.0,USA
+3151,5.3,1966.0,Adventure,"Gojira, Ebirâ, Mosura: Nankai no daiketto",3365.0,USA
+3152,5.3,1966.0,Comedy,"Gojira, Ebirâ, Mosura: Nankai no daiketto",3365.0,USA
+3153,5.3,1966.0,Drama,"Gojira, Ebirâ, Mosura: Nankai no daiketto",3365.0,USA
+3154,5.3,1966.0,Sci-Fi,"Gojira, Ebirâ, Mosura: Nankai no daiketto",3365.0,USA
+3161,5.3,1994.0,Drama,Silent Tongue,959.0,UK
+3162,5.3,1994.0,Horror,Silent Tongue,959.0,UK
+3163,5.3,1994.0,Western,Silent Tongue,959.0,UK
+3164,2.3,2005.0,Action,Alone in the Dark,39895.0,USA
+3165,2.3,2005.0,Horror,Alone in the Dark,39895.0,USA
+3166,2.3,2005.0,Sci-Fi,Alone in the Dark,39895.0,USA
+3167,6.4,2002.0,Action,Blood Work,38389.0,USA
+3168,6.4,2002.0,Crime,Blood Work,38389.0,USA
+3169,6.4,2002.0,Drama,Blood Work,38389.0,USA
+3170,6.4,2002.0,Mystery,Blood Work,38389.0,USA
+3171,6.4,2002.0,Thriller,Blood Work,38389.0,USA
+3201,5.2,2001.0,Drama,Judgment,589.0,USA
+3202,5.2,2001.0,Sci-Fi,Judgment,589.0,USA
+3203,5.2,2001.0,Thriller,Judgment,589.0,USA
+3218,5.6,1998.0,Comedy,How Stella Got Her Groove Back,6107.0,USA
+3219,5.6,1998.0,Drama,How Stella Got Her Groove Back,6107.0,USA
+3220,5.6,1998.0,Romance,How Stella Got Her Groove Back,6107.0,USA
+3221,7.2,1967.0,Comedy,Dance of the Vampires,26101.0,Italy
+3222,7.2,1967.0,Horror,Dance of the Vampires,26101.0,Italy
+3223,2.2,2001.0,Drama,Glitter,20491.0,USA
+3224,2.2,2001.0,Music,Glitter,20491.0,USA
+3225,2.2,2001.0,Romance,Glitter,20491.0,USA
+3226,5.0,1981.0,Sci-Fi,Image of the Beast,210.0,USA
+3227,5.0,1981.0,Thriller,Image of the Beast,210.0,USA
+3234,6.5,2009.0,Adventure,Charlie & Boots,1274.0,Australia
+3235,6.5,2009.0,Comedy,Charlie & Boots,1274.0,Australia
+3236,6.5,2009.0,Drama,Charlie & Boots,1274.0,Australia
+3237,6.3,1998.0,Biography,Why Do Fools Fall in Love,3252.0,USA
+3238,6.3,1998.0,Drama,Why Do Fools Fall in Love,3252.0,USA
+3239,6.3,1998.0,Music,Why Do Fools Fall in Love,3252.0,USA
+3240,7.2,1976.0,Action,The New Avengers,1607.0,1976–1977
+3241,7.2,1976.0,Mystery,The New Avengers,1607.0,1976–1977
+3242,7.2,1976.0,Thriller,The New Avengers,1607.0,1976–1977
+3243,6.7,2011.0,Comedy,Agora é Tarde,201.0,2011–2015
+3244,6.7,2011.0,Talk-Show,Agora é Tarde,201.0,2011–2015
+3245,6.0,1976.0,Drama,Salò o le 120 giornate di Sodoma,46236.0,France
+3246,6.0,1976.0,Horror,Salò o le 120 giornate di Sodoma,46236.0,France
+3247,6.0,1976.0,War,Salò o le 120 giornate di Sodoma,46236.0,France
+3248,6.2,1995.0,Action,Waterworld,161458.0,USA
+3249,6.2,1995.0,Adventure,Waterworld,161458.0,USA
+3250,6.2,1995.0,Sci-Fi,Waterworld,161458.0,USA
+3251,6.2,1995.0,Thriller,Waterworld,161458.0,USA
+3264,5.8,1976.0,Crime,Breaking Point,228.0,USA
+3265,5.8,1976.0,Drama,Breaking Point,228.0,USA
+3266,6.4,1972.0,Comedy,$,1973.0,Austria
+3267,6.4,1972.0,Crime,$,1973.0,Austria
+3268,6.4,1972.0,Drama,$,1973.0,Austria
+3269,6.3,2018.0,Action,Revenge,18902.0,USA
+3270,6.3,2018.0,Horror,Revenge,18902.0,USA
+3271,6.3,2018.0,Thriller,Revenge,18902.0,USA
+3272,5.7,1996.0,Comedy,A Thin Line Between Love and Hate,3675.0,USA
+3273,5.7,1996.0,Crime,A Thin Line Between Love and Hate,3675.0,USA
+3274,5.7,1996.0,Drama,A Thin Line Between Love and Hate,3675.0,USA
+3275,5.7,1996.0,Romance,A Thin Line Between Love and Hate,3675.0,USA
+3276,5.7,1996.0,Thriller,A Thin Line Between Love and Hate,3675.0,USA
+3277,5.9,2016.0,Action,London Has Fallen,118843.0,USA
+3278,5.9,2016.0,Thriller,London Has Fallen,118843.0,USA
+3279,5.9,1977.0,Drama,Maladolescenza,1544.0,Italy
+3280,5.9,1977.0,Romance,Maladolescenza,1544.0,Italy
+3281,5.0,1992.0,Horror,Happy Hell Night,612.0,USA
+3282,5.0,1992.0,Mystery,Happy Hell Night,612.0,USA
+3283,5.0,1992.0,Thriller,Happy Hell Night,612.0,USA
+3284,7.6,1985.0,Action,Ging chaat goo si,23236.0,Hong Kong
+3285,7.6,1985.0,Comedy,Ging chaat goo si,23236.0,Hong Kong
+3286,7.6,1985.0,Crime,Ging chaat goo si,23236.0,Hong Kong
+3287,7.6,1985.0,Thriller,Ging chaat goo si,23236.0,Hong Kong
+3288,5.4,2018.0,Drama,First Light,705.0,USA
+3289,5.4,2018.0,Sci-Fi,First Light,705.0,USA
+3290,5.4,2018.0,Thriller,First Light,705.0,USA
+3291,7.5,2013.0,Horror,The Conjuring,375561.0,USA
+3292,7.5,2013.0,Mystery,The Conjuring,375561.0,USA
+3293,7.5,2013.0,Thriller,The Conjuring,375561.0,USA
+3294,6.3,2002.0,Drama,Hart's War,47580.0,USA
+3295,6.3,2002.0,War,Hart's War,47580.0,USA
+3296,5.9,1985.0,Adventure,Inferno in diretta,1503.0,USA
+3297,5.9,1985.0,Horror,Inferno in diretta,1503.0,USA
+3298,5.9,1985.0,Thriller,Inferno in diretta,1503.0,USA
+3299,7.0,1963.0,Drama,Paranoiac,2010.0,USA
+3300,7.0,1963.0,Horror,Paranoiac,2010.0,USA
+3301,7.0,1963.0,Mystery,Paranoiac,2010.0,USA
+3302,7.0,1963.0,Thriller,Paranoiac,2010.0,USA
+3303,6.9,2006.0,Comedy,The Devil Wears Prada,327150.0,USA
+3304,6.9,2006.0,Drama,The Devil Wears Prada,327150.0,USA
+3305,5.7,2018.0,Comedy,Never Goin' Back,651.0,USA
+3306,5.7,2018.0,Crime,Never Goin' Back,651.0,USA
+3307,5.7,2018.0,Drama,Never Goin' Back,651.0,USA
+3308,7.0,1964.0,Comedy,"Kiss Me, Stupid",6025.0,Italy
+3309,7.0,1964.0,Romance,"Kiss Me, Stupid",6025.0,Italy
+3321,6.9,1982.0,Adventure,Conan the Barbarian,125142.0,USA
+3322,6.9,1982.0,Fantasy,Conan the Barbarian,125142.0,USA
+3323,6.5,2007.0,Crime,Awake,68502.0,USA
+3324,6.5,2007.0,Drama,Awake,68502.0,USA
+3325,6.5,2007.0,Mystery,Awake,68502.0,USA
+3326,6.5,2007.0,Thriller,Awake,68502.0,USA
+3327,8.7,1999.0,Action,The Matrix,1442932.0,USA
+3328,8.7,1999.0,Sci-Fi,The Matrix,1442932.0,USA
+3329,7.6,1991.0,Comedy,The Fisher King,71470.0,USA
+3330,7.6,1991.0,Drama,The Fisher King,71470.0,USA
+3331,7.6,1991.0,Fantasy,The Fisher King,71470.0,USA
+3332,7.9,1999.0,Biography,The Insider,146641.0,USA
+3333,7.9,1999.0,Drama,The Insider,146641.0,USA
+3334,7.9,1999.0,Thriller,The Insider,146641.0,USA
+3335,5.7,2016.0,Action,Jue di tao wang,16101.0,USA
+3336,5.7,2016.0,Adventure,Jue di tao wang,16101.0,USA
+3337,5.7,2016.0,Comedy,Jue di tao wang,16101.0,USA
+3338,5.7,2016.0,Crime,Jue di tao wang,16101.0,USA
+3339,5.7,2016.0,Thriller,Jue di tao wang,16101.0,USA
+3346,5.4,2017.0,Drama,Mountain Fever,70.0,UK
+3347,5.4,2017.0,Thriller,Mountain Fever,70.0,UK
+3348,7.0,2018.0,Biography,Colette,1548.0,UK
+3349,7.0,2018.0,Drama,Colette,1548.0,UK
+3350,7.0,2018.0,History,Colette,1548.0,UK
+3363,6.7,2014.0,Comedy,The Noite com Danilo Gentili,336.0,2014– 
+3364,6.7,2014.0,Talk-Show,The Noite com Danilo Gentili,336.0,2014– 
+3365,6.7,2015.0,Comedy,Tempo Girl,77.0,Germany
+3366,6.7,2015.0,Drama,Tempo Girl,77.0,Germany
+3367,6.7,2015.0,Romance,Tempo Girl,77.0,Germany
+3368,6.3,1984.0,Crime,Tightrope,13522.0,USA
+3369,6.3,1984.0,Mystery,Tightrope,13522.0,USA
+3370,6.3,1984.0,Thriller,Tightrope,13522.0,USA
+3371,6.6,1966.0,Animation,Captain America,658.0,1966– 
+3372,6.6,1966.0,Action,Captain America,658.0,1966– 
+3373,6.6,1966.0,Adventure,Captain America,658.0,1966– 
+3374,6.6,1966.0,Sci-Fi,Captain America,658.0,1966– 
+3375,6.6,2005.0,Comedy,Factotum,12943.0,Norway
+3376,6.6,2005.0,Drama,Factotum,12943.0,Norway
+3377,6.6,2005.0,Romance,Factotum,12943.0,Norway
+3378,8.1,1999.0,Drama,The Sixth Sense,817549.0,USA
+3379,8.1,1999.0,Mystery,The Sixth Sense,817549.0,USA
+3380,8.1,1999.0,Thriller,The Sixth Sense,817549.0,USA
+3381,7.5,1943.0,Comedy,Heaven Can Wait,8445.0,USA
+3382,7.5,1943.0,Drama,Heaven Can Wait,8445.0,USA
+3383,7.5,1943.0,Fantasy,Heaven Can Wait,8445.0,USA
+3384,7.5,1943.0,Romance,Heaven Can Wait,8445.0,USA
+3385,6.6,2013.0,Horror,Insidious: Chapter 2,135207.0,USA
+3386,6.6,2013.0,Mystery,Insidious: Chapter 2,135207.0,USA
+3387,6.6,2013.0,Thriller,Insidious: Chapter 2,135207.0,USA
+3388,7.4,2016.0,Action,The Accountant,220513.0,USA
+3389,7.4,2016.0,Crime,The Accountant,220513.0,USA
+3390,7.4,2016.0,Drama,The Accountant,220513.0,USA
+3391,7.4,2016.0,Thriller,The Accountant,220513.0,USA
+3392,5.4,2017.0,Action,Qimen Dunjia,718.0,USA
+3393,5.4,2017.0,Adventure,Qimen Dunjia,718.0,USA
+3394,5.4,2017.0,Fantasy,Qimen Dunjia,718.0,USA
+3395,6.0,1988.0,Comedy,Twins,99955.0,USA
+3396,6.0,1988.0,Crime,Twins,99955.0,USA
+3397,5.7,1999.0,Action,End of Days,97902.0,USA
+3398,5.7,1999.0,Fantasy,End of Days,97902.0,USA
+3399,5.7,1999.0,Horror,End of Days,97902.0,USA
+3400,5.7,1999.0,Thriller,End of Days,97902.0,USA
+3401,7.4,2006.0,Biography,Capote,114085.0,USA
+3402,7.4,2006.0,Crime,Capote,114085.0,USA
+3403,7.4,2006.0,Drama,Capote,114085.0,USA
+3404,7.4,2006.0,History,Capote,114085.0,USA
+3405,6.9,1978.0,Drama,Fedora,2948.0,France
+3406,6.9,1978.0,Romance,Fedora,2948.0,France
+3407,7.6,1946.0,Comedy,Cluny Brown,2262.0,Sweden
+3408,7.6,1946.0,Romance,Cluny Brown,2262.0,Sweden
+3409,5.1,2018.0,Horror,Truth or Dare,25590.0,USA
+3410,5.1,2018.0,Thriller,Truth or Dare,25590.0,USA
+3411,7.7,2005.0,Drama,Brokeback Mountain,291312.0,USA
+3412,7.7,2005.0,Romance,Brokeback Mountain,291312.0,USA
+3413,6.0,2016.0,Action,Teenage Mutant Ninja Turtles: Out of the Shadows,73960.0,USA
+3414,6.0,2016.0,Adventure,Teenage Mutant Ninja Turtles: Out of the Shadows,73960.0,USA
+3415,6.0,2016.0,Comedy,Teenage Mutant Ninja Turtles: Out of the Shadows,73960.0,USA
+3416,6.0,2016.0,Sci-Fi,Teenage Mutant Ninja Turtles: Out of the Shadows,73960.0,USA
+3417,7.7,2007.0,Biography,The Last King of Scotland,161817.0,USA
+3418,7.7,2007.0,Drama,The Last King of Scotland,161817.0,USA
+3419,7.7,2007.0,History,The Last King of Scotland,161817.0,USA
+3420,7.7,2007.0,Thriller,The Last King of Scotland,161817.0,USA
+3421,7.6,1949.0,Comedy,Adam's Rib,17405.0,USA
+3422,7.6,1949.0,Drama,Adam's Rib,17405.0,USA
+3423,7.6,1949.0,Romance,Adam's Rib,17405.0,USA
+3436,5.3,2017.0,Drama,Lavender,4033.0,USA
+3437,5.3,2017.0,Thriller,Lavender,4033.0,USA
+3438,4.0,2018.0,Crime,The Barn,25.0,USA
+3439,4.0,2018.0,Horror,The Barn,25.0,USA
+3440,4.0,2018.0,Mystery,The Barn,25.0,USA
+3441,4.9,2018.0,Action,Aux,125.0,UK
+3442,4.9,2018.0,Horror,Aux,125.0,UK
+3443,4.9,2018.0,Thriller,Aux,125.0,UK
+3444,7.2,1957.0,Adventure,The Spirit of St. Louis,6503.0,USA
+3445,7.2,1957.0,Biography,The Spirit of St. Louis,6503.0,USA
+3446,7.2,1957.0,Drama,The Spirit of St. Louis,6503.0,USA
+3447,7.2,1957.0,History,The Spirit of St. Louis,6503.0,USA
+3448,6.7,2007.0,Short,Café com Leite,1325.0,USA
+3449,6.7,2007.0,Drama,Café com Leite,1325.0,USA
+3450,6.7,2007.0,Romance,Café com Leite,1325.0,USA
+3457,6.6,1989.0,Action,Gojira vs. Biorante,4084.0,Japan
+3458,6.6,1989.0,Sci-Fi,Gojira vs. Biorante,4084.0,Japan
+3459,7.3,1998.0,Action,Enemy of the State,208669.0,USA
+3460,7.3,1998.0,Crime,Enemy of the State,208669.0,USA
+3461,7.3,1998.0,Mystery,Enemy of the State,208669.0,USA
+3462,7.3,1998.0,Thriller,Enemy of the State,208669.0,USA
+3463,6.0,1999.0,Horror,Ringu 2,11204.0,Japan
+3464,6.0,1999.0,Mystery,Ringu 2,11204.0,Japan
+3465,6.0,1999.0,Sci-Fi,Ringu 2,11204.0,Japan
+3466,5.3,1981.0,Horror,Die Säge des Todes,1485.0,Spain
+3467,5.3,1981.0,Mystery,Die Säge des Todes,1485.0,Spain
+3468,5.3,1981.0,Thriller,Die Säge des Todes,1485.0,Spain
+3469,7.8,2009.0,Drama,Shelter,18801.0,Germany
+3470,7.8,2009.0,Romance,Shelter,18801.0,Germany
+3471,7.8,2009.0,Sport,Shelter,18801.0,Germany
+3472,5.8,2003.0,Action,The League of Extraordinary Gentlemen,154240.0,USA
+3473,5.8,2003.0,Adventure,The League of Extraordinary Gentlemen,154240.0,USA
+3474,5.8,2003.0,Fantasy,The League of Extraordinary Gentlemen,154240.0,USA
+3475,5.8,2003.0,Sci-Fi,The League of Extraordinary Gentlemen,154240.0,USA
+3476,6.1,1996.0,Horror,La sindrome di Stendhal,6479.0,Italy
+3477,6.1,1996.0,Mystery,La sindrome di Stendhal,6479.0,Italy
+3478,6.1,1996.0,Thriller,La sindrome di Stendhal,6479.0,Italy
+3479,3.2,1982.0,Mystery,The Return,345.0,Sweden
+3480,3.2,1982.0,Sci-Fi,The Return,345.0,Sweden
+3481,3.2,1982.0,Thriller,The Return,345.0,Sweden
+3482,5.5,1952.0,Comedy,Young Wives' Tale,166.0,USA
+3483,5.5,1952.0,Romance,Young Wives' Tale,166.0,USA
+3484,5.7,2017.0,Drama,D'après une histoire vraie,2565.0,France
+3485,5.7,2017.0,Mystery,D'après une histoire vraie,2565.0,France
+3486,5.7,2017.0,Thriller,D'après une histoire vraie,2565.0,France
+3487,7.2,1988.0,Action,Ging chaat goo si juk jaap,14087.0,Hong Kong
+3488,7.2,1988.0,Comedy,Ging chaat goo si juk jaap,14087.0,Hong Kong
+3489,7.2,1988.0,Crime,Ging chaat goo si juk jaap,14087.0,Hong Kong
+3490,7.2,1988.0,Thriller,Ging chaat goo si juk jaap,14087.0,Hong Kong
+3491,8.0,1950.0,Drama,In a Lonely Place,21276.0,USA
+3492,8.0,1950.0,Film-Noir,In a Lonely Place,21276.0,USA
+3493,8.0,1950.0,Mystery,In a Lonely Place,21276.0,USA
+3494,8.0,1950.0,Romance,In a Lonely Place,21276.0,USA
+3495,8.0,1950.0,Thriller,In a Lonely Place,21276.0,USA
+3496,8.0,1993.0,Comedy,Groundhog Day,523031.0,USA
+3497,8.0,1993.0,Fantasy,Groundhog Day,523031.0,USA
+3498,8.0,1993.0,Romance,Groundhog Day,523031.0,USA
+3505,6.4,1982.0,Action,Vice Squad,1504.0,USA
+3506,6.4,1982.0,Crime,Vice Squad,1504.0,USA
+3507,6.4,1982.0,Drama,Vice Squad,1504.0,USA
+3508,6.4,1982.0,Thriller,Vice Squad,1504.0,USA
+3515,5.0,2013.0,Horror,Truth or Dare,512.0,USA
+3516,5.0,2013.0,Thriller,Truth or Dare,512.0,USA
+3517,6.2,2018.0,Comedy,The Kissing Booth,32829.0,USA
+3518,6.2,2018.0,Romance,The Kissing Booth,32829.0,USA
+3525,6.5,1989.0,Comedy,The Dream Team,11362.0,USA
+3526,6.5,1989.0,Crime,The Dream Team,11362.0,USA
+3527,6.5,1989.0,Thriller,The Dream Team,11362.0,USA
+3528,7.3,2018.0,Biography,Beautiful Boy,2338.0,Israel
+3529,7.3,2018.0,Drama,Beautiful Boy,2338.0,Israel
+3530,6.4,2017.0,Comedy,Pihalla,511.0,Poland
+3531,6.4,2017.0,Drama,Pihalla,511.0,Poland
+3532,6.4,2017.0,Romance,Pihalla,511.0,Poland
+3533,7.4,1942.0,Fantasy,Cat People,16522.0,USA
+3534,7.4,1942.0,Horror,Cat People,16522.0,USA
+3535,7.4,1942.0,Thriller,Cat People,16522.0,USA
+3536,6.2,2017.0,Comedy,Xiu xiu de tie quan,817.0,China
+3537,6.2,2017.0,Fantasy,Xiu xiu de tie quan,817.0,China
+3538,6.2,2017.0,Sport,Xiu xiu de tie quan,817.0,China
+3539,5.2,2017.0,Action,Nilalang,121.0,Canada
+3540,5.2,2017.0,Crime,Nilalang,121.0,Canada
+3541,5.2,2017.0,Horror,Nilalang,121.0,Canada
+3542,5.2,2017.0,Mystery,Nilalang,121.0,Canada
+3543,5.2,2017.0,Thriller,Nilalang,121.0,Canada
+3544,7.7,2010.0,Drama,Lost Girl,26050.0,2010–2016
+3545,7.7,2010.0,Fantasy,Lost Girl,26050.0,2010–2016
+3546,6.1,2017.0,Comedy,The House of Tomorrow,620.0,USA
+3547,6.1,2017.0,Drama,The House of Tomorrow,620.0,USA
+3548,5.5,2011.0,Crime,Knifepoint,130.0,USA
+3549,5.5,2011.0,Horror,Knifepoint,130.0,USA
+3550,5.5,2011.0,Thriller,Knifepoint,130.0,USA
+3551,7.6,2007.0,Biography,La môme,75440.0,USA
+3552,7.6,2007.0,Drama,La môme,75440.0,USA
+3553,7.6,2007.0,Music,La môme,75440.0,USA
+3554,7.6,2007.0,Romance,La môme,75440.0,USA
+3555,5.9,2017.0,Drama,Found,3223.0,Japan
+3556,5.9,2017.0,Horror,Found,3223.0,Japan
+3557,5.9,2017.0,Thriller,Found,3223.0,Japan
+3558,7.6,1973.0,Horror,The Wicker Man,56729.0,USA
+3559,7.6,1973.0,Mystery,The Wicker Man,56729.0,USA
+3560,7.6,1973.0,Thriller,The Wicker Man,56729.0,USA
+3561,7.0,2012.0,Drama,Love Never Dies,1927.0,Canada
+3562,7.0,2012.0,Music,Love Never Dies,1927.0,Canada
+3563,7.0,2012.0,Musical,Love Never Dies,1927.0,Canada
+3564,7.0,2012.0,Romance,Love Never Dies,1927.0,Canada
+3565,6.7,2018.0,Animation,Chuck Steel: Night of the Trampires,69.0,USA
+3566,6.7,2018.0,Action,Chuck Steel: Night of the Trampires,69.0,USA
+3567,6.7,2018.0,Comedy,Chuck Steel: Night of the Trampires,69.0,USA
+3568,6.7,2018.0,Horror,Chuck Steel: Night of the Trampires,69.0,USA
+3569,6.2,1984.0,Drama,Firstborn,1783.0,USA
+3570,6.2,1984.0,Thriller,Firstborn,1783.0,USA
+3571,6.8,2012.0,Horror,Sinister,191246.0,USA
+3572,6.8,2012.0,Mystery,Sinister,191246.0,USA
+3573,6.8,2012.0,Thriller,Sinister,191246.0,USA
+3574,6.7,2008.0,Crime,The Girl Next Door,20858.0,Italy
+3575,6.7,2008.0,Drama,The Girl Next Door,20858.0,Italy
+3576,6.7,2008.0,Horror,The Girl Next Door,20858.0,Italy
+3577,6.7,2008.0,Thriller,The Girl Next Door,20858.0,Italy
+3578,5.8,2011.0,Comedy,Women in Trouble,5546.0,Germany
+3579,5.8,2011.0,Drama,Women in Trouble,5546.0,Germany
+3580,4.6,1990.0,Comedy,Slumber Party Massacre III,1982.0,USA
+3581,4.6,1990.0,Horror,Slumber Party Massacre III,1982.0,USA
+3582,7.6,2018.0,Comedy,Eighth Grade,17834.0,USA
+3583,7.6,2018.0,Drama,Eighth Grade,17834.0,USA
+3597,7.4,1996.0,Action,The Rock,286096.0,USA
+3598,7.4,1996.0,Adventure,The Rock,286096.0,USA
+3599,7.4,1996.0,Thriller,The Rock,286096.0,USA
+3600,5.9,1980.0,Comedy,Fade to Black,2402.0,USA
+3601,5.9,1980.0,Horror,Fade to Black,2402.0,USA
+3602,5.9,1980.0,Thriller,Fade to Black,2402.0,USA
+3603,8.2,2018.0,Biography,Sanju,33057.0,USA
+3604,8.2,2018.0,Drama,Sanju,33057.0,USA
+3611,6.7,1985.0,Action,Commando,129313.0,USA
+3612,6.7,1985.0,Adventure,Commando,129313.0,USA
+3613,6.7,1985.0,Thriller,Commando,129313.0,USA
+3614,5.4,2018.0,Action,Downrange,2616.0,Kuwait
+3615,5.4,2018.0,Horror,Downrange,2616.0,Kuwait
+3616,5.4,2018.0,Thriller,Downrange,2616.0,Kuwait
+3617,6.3,2003.0,Comedy,Intolerable Cruelty,83709.0,USA
+3618,6.3,2003.0,Crime,Intolerable Cruelty,83709.0,USA
+3619,6.3,2003.0,Romance,Intolerable Cruelty,83709.0,USA
+3620,8.6,1977.0,Action,Star Wars,1080356.0,USA
+3621,8.6,1977.0,Adventure,Star Wars,1080356.0,USA
+3622,8.6,1977.0,Fantasy,Star Wars,1080356.0,USA
+3623,8.6,1977.0,Sci-Fi,Star Wars,1080356.0,USA
+3624,6.8,2009.0,Action,Merantau,8837.0,Singapore
+3625,6.8,2009.0,Drama,Merantau,8837.0,Singapore
+3637,8.2,2002.0,Biography,A Beautiful Mind,740804.0,USA
+3638,8.2,2002.0,Drama,A Beautiful Mind,740804.0,USA
+3639,6.6,1997.0,Crime,Night Falls on Manhattan,5773.0,USA
+3640,6.6,1997.0,Drama,Night Falls on Manhattan,5773.0,USA
+3641,6.7,1976.0,Action,The Bionic Woman,4807.0,1976–1978
+3642,6.7,1976.0,Adventure,The Bionic Woman,4807.0,1976–1978
+3643,6.7,1976.0,Drama,The Bionic Woman,4807.0,1976–1978
+3644,6.7,1976.0,Sci-Fi,The Bionic Woman,4807.0,1976–1978
+3645,5.5,1987.0,Comedy,Nadine,3432.0,USA
+3646,5.5,1987.0,Mystery,Nadine,3432.0,USA
+3647,5.5,1987.0,Romance,Nadine,3432.0,USA
+3648,4.6,2015.0,Horror,The Hoarder,1752.0,USA
+3649,4.6,2015.0,Thriller,The Hoarder,1752.0,USA
+3650,6.8,1984.0,Action,Airwolf,8092.0,1984–1986
+3651,6.8,1984.0,Adventure,Airwolf,8092.0,1984–1986
+3652,6.8,1984.0,Sci-Fi,Airwolf,8092.0,1984–1986
+3653,7.7,2004.0,Biography,Ray,124078.0,USA
+3654,7.7,2004.0,Drama,Ray,124078.0,USA
+3655,7.7,2004.0,Music,Ray,124078.0,USA
+3656,7.5,2018.0,Action,Raid,8594.0,India
+3657,7.5,2018.0,Crime,Raid,8594.0,India
+3658,7.5,2018.0,Drama,Raid,8594.0,India
+3659,7.5,2018.0,Thriller,Raid,8594.0,India
+3660,7.1,1994.0,Comedy,Four Weddings and a Funeral,122140.0,USA
+3661,7.1,1994.0,Drama,Four Weddings and a Funeral,122140.0,USA
+3662,7.1,1994.0,Romance,Four Weddings and a Funeral,122140.0,USA
+3669,7.4,2007.0,Biography,An American Crime,28638.0,Sweden
+3670,7.4,2007.0,Crime,An American Crime,28638.0,Sweden
+3671,7.4,2007.0,Drama,An American Crime,28638.0,Sweden
+3672,7.4,2007.0,Horror,An American Crime,28638.0,Sweden
+3673,7.0,1986.0,Drama,The Color of Money,66060.0,USA
+3674,7.0,1986.0,Sport,The Color of Money,66060.0,USA
+3675,6.8,2007.0,Comedy,Trick 'r Treat,72331.0,USA
+3676,6.8,2007.0,Horror,Trick 'r Treat,72331.0,USA
+3677,6.8,2007.0,Thriller,Trick 'r Treat,72331.0,USA
+3684,7.0,2018.0,Action,Game Night,124860.0,USA
+3685,7.0,2018.0,Comedy,Game Night,124860.0,USA
+3686,7.0,2018.0,Crime,Game Night,124860.0,USA
+3687,7.0,2018.0,Mystery,Game Night,124860.0,USA
+3688,7.2,2012.0,Animation,Ultimate Spider-Man,8785.0,2012–2017
+3689,7.2,2012.0,Action,Ultimate Spider-Man,8785.0,2012–2017
+3690,7.2,2012.0,Adventure,Ultimate Spider-Man,8785.0,2012–2017
+3691,7.2,2012.0,Comedy,Ultimate Spider-Man,8785.0,2012–2017
+3692,7.2,2012.0,Sci-Fi,Ultimate Spider-Man,8785.0,2012–2017
+3705,5.7,1978.0,Horror,Day of the Woman,23036.0,USA
+3706,5.7,1978.0,Thriller,Day of the Woman,23036.0,USA
+3713,7.0,2015.0,Animation,Xi you ji zhi da sheng gui lai,2939.0,USA
+3714,7.0,2015.0,Action,Xi you ji zhi da sheng gui lai,2939.0,USA
+3715,7.0,2015.0,Adventure,Xi you ji zhi da sheng gui lai,2939.0,USA
+3716,7.0,2015.0,Comedy,Xi you ji zhi da sheng gui lai,2939.0,USA
+3717,7.0,2015.0,Fantasy,Xi you ji zhi da sheng gui lai,2939.0,USA
+3718,5.4,2017.0,Drama,Domain,390.0,USA
+3719,5.4,2017.0,Sci-Fi,Domain,390.0,USA
+3720,5.4,2017.0,Thriller,Domain,390.0,USA
+3721,5.3,2001.0,Comedy,The Jimmy Show,506.0,USA
+3722,5.3,2001.0,Drama,The Jimmy Show,506.0,USA
+3723,4.6,1981.0,Horror,Graduation Day,2595.0,USA
+3724,4.6,1981.0,Mystery,Graduation Day,2595.0,USA
+3725,4.3,2015.0,Action,Fantastic Four,135702.0,USA
+3726,4.3,2015.0,Adventure,Fantastic Four,135702.0,USA
+3727,4.3,2015.0,Sci-Fi,Fantastic Four,135702.0,USA
+3735,5.6,1971.0,Comedy,Liebe unter siebzehn,19.0,West Germany
+3736,5.6,1971.0,Drama,Liebe unter siebzehn,19.0,West Germany
+3737,6.0,1993.0,Horror,Trauma,5546.0,Italy
+3738,6.0,1993.0,Mystery,Trauma,5546.0,Italy
+3739,6.0,1993.0,Thriller,Trauma,5546.0,Italy
+3740,6.5,2017.0,Drama,Painless,387.0,USA
+3741,6.5,2017.0,Thriller,Painless,387.0,USA
+3742,7.0,2008.0,Drama,Two Lovers,33043.0,USA
+3743,7.0,2008.0,Romance,Two Lovers,33043.0,USA
+3744,7.1,2003.0,Animation,Spider-Man,4032.0,2003
+3745,7.1,2003.0,Action,Spider-Man,4032.0,2003
+3746,7.1,2003.0,Adventure,Spider-Man,4032.0,2003
+3747,7.1,2003.0,Crime,Spider-Man,4032.0,2003
+3748,7.1,2003.0,Drama,Spider-Man,4032.0,2003
+3749,7.1,2003.0,Sci-Fi,Spider-Man,4032.0,2003
+3750,7.1,2003.0,Thriller,Spider-Man,4032.0,2003
+3751,6.4,2003.0,Drama,Ju-on 2,7539.0,South Korea
+3752,6.4,2003.0,Horror,Ju-on 2,7539.0,South Korea
+3753,5.0,1998.0,Comedy,Free Money,2570.0,Singapore
+3754,5.0,1998.0,Crime,Free Money,2570.0,Singapore
+3755,6.7,1999.0,Crime,Joe the King,2472.0,USA
+3756,6.7,1999.0,Drama,Joe the King,2472.0,USA
+3757,6.9,1972.0,Comedy,A Day in the Death of Joe Egg,378.0,USA
+3758,6.9,1972.0,Drama,A Day in the Death of Joe Egg,378.0,USA
+3764,7.0,2008.0,Comedy,Burn After Reading,278672.0,USA
+3765,7.0,2008.0,Crime,Burn After Reading,278672.0,USA
+3766,7.0,2008.0,Drama,Burn After Reading,278672.0,USA
+3767,7.0,2008.0,Thriller,Burn After Reading,278672.0,USA
+3768,6.4,1982.0,Horror,Lo squartatore di New York,7815.0,Italy
+3769,6.4,1982.0,Mystery,Lo squartatore di New York,7815.0,Italy
+3770,6.4,1982.0,Thriller,Lo squartatore di New York,7815.0,Italy
+3783,6.7,1985.0,Drama,Insignificance,2753.0,USA
+3784,6.7,1985.0,Comedy,Insignificance,2753.0,USA
+3785,5.1,1999.0,Crime,Gloria,4932.0,USA
+3786,5.1,1999.0,Drama,Gloria,4932.0,USA
+3787,5.1,1999.0,Thriller,Gloria,4932.0,USA
+3788,6.8,2018.0,Crime,22 July,10876.0,USA
+3789,6.8,2018.0,Drama,22 July,10876.0,USA
+3790,6.8,2018.0,History,22 July,10876.0,USA
+3791,6.8,2018.0,Thriller,22 July,10876.0,USA
+3792,7.3,1988.0,Drama,Dead Ringers,34691.0,USA
+3793,7.3,1988.0,Horror,Dead Ringers,34691.0,USA
+3794,7.3,1988.0,Thriller,Dead Ringers,34691.0,USA
+3795,6.6,1993.0,Crime,Beyond the Law,5575.0,Germany
+3796,6.6,1993.0,Drama,Beyond the Law,5575.0,Germany
+3797,6.6,1993.0,Thriller,Beyond the Law,5575.0,Germany
+3798,5.4,2000.0,Comedy,Play It to the Bone,10885.0,USA
+3799,5.4,2000.0,Drama,Play It to the Bone,10885.0,USA
+3800,5.4,2000.0,Sport,Play It to the Bone,10885.0,USA
+3801,7.5,2016.0,Biography,Sully,187362.0,USA
+3802,7.5,2016.0,Drama,Sully,187362.0,USA
+3803,6.6,2004.0,Drama,The Manchurian Candidate,95364.0,USA
+3804,6.6,2004.0,Mystery,The Manchurian Candidate,95364.0,USA
+3805,6.6,2004.0,Sci-Fi,The Manchurian Candidate,95364.0,USA
+3806,6.6,2004.0,Thriller,The Manchurian Candidate,95364.0,USA
+3807,7.2,2011.0,Drama,"Noordzee, Texas",7203.0,USA
+3808,7.2,2011.0,Romance,"Noordzee, Texas",7203.0,USA
+3814,8.0,1940.0,Comedy,His Girl Friday,46985.0,USA
+3815,8.0,1940.0,Drama,His Girl Friday,46985.0,USA
+3816,8.0,1940.0,Romance,His Girl Friday,46985.0,USA
+3817,6.2,1992.0,Drama,The Bodyguard,104519.0,USA
+3818,6.2,1992.0,Music,The Bodyguard,104519.0,USA
+3819,6.2,1992.0,Romance,The Bodyguard,104519.0,USA
+3820,6.2,1992.0,Thriller,The Bodyguard,104519.0,USA
+3827,7.6,1933.0,Comedy,Design for Living,4756.0,USA
+3828,7.6,1933.0,Romance,Design for Living,4756.0,USA
+3829,8.7,1998.0,Comedy,Lajanje na zvezde,5458.0,Federal Republic of Yugoslavia
+3830,8.7,1998.0,Romance,Lajanje na zvezde,5458.0,Federal Republic of Yugoslavia
+3837,5.4,1988.0,Horror,Hide and Go Shriek,929.0,USA
+3838,5.4,1988.0,Thriller,Hide and Go Shriek,929.0,USA
+3839,6.2,1999.0,Drama,Message in a Bottle,32610.0,USA
+3840,6.2,1999.0,Romance,Message in a Bottle,32610.0,USA
+3841,5.0,2015.0,Action,Close Range,3747.0,USA
+3842,5.0,2015.0,Crime,Close Range,3747.0,USA
+3843,7.7,1971.0,Adventure,Walkabout,19890.0,USA
+3844,7.7,1971.0,Drama,Walkabout,19890.0,USA
+3845,8.0,2018.0,Action,Mission: Impossible - Fallout,147076.0,USA
+3846,8.0,2018.0,Adventure,Mission: Impossible - Fallout,147076.0,USA
+3847,8.0,2018.0,Thriller,Mission: Impossible - Fallout,147076.0,USA
+3853,5.7,1988.0,Comedy,Sweet Hearts Dance,714.0,USA
+3854,5.7,1988.0,Drama,Sweet Hearts Dance,714.0,USA
+3855,5.7,1988.0,Romance,Sweet Hearts Dance,714.0,USA
+3856,6.6,2009.0,Action,Terminator Salvation,313411.0,USA
+3857,6.6,2009.0,Adventure,Terminator Salvation,313411.0,USA
+3858,6.6,2009.0,Sci-Fi,Terminator Salvation,313411.0,USA
+3859,6.0,1934.0,Comedy,Kiss and Make-Up,431.0,USA
+3860,6.0,1934.0,Musical,Kiss and Make-Up,431.0,USA
+3861,6.0,1934.0,Romance,Kiss and Make-Up,431.0,USA
+3862,6.7,2004.0,Thriller,La demoiselle d'honneur,2441.0,France
+3863,6.7,2004.0,Drama,La demoiselle d'honneur,2441.0,France
+3864,6.7,2004.0,Romance,La demoiselle d'honneur,2441.0,France
+3870,6.6,1975.0,Adventure,The Great Waldo Pepper,4809.0,USA
+3871,6.6,1975.0,Drama,The Great Waldo Pepper,4809.0,USA
+3872,4.7,1983.0,Drama,Premiers désirs,780.0,France
+3873,4.7,1983.0,Romance,Premiers désirs,780.0,France
+3874,3.3,2018.0,Comedy,Anonymous Zombie,47.0,Canada
+3875,3.3,2018.0,Horror,Anonymous Zombie,47.0,Canada
+3876,8.7,2017.0,Documentary,The Defiant Ones,7344.0,2017
+3877,8.7,2017.0,Biography,The Defiant Ones,7344.0,2017
+3878,8.7,2017.0,Crime,The Defiant Ones,7344.0,2017
+3879,8.7,2017.0,Music,The Defiant Ones,7344.0,2017
+3880,6.5,2017.0,Horror,Happy Death Day,67548.0,USA
+3881,6.5,2017.0,Mystery,Happy Death Day,67548.0,USA
+3882,6.5,2017.0,Thriller,Happy Death Day,67548.0,USA
+3883,7.8,2000.0,Biography,Remember the Titans,179935.0,USA
+3884,7.8,2000.0,Drama,Remember the Titans,179935.0,USA
+3885,7.8,2000.0,Sport,Remember the Titans,179935.0,USA
+3886,6.7,1995.0,Crime,Devil in a Blue Dress,15270.0,USA
+3887,6.7,1995.0,Drama,Devil in a Blue Dress,15270.0,USA
+3888,6.7,1995.0,Mystery,Devil in a Blue Dress,15270.0,USA
+3889,6.7,1995.0,Thriller,Devil in a Blue Dress,15270.0,USA
+3890,5.8,1959.0,Drama,Behemoth the Sea Monster,1826.0,USA
+3891,5.8,1959.0,Fantasy,Behemoth the Sea Monster,1826.0,USA
+3892,5.8,1959.0,Horror,Behemoth the Sea Monster,1826.0,USA
+3893,5.8,1959.0,Sci-Fi,Behemoth the Sea Monster,1826.0,USA
+3902,6.1,2013.0,Action,Hansel & Gretel: Witch Hunters,178511.0,USA
+3903,6.1,2013.0,Fantasy,Hansel & Gretel: Witch Hunters,178511.0,USA
+3904,6.1,2013.0,Horror,Hansel & Gretel: Witch Hunters,178511.0,USA
+3905,6.9,2014.0,Mystery,Enemy,135346.0,USA
+3906,6.9,2014.0,Thriller,Enemy,135346.0,USA
+3907,7.4,2016.0,Action,The Nice Guys,225678.0,USA
+3908,7.4,2016.0,Comedy,The Nice Guys,225678.0,USA
+3909,7.4,2016.0,Crime,The Nice Guys,225678.0,USA
+3910,7.4,2016.0,Mystery,The Nice Guys,225678.0,USA
+3911,7.4,2016.0,Thriller,The Nice Guys,225678.0,USA
+3912,7.6,1951.0,Crime,Dragnet,1498.0,1951–1959
+3913,7.6,1951.0,Drama,Dragnet,1498.0,1951–1959
+3914,7.6,1951.0,Mystery,Dragnet,1498.0,1951–1959
+3915,8.0,2006.0,Biography,The Pursuit of Happyness,392375.0,USA
+3916,8.0,2006.0,Drama,The Pursuit of Happyness,392375.0,USA
+3917,5.3,1982.0,Horror,Incubus,1486.0,USA
+3918,5.3,1982.0,Thriller,Incubus,1486.0,USA
+3919,4.8,2018.0,Drama,The Boo,57.0,USA
+3920,4.8,2018.0,Horror,The Boo,57.0,USA
+3921,4.8,2018.0,Thriller,The Boo,57.0,USA
+3922,5.5,1988.0,Action,'Crocodile' Dundee II,48929.0,USA
+3923,5.5,1988.0,Adventure,'Crocodile' Dundee II,48929.0,USA
+3924,5.5,1988.0,Comedy,'Crocodile' Dundee II,48929.0,USA
+3925,7.0,1977.0,Comedy,The Late Show,1858.0,Denmark
+3926,7.0,1977.0,Mystery,The Late Show,1858.0,Denmark
+3927,7.0,1977.0,Thriller,The Late Show,1858.0,Denmark
+3928,6.1,1978.0,Horror,Blue Sunshine,2141.0,USA
+3929,6.1,1978.0,Thriller,Blue Sunshine,2141.0,USA
+3930,3.1,2018.0,Action,Neron,443.0,USA
+3931,3.1,2018.0,Drama,Neron,443.0,USA
+3932,3.1,2018.0,Horror,Neron,443.0,USA
+3933,3.1,2018.0,Mystery,Neron,443.0,USA
+3934,3.1,2018.0,Thriller,Neron,443.0,USA
+3935,6.7,1987.0,Action,The Living Daylights,78263.0,USA
+3936,6.7,1987.0,Adventure,The Living Daylights,78263.0,USA
+3937,6.7,1987.0,Thriller,The Living Daylights,78263.0,USA
+3938,2.1,1990.0,Action,Space Mutiny,6217.0,USA
+3939,2.1,1990.0,Adventure,Space Mutiny,6217.0,USA
+3940,2.1,1990.0,Romance,Space Mutiny,6217.0,USA
+3941,2.1,1990.0,Sci-Fi,Space Mutiny,6217.0,USA
+3942,5.3,1989.0,Comedy,Luther the Geek,798.0,USA
+3943,5.3,1989.0,Horror,Luther the Geek,798.0,USA
+3950,7.4,1961.0,Horror,Taste of Fear,3035.0,USA
+3951,7.4,1961.0,Thriller,Taste of Fear,3035.0,USA
+3957,6.7,1998.0,Drama,City of Angels,104607.0,USA
+3958,6.7,1998.0,Fantasy,City of Angels,104607.0,USA
+3959,6.7,1998.0,Romance,City of Angels,104607.0,USA
+3960,7.8,2013.0,Drama,La vie d'Adèle,118764.0,France
+3961,7.8,2013.0,Romance,La vie d'Adèle,118764.0,France
+3962,6.7,1987.0,Comedy,Can't Buy Me Love,28328.0,USA
+3963,6.7,1987.0,Drama,Can't Buy Me Love,28328.0,USA
+3964,6.7,1987.0,Romance,Can't Buy Me Love,28328.0,USA
+3965,2.4,1961.0,Horror,The Beast of Yucca Flats,6960.0,USA
+3966,2.4,1961.0,Sci-Fi,The Beast of Yucca Flats,6960.0,USA
+3967,8.5,1954.0,Mystery,Rear Window,382071.0,USA
+3968,8.5,1954.0,Thriller,Rear Window,382071.0,USA
+3986,5.6,1988.0,Horror,Bad Dreams,2806.0,USA
+3987,5.6,1988.0,Thriller,Bad Dreams,2806.0,USA
+3988,6.7,2008.0,Documentary,Maradona by Kusturica,5121.0,France
+3989,6.7,2008.0,Sport,Maradona by Kusturica,5121.0,France
+3990,7.9,2008.0,Action,Iron Man,816047.0,USA
+3991,7.9,2008.0,Adventure,Iron Man,816047.0,USA
+3992,7.9,2008.0,Sci-Fi,Iron Man,816047.0,USA
+3993,8.1,2013.0,Biography,12 Years a Slave,553519.0,USA
+3994,8.1,2013.0,Drama,12 Years a Slave,553519.0,USA
+3995,8.1,2013.0,History,12 Years a Slave,553519.0,USA
+3996,6.8,1943.0,Drama,Keeper of the Flame,1789.0,USA
+3997,6.8,1943.0,Mystery,Keeper of the Flame,1789.0,USA
+3998,6.4,1996.0,Drama,Phenomenon,69515.0,USA
+3999,6.4,1996.0,Fantasy,Phenomenon,69515.0,USA
+4000,6.4,1996.0,Romance,Phenomenon,69515.0,USA
+4001,6.4,1996.0,Sci-Fi,Phenomenon,69515.0,USA
