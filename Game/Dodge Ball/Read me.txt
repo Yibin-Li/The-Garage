@@ -11,3 +11,6 @@ v0.25
 v0.3
 1. Use mouse (touchpoint) instead of keyboard to control the ball
 2. Reward now will stay on the screen all time unless you capture it in a level
+
+v0.4
+1. host the game to the AWS s3
