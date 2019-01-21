@@ -4,7 +4,7 @@ v0.2 Add the "Reward" feature
 
 v0.25 
 1. Add the "anouncement" text to the screen
-2. remove the playerInfoText (keep it optional in the file)
+2. Remove the playerInfoText (keep it optional in the file)
 3. Add the displayText helper function and rebuild the instructionDisplay
 4. Remove the instructionDisplay and announcementDisplay in each level
 
@@ -13,4 +13,9 @@ v0.3
 2. Reward now will stay on the screen all time unless you capture it in a level
 
 v0.4
-1. host the game to the AWS s3
+1. Host the game to the AWS s3
+
+v0.5
+1. Introduce the countdown at the beginning
+2. Add playerBall blinking at the first 3 seconds every levels to show invincibility.
+PS: Enable the auto rotate function on the phone to play the game horizontally. 

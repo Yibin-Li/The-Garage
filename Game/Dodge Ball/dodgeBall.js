@@ -1,19 +1,32 @@
-PIXI.utils.sayHello(); 
+PIXI.utils.sayHello();
 // size of the game
+/*if (window.innerWidth > window.innerHeight) {
+	console.log(window.innerWidth);
+	console.log(window.innerHeight);
+	var xSize = window.innerWidth - 20; // 800 originally
+	var ySize = window.innerHeight - 20; // 600 originally
+} else {
+	var xSize = window.innerHeight - 20; // 800 originally
+	var ySize = window.innerWidth - 20; // 600 originally
+	console.log(window.innerWidth);
+	console.log(window.innerHeight);
+}*/
+
 var xSize = window.innerWidth - 20; // 800 originally
 var ySize = window.innerHeight - 20; // 600 originally
 
+// current time
+var d = new Date();
+var n = d.getTime();
+
+// -------------Balls Variables-----------------
 // starting position of other balls
 var xStart = 100;
 var yStart = 200;
 
 // startign position of the player's ball
-var xPlayerStart = 500;
+var xPlayerStart = 300;
 var yPlayerStart = 400;
-
-// current time
-var d = new Date();
-var n = d.getTime();
 
 // radius of the playerball
 var playerBallRadius = 30;
@@ -30,6 +43,7 @@ var ballNumber = 2;
 // current game level
 var curretLevels = 0;
 
+// -------------Time Variables-------------------
 // wait time between each level (in milliseconds)
 var waitLevelTime = 1000;
 
@@ -37,14 +51,21 @@ var waitLevelTime = 1000;
 var invincibleTime = 3000;
 
 // the time to play for each level (in milliseconds)
-var levelTime = 10000; 
+var levelTime = 10000;
 
 // the time to display the instruction (in milliseconds)
-var instructionDisplayTime = 100;
+var instructionDisplayTime = 5000;
+
+// the time to display countdown text (in milliseconds)
+var countdownDisplayTime = 1000;
+
+// the time to display all text before the game starts
+var allTextDisplayTime = countdownDisplayTime * 3 + instructionDisplayTime;
 
 // the time to dispaly the announcement (in milliseconds)
 var announcementTime = 2000;
 
+// ------------------Other Variables---------------------
 // the scale for the score (update when capture the reward)
 var scale = 1;
 
@@ -55,6 +76,7 @@ var rewardPresent = true;
 var mouseX = -1;
 var mouseY = -1;
 
+// ----------------Elements Variables----------------
 // set up current game environment
 var app = new PIXI.Application(xSize, ySize, {backgroundColor: 0x1099bb});
 document.body.appendChild(app.view);
@@ -63,7 +85,7 @@ document.body.appendChild(app.view);
 // initialize reward
 var reward = new PIXI.Graphics();
 reward.beginFill(0x39ff2b); // green
-reward.drawRect(0, 0, 20, 20); 
+reward.drawRect(0, 0, 20, 20);
 reward.x = 50;
 reward.y = 50;
 reward.endFill();
@@ -74,7 +96,7 @@ rewardYSpeed = Math.floor(Math.random() * 8) - 4;
 // initialize player ball
 var playerBall = new PIXI.Graphics();
 playerBall.beginFill(0xffffff); // white
-playerBall.drawCircle(0, 0, playerBallRadius); 
+playerBall.drawCircle(0, 0, playerBallRadius);
 playerBall.x = xPlayerStart;
 playerBall.y = yPlayerStart;
 playerBall.endFill();
@@ -94,7 +116,7 @@ app.stage.addChild(playerInfoText);*/
 
 // add announcement to the screen
 var announcementText = new PIXI.Text("Score Doubled!", {
-	fontSize: 50, 
+	fontSize: 50,
 	fill: '0xffffff'
 });
 announcementText.x = 20;
@@ -121,7 +143,7 @@ var levelText = new PIXI.Text("Next Level", {
 			fontWeight: 'bold',
 			fontStyle: 'italic',
 			fontSize: 80
-});		
+});
 levelText.x = app.screen.width / 2 - 180;
 levelText.y = app.screen.height / 2 - 50;
 levelText.alpha = 0;
@@ -136,9 +158,9 @@ levelInfoText.y = 40;
 app.stage.addChild(levelInfoText);
 
 // instruction text before the game starts
-var instructionText = new PIXI.Text("						   The game is easy \n Avoid the read objects by sliding on the screen \n		For extra point capture the green objects", {
+var instructionText = new PIXI.Text("			        			          The game is easy \n Avoid the read objects by sliding on the screen \n		     For extra points capture the green objects", {
 		fontWeight: 'bold',
-		fontSize: 25
+		fontSize: 30
 });
 instructionText.alpha = 0;
 app.stage.addChild(instructionText);
@@ -146,11 +168,48 @@ app.stage.addChild(instructionText);
 instructionText.x = app.screen.width / 2 - 300;
 instructionText.y = app.screen.height / 2 - 80;
 
+var sanText = new PIXI.Text("San", {
+		fontWeight: 'bold',
+		fontSize: 75
+});
+sanText.alpha = 0;
+app.stage.addChild(sanText);
+
+var erText = new PIXI.Text("Er", {
+		fontWeight: 'bold',
+		fontSize: 75
+});
+erText.alpha = 0;
+app.stage.addChild(erText);
+
+var yiText = new PIXI.Text("Yi", {
+		fontWeight: 'bold',
+		fontSize: 75
+});
+yiText.alpha = 0;
+app.stage.addChild(yiText);
+
+sanText.x = app.screen.width / 2 - 30;
+sanText.y = app.screen.height / 2 -30;
+erText.x = app.screen.width / 2 - 30;
+erText.y = app.screen.height / 2 - 30;
+yiText.x = app.screen.width / 2 - 30;
+yiText.y = app.screen.height / 2 - 30;
+
+
 // add functions to each frame
 //app.ticker.add(instructionDisplay);
 instructionDisplay = displayText(instructionText, instructionDisplayTime, 0);
+
+sanTextDisplay = displayText(sanText, countdownDisplayTime, instructionDisplayTime);
+erTextDisplay = displayText(erText, countdownDisplayTime, instructionDisplayTime + countdownDisplayTime);
+yiTextDisplay = displayText(yiText, countdownDisplayTime, instructionDisplayTime + 2 * countdownDisplayTime);
+
 announcementDisplay = "";
 app.ticker.add(instructionDisplay);
+app.ticker.add(sanTextDisplay);
+app.ticker.add(erTextDisplay);
+app.ticker.add(yiTextDisplay);
 app.ticker.add(motion);
 app.ticker.add(nextLevel);
 app.ticker.add(end);
@@ -170,11 +229,11 @@ function displayText(textToDisplay, duration, startTime) {
 		// update time
 		let date = new Date();
 		let timeElapsed = date.getTime() - n;
-		
+
 		//console.log("time passed: " + timeElapsed);
 		//console.log("time supposed to stop: " + startTime + duration);
-		
-		if (timeElapsed < startTime + duration) { 
+
+		if ((startTime < timeElapsed) && (timeElapsed < startTime + duration)) {
 			textToDisplay.alpha = 100;
 		}
 		else {
@@ -216,17 +275,31 @@ function initializeBallsAndDraw() {
 function motion() {
 	// update time
 	let d = new Date();
-	let timeElapsed = d.getTime() - n - instructionDisplayTime;
-	
+	let timeElapsed = d.getTime() - n - allTextDisplayTime;
+
 	if (timeElapsed > 0) {
-	
-		// check if need to display text (130000 means 13s, 10s for each 
+
+		// check if need to display text (130000 means 13s, 10s for each
 		// level, 3s for display text)
 		if (timeElapsed > (levelTime - 50) + curretLevels*(levelTime + waitLevelTime)) {
 			// console.log("movingballs called curretLevels: " + curretLevels)
 			levelText.alpha = 100;
 		};
-		
+
+		// playerBall blinks to show invincibility
+		let levelOngoingTime = timeElapsed - curretLevels*(levelTime + waitLevelTime);
+		if (levelOngoingTime < 3000){
+			if (levelOngoingTime / 400 % 2 <= 1) {
+				playerBall.alpha = 0.6;
+			} else {
+				playerBall.alpha = 1;
+			}
+
+		} else{
+			playerBall.alpha = 100;
+		}
+
+
 		if (rewardCollided() && rewardPresent){
 			app.stage.removeChild(reward);
 			scale = scale * 2;
@@ -240,13 +313,13 @@ function motion() {
 		let yCo = playerBall.y.toString();
 		playerInfoText.text = "X: " + xCo + " Y: " + yCo + " V: " + playerBallVelocity;
 		*/
-		
+
 		//update score and time
 		scoreText.text = "Score: " + (timeElapsed - curretLevels*waitLevelTime) * scale;
-		timeText.text = "Time: " + 
+		timeText.text = "Time: " +
 		(1 + Math.floor((timeElapsed - curretLevels*waitLevelTime)/ 1000)) + "s";
 		levelInfoText.text = "Level: " + (curretLevels + 1);
-		
+
 		// update red balls' position
 		for (let j = 0; j < allGraphic.length; j++) {
 			let xPos = allGraphic[j].x + allGraphicVelocity[j][0];
@@ -260,7 +333,7 @@ function motion() {
 			allGraphic[j].x += allGraphicVelocity[j][0];
 			allGraphic[j].y += allGraphicVelocity[j][1];
 		};
-		
+
 		// update reward's position
 		rewardXPos = reward.x;
 		rewardYPos = reward.y;
@@ -268,7 +341,7 @@ function motion() {
 		//console.log("y: ", rewardYPos);
 		if (rewardXPos > xSize || rewardXPos < 0) {
 			rewardXSpeed = -rewardXSpeed;
-		}; 
+		};
 		if (rewardYPos > ySize || rewardYPos < 0) {
 			rewardYSpeed = -rewardYSpeed;
 		};
@@ -281,7 +354,7 @@ function motion() {
 function collided() {
 	for (let j = 0; j < allGraphic.length; j++) {
 		let ball = allGraphic[j];
-		let dis = Math.sqrt((playerBall.x - ball.x) ** 2 
+		let dis = Math.sqrt((playerBall.x - ball.x) ** 2
 		+ (playerBall.y - ball.y) ** 2);
 		if (dis <= ballRadius) {
 			return true;
@@ -292,17 +365,17 @@ function collided() {
 
 // function that terminates the game (when the player collide with the red balls)
 function end() {
-	
+
 	// find elapsed time from the game starts
 	let d = new Date();
-	let timeElapsed = d.getTime() - n - instructionDisplayTime;
-	
-	if (timeElapsed > invincibleTime + 
-		curretLevels*(levelTime + waitLevelTime) && collided()) {		
+	let timeElapsed = d.getTime() - n - allTextDisplayTime;
+
+	if (timeElapsed > invincibleTime +
+		curretLevels*(levelTime + waitLevelTime) && collided()) {
 		app.ticker.stop();
 		scoreText.alpha = 0;
 		// playerInfoText.alpha = 0;
-		
+
 		/*// clean the screen
 		for (var i = app.stage.children.length - 1; i >= 0; i--) {
 			app.stage.removeChild(app.stage.children[i]);
@@ -317,14 +390,14 @@ function end() {
 			//stroke: '#a4410e',
 			//strokeThickness: 7
 		});
-		
-		var endTextScore = new PIXI.Text("Score: "+ 
+
+		var endTextScore = new PIXI.Text("  Score: "+
 		(timeElapsed - curretLevels*waitLevelTime) * scale, {
 			fontWeight: 'bold',
 			fontStyle: 'italic',
-			fontSize: 60,
+			fontSize: 50,
 		});
-		
+
 		endText.x = app.screen.width / 2 - 200;
 		endText.y = app.screen.height / 2 - 50;
 		endTextScore.x = app.screen.width / 2 - 150;
@@ -338,17 +411,17 @@ function end() {
 // if the player survive more than 10s, game goes to next level
 function nextLevel() {
 	let d = new Date();
-	let timeElapsed = d.getTime() - n - instructionDisplayTime;
-	
-	if (timeElapsed > (levelTime + 1) + curretLevels*(levelTime + waitLevelTime)) {		
+	let timeElapsed = d.getTime() - n - allTextDisplayTime;
+
+	if (timeElapsed > (levelTime + 1) + curretLevels*(levelTime + waitLevelTime)) {
 		curretLevels += 1;
-		
+
 		// increase difficulty
 		ballNumber += 1;
 		ballRadius += 1;
-		
+
 		app.ticker.stop();
-		
+
 		// stop for waitLevelTime milliseconds
 		let dd = new Date();
 		let timer = dd.getTime() - d.getTime();
@@ -356,18 +429,18 @@ function nextLevel() {
 			let dd = new Date();
 			timer = dd.getTime() - d.getTime();
 		}
-		
+
 		// clean the screen
 		for (let i = app.stage.children.length - 1; i >= 0; i--) {
 			app.stage.removeChild(app.stage.children[i]);
 		};
-		
+
 		app.ticker.start();
-		
+
 		// consider remove this line in the future?
 		app.ticker.remove(instructionDisplay);
 		app.ticker.remove(announcementDisplay);
-		
+
 		// make levelInfoText invisible during the game
 		levelText.alpha = 0;
 		repeat();
@@ -394,7 +467,7 @@ function repeat() {
 function rewardCollided() {
 	//let d = new Date();
 	//let timeElapsed = d.getTime() - n - instructionDisplayTime;
-	let dis = Math.sqrt((playerBall.x - reward.x - 5) ** 2 
+	let dis = Math.sqrt((playerBall.x - reward.x - 5) ** 2
 		+ (playerBall.y - reward.y - 5) ** 2);
 	if (dis <= ballRadius) {
 		return true;
@@ -406,29 +479,29 @@ function rewardCollided() {
 -----------------------------------------------------
 */
 // touch screen control method
-function onTouchMove(touchData){  
+function onTouchMove(touchData){
 	app.renderer.plugins.interaction.on('pointerdown', function(event) {
 		MouseCoordinates = event.data.global;
 		});
-	//currentMousePos.x = "x:" + MouseCoordinates.x;	
+	//currentMousePos.x = "x:" + MouseCoordinates.x;
 	//currentMousePos.y = "y: " + MouseCoordinates.y;
 	mouseX = MouseCoordinates.x;
 	mouseY = MouseCoordinates.y;
 	let playerX = playerBall.x
 	let playerY = playerBall.y
-	let dist = Math.sqrt((playerX - mouseX - 6) ** 2 
+	let dist = Math.sqrt((playerX - mouseX - 6) ** 2
 		+ (playerY - mouseY - 6) ** 2);
 	let d = new Date();
 	let timeElapsed = d.getTime() - n;
-	
-	if (timeElapsed > instructionDisplayTime && dist >= playerBallRadius) {
-		let distScalar = Math.sqrt(((mouseX - playerX)**2 + 
+
+	if (timeElapsed > allTextDisplayTime && dist >= playerBallRadius) {
+		let distScalar = Math.sqrt(((mouseX - playerX)**2 +
 		(mouseY - playerY)**2)/ playerBallVelocity**2);
 		if (((playerBall.x + (mouseX - playerX) / distScalar) >= 0 + playerBallRadius) &&
 			 ((playerBall.x + (mouseX - playerX) / distScalar) <= xSize - playerBallRadius)){
 			playerBall.x += (mouseX - playerX) / distScalar;
 		};
-		
+
 		if (((playerBall.y + (mouseY - playerY) / distScalar) >= 0 + playerBallRadius) &&
 			 ((playerBall.y + (mouseY - playerY) / distScalar) <= ySize - playerBallRadius)){
 			playerBall.y += (mouseY - playerY) / distScalar;
@@ -442,22 +515,22 @@ function onMouseMove(mouseData) {
 	mouseY = mouseData.y
 	let playerX = playerBall.x
 	let playerY = playerBall.y
-	let dist = Math.sqrt((playerX - mouseX - 6) ** 2 
+	let dist = Math.sqrt((playerX - mouseX - 6) ** 2
 		+ (playerY - mouseY - 6) ** 2);
 	//console.log("onMouseMoved");
 	//console.log("mouse " + "x: " + mouseX + ", " + "y: " + mouseY);
 	//console.log("ball " + "x: " + playerX + ", " + "y: " + playerY)
 	let d = new Date();
 	let timeElapsed = d.getTime() - n;
-	
-	if (timeElapsed > instructionDisplayTime && dist >= playerBallRadius) {
-		let distScalar = Math.sqrt(((mouseX - playerX)**2 + 
+
+	if (timeElapsed > allTextDisplayTime && dist >= playerBallRadius) {
+		let distScalar = Math.sqrt(((mouseX - playerX)**2 +
 		(mouseY - playerY)**2)/ playerBallVelocity**2);
 		if (((playerBall.x + (mouseX - playerX) / distScalar) >= 0 + playerBallRadius) &&
 			 ((playerBall.x + (mouseX - playerX) / distScalar) <= xSize - playerBallRadius)){
 			playerBall.x += (mouseX - playerX) / distScalar;
 		};
-		
+
 		if (((playerBall.y + (mouseY - playerY) / distScalar) >= 0 + playerBallRadius) &&
 			 ((playerBall.y + (mouseY - playerY) / distScalar) <= ySize - playerBallRadius)){
 			playerBall.y += (mouseY - playerY) / distScalar;
@@ -469,31 +542,31 @@ function onMouseMove(mouseData) {
 function onKeyPressed(key) {
 	let d = new Date();
 	let timeElapsed = d.getTime() - n;
-	
-	if (timeElapsed > instructionDisplayTime) {
-		
-		// W Key is 87, Up arrow is 87. If the W key or the Up arrow is pressed, 
+
+	if (timeElapsed > allTextDisplayTime) {
+
+		// W Key is 87, Up arrow is 87. If the W key or the Up arrow is pressed,
 		// move the player up. Don't move up if the player is at the top of the stage.
 		if ((key.keyCode === 87 || key.keyCode === 38)&&
 			((playerBall.y - playerBallVelocity) >= 0 + playerBallRadius))	{
 			playerBall.y -= playerBallVelocity;
 		};
 
-		// S Key is 83, Down arrow is 40. If the S key or the Down arrow is pressed, 
+		// S Key is 83, Down arrow is 40. If the S key or the Down arrow is pressed,
 		// move the player down. Don't move if the player is at the bottom.
 		if ((key.keyCode === 83 || key.keyCode === 40)&&
 			((playerBall.y + playerBallVelocity) <= ySize - playerBallRadius)) {
 			playerBall.y += playerBallVelocity;
 		};
 
-		// A Key is 65, Left arrow is 37. If the A key or the Left arrow is pressed, 
+		// A Key is 65, Left arrow is 37. If the A key or the Left arrow is pressed,
 		// move the player to the left. Don't move if the player is at the left side.
 		if ((key.keyCode === 65 || key.keyCode === 37)&&
 			((playerBall.x - playerBallVelocity) >= 0 + playerBallRadius)) {
 			playerBall.x -= playerBallVelocity;
 		};
 
-		// D Key is 68, Right arrow is 39. If the D key or the Right arrow is pressed, 
+		// D Key is 68, Right arrow is 39. If the D key or the Right arrow is pressed,
 		// move the player to the right.Don't move if the player is at the right side.
 		if ((key.keyCode === 68 || key.keyCode === 39)&&
 			((playerBall.x + playerBallVelocity) <= xSize - playerBallRadius)){
