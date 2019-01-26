@@ -19,3 +19,6 @@ v0.5
 1. Introduce the countdown at the beginning
 2. Add playerBall blinking at the first 3 seconds every levels to show invincibility.
 PS: Enable the auto rotate function on the phone to play the game horizontally. 
+
+v0.6
+1. Modify the touch and mouse control mechanism. Now it remembers the last time touch/ mouse position and calculates the relative movement for the ball.
