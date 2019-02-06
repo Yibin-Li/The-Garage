@@ -67,7 +67,8 @@ var announcementTime = 2000;
 
 // ------------------Other Variables---------------------
 // the scale for the score (update when capture the reward)
-var scale = 1;
+var scale = 1000;
+var rewardScore = 0;
 
 // set reward present in the screen
 var rewardPresent = true;
@@ -117,7 +118,7 @@ playerInfoText.y = 0;
 app.stage.addChild(playerInfoText);*/
 
 // add announcement to the screen
-var announcementText = new PIXI.Text("Score Doubled!", {
+var announcementText = new PIXI.Text("Score Increased!", {
 	fontSize: 50,
 	fill: '0xffffff'
 });
@@ -304,7 +305,7 @@ function motion() {
 
 		if (rewardCollided() && rewardPresent){
 			app.stage.removeChild(reward);
-			scale = scale * 2;
+			rewardScore = rewardScore + 10 + 2*curretLevels;
 			rewardPresent = false;
 			announcementDisplay = displayText(announcementText, announcementTime, d.getTime() - n);
 			app.ticker.add(announcementDisplay);
@@ -317,7 +318,8 @@ function motion() {
 		*/
 
 		//update score and time
-		scoreText.text = "Score: " + (timeElapsed - curretLevels*waitLevelTime) * scale;
+		score = rewardScore + Math.floor((timeElapsed - curretLevels*waitLevelTime) / scale)
+		scoreText.text = "Score: " + score;
 		timeText.text = "Time: " +
 		(1 + Math.floor((timeElapsed - curretLevels*waitLevelTime)/ 1000)) + "s";
 		levelInfoText.text = "Level: " + (curretLevels + 1);
@@ -394,7 +396,7 @@ function end() {
 		});
 
 		var endTextScore = new PIXI.Text("  Score: "+
-		(timeElapsed - curretLevels*waitLevelTime) * scale, {
+		score, {
 			fontWeight: 'bold',
 			fontStyle: 'italic',
 			fontSize: 50,
@@ -485,32 +487,7 @@ function onTouchMove(touchData){
 	app.renderer.plugins.interaction.on('pointerdown', function(event) {
 		MouseCoordinates = event.data.global;
 		});
-	//currentMousePos.x = "x:" + MouseCoordinates.x;
-	//currentMousePos.y = "y: " + MouseCoordinates.y;
-	/*currentmouseX = MouseCoordinates.x;
-	currentmouseY = MouseCoordinates.y;
-	let playerX = playerBall.x
-	let playerY = playerBall.y
 
-	let dist = Math.sqrt((playerX - mouseX - 6) ** 2
-		+ (playerY - mouseY - 6) ** 2);
-	let d = new Date();
-	let timeElapsed = d.getTime() - n;
-
-	if (timeElapsed > allTextDisplayTime && dist >= playerBallRadius) {
-		let distScalar = Math.sqrt(((mouseX - playerX)**2 +
-		(mouseY - playerY)**2)/ playerBallVelocity**2);
-		if (((playerBall.x + (mouseX - playerX) / distScalar) >= 0 + playerBallRadius) &&
-			 ((playerBall.x + (mouseX - playerX) / distScalar) <= xSize - playerBallRadius)){
-			playerBall.x += (mouseX - playerX) / distScalar;
-		};
-
-		if (((playerBall.y + (mouseY - playerY) / distScalar) >= 0 + playerBallRadius) &&
-			 ((playerBall.y + (mouseY - playerY) / distScalar) <= ySize - playerBallRadius)){
-			playerBall.y += (mouseY - playerY) / distScalar;
-		};
-	};
-};*/
 	currentmouseX = MouseCoordinates.x;
 	currentmouseY = MouseCoordinates.y;
 
@@ -519,7 +496,7 @@ function onTouchMove(touchData){
 
 	if (timeElapsed > allTextDisplayTime) {
 		// the factor that controls how fast the ball moves
-		let distScalar = 1;
+		let distScalar = 0.5;
 		if (((playerBall.x + (currentmouseX - lastmouseX) / distScalar) >= 0 + playerBallRadius) &&
 			 ((playerBall.x + (currentmouseX - lastmouseX) / distScalar) <= xSize - playerBallRadius)){
 			playerBall.x += (currentmouseX - lastmouseX) / distScalar;
@@ -544,7 +521,7 @@ function onMouseMove(mouseData) {
 
 	if (timeElapsed > allTextDisplayTime) {
 		// the factor that controls how fast the ball moves
-		let distScalar = 1;
+		let distScalar = 0.5;
 		if (((playerBall.x + (currentmouseX - lastmouseX) / distScalar) >= 0 + playerBallRadius) &&
 			 ((playerBall.x + (currentmouseX - lastmouseX) / distScalar) <= xSize - playerBallRadius)){
 			playerBall.x += (currentmouseX - lastmouseX) / distScalar;

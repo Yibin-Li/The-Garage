@@ -22,3 +22,7 @@ PS: Enable the auto rotate function on the phone to play the game horizontally.
 
 v0.6
 1. Modify the touch and mouse control mechanism. Now it remembers the last time touch/ mouse position and calculates the relative movement for the ball.
+
+v0.7
+1. Update the white ball moving distScalar to 0.5
+2. Update the score such that score = times you survived in seconds*level number + (10 + 2*level number) 
