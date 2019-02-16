@@ -490,11 +490,34 @@ function onTouchMove(touchData){
 
 	currentmouseX = MouseCoordinates.x;
 	currentmouseY = MouseCoordinates.y;
+	let noActionStartingTime = 0;
+	let noActionDuration = 0;
 
 	let d = new Date();
 	let timeElapsed = d.getTime() - n;
 
 	if (timeElapsed > allTextDisplayTime) {
+
+		// inactivative detection
+		if ((currentmouseX == lastmouseX) &&
+		(currentmouseY == lastmouseY) &&
+		(noActionStartingTime == 0)){
+			let dtime = new Date();
+			noActionStartingTime = dtime.getTime() - n;
+		} else if ((currentmouseX == lastmouseX) &&
+		(currentmouseY == lastmouseY)) {
+			let dtime = new Date();
+			noActionDuration = dtime.getTime() - noActionStartingTime;
+		} else {
+			noActionStartingTime = 0;
+			noActionDuration = 0;
+		}
+
+		if (noActionDuration > 500) {
+			lastmouseX = -1;
+			lastmouseY = -1;
+		}
+
 		// the factor that controls how fast the ball moves
 		let distScalar = 0.5;
 		if (((playerBall.x + (currentmouseX - lastmouseX) / distScalar) >= 0 + playerBallRadius) &&
@@ -518,8 +541,30 @@ function onMouseMove(mouseData) {
 
 	let d = new Date();
 	let timeElapsed = d.getTime() - n;
+	let noActionStartingTime = 0;
+	let noActionDuration = 0;
 
 	if (timeElapsed > allTextDisplayTime) {
+
+		// inactivative detection
+		if ((currentmouseX == lastmouseX) &&
+		(currentmouseY == lastmouseY) &&
+		(noActionStartingTime == 0)){
+			let dtime = new Date();
+			noActionStartingTime = dtime.getTime() - n;
+		} else if ((currentmouseX == lastmouseX) &&
+		(currentmouseY == lastmouseY)) {
+			let dtime = new Date();
+			noActionDuration = dtime.getTime() - noActionStartingTime;
+		} else {
+			noActionStartingTime = 0;
+			noActionDuration = 0;
+		}
+
+		if (noActionDuration > 1000) {
+			lastmouseX = -1;
+			lastmouseY = -1;
+		}
 		// the factor that controls how fast the ball moves
 		let distScalar = 0.5;
 		if (((playerBall.x + (currentmouseX - lastmouseX) / distScalar) >= 0 + playerBallRadius) &&
