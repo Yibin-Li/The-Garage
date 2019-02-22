@@ -1,0 +1,63 @@
+{"frames": {
+
+"FLOURISH-_BoomBaloon-_StarAssets_01.gif":
+{
+	"frame": {"x":0,"y":0,"w":39,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":41},
+	"sourceSize": {"w":39,"h":41}
+},
+"FLOURISH-_BoomBaloon-_StarAssets_02.gif":
+{
+	"frame": {"x":39,"y":0,"w":39,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":41},
+	"sourceSize": {"w":39,"h":41}
+},
+"FLOURISH-_BoomBaloon-_StarAssets_03.gif":
+{
+	"frame": {"x":78,"y":0,"w":39,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":41},
+	"sourceSize": {"w":39,"h":41}
+},
+"FLOURISH-_BoomBaloon-_StarAssets_04.gif":
+{
+	"frame": {"x":117,"y":0,"w":39,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":41},
+	"sourceSize": {"w":39,"h":41}
+},
+"FLOURISH-_BoomBaloon-_StarAssets_05.gif":
+{
+	"frame": {"x":156,"y":0,"w":39,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":41},
+	"sourceSize": {"w":39,"h":41}
+},
+"FLOURISH-_BoomBaloon-_StarAssets_06.gif":
+{
+	"frame": {"x":195,"y":0,"w":39,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":41},
+	"sourceSize": {"w":39,"h":41}
+}},
+"animations": {
+	"FLOURISH-_BoomBaloon-_StarAssets": ["FLOURISH-_BoomBaloon-_StarAssets_01.gif","FLOURISH-_BoomBaloon-_StarAssets_02.gif","FLOURISH-_BoomBaloon-_StarAssets_03.gif","FLOURISH-_BoomBaloon-_StarAssets_04.gif","FLOURISH-_BoomBaloon-_StarAssets_05.gif","FLOURISH-_BoomBaloon-_StarAssets_06.gif"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "star_alive.png",
+	"format": "RGBA8888",
+	"size": {"w":234,"h":41},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3d5311196952758033e21db182be90b6:83ddac9507e5936fc5a5e3578dab6d18:af90f90b703d31635a60a10f9ba02122$"
+}
+}

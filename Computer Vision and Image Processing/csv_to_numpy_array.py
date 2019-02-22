@@ -1,5 +1,7 @@
 import numpy as np
 import csv
+import matplotlib.pyplot as plt
+import cv2
 
 def csv_reader(file_obj):
     """
@@ -10,8 +12,17 @@ def csv_reader(file_obj):
     total_list = []
     for row in reader:
         count += 1
-        if count > 1:
-            total_list.append(row)
+        if count > 1 and row[0] != None:
+            try:
+                print(row[0])
+                path = "./blur/" + row[0]
+                pic_data = cv2.imread(path)
+
+                #newx, newy = pic_data.shape[1]/4,pic_data.shape[0]/4
+                img = cv2.resize(pic_data, (0,0), fx=0.5, fy=0.5)
+                total_list.append((img, row))
+            except:
+                continue
     return total_list
 file_name = input("File name:")
 f = open(file_name)
@@ -44,5 +55,7 @@ from 0 to 24
 22: back_right_wheel
 23: brw_x
 24: brw_y"""
-np.array(lst).dump(open('array.npy', 'wb'))
+output_name = file_name[:len(file_name) - 4] + ".npy"
+print(output_name)
+np.array(lst).dump(open(output_name, 'wb'))
 print("done")

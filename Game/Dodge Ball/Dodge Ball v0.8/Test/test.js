@@ -1,24 +1,76 @@
-var app = new PIXI.Application(800, 600, {backgroundColor : 0x1099bb});
+var app = new PIXI.Application(800, 600, {backgroundColor : 0xe0e4ff});
 document.body.appendChild(app.view);
 
-// create a new Sprite from an image path
-var bunny = PIXI.Sprite.fromImage('/dodgeball-test-version/ff.png')
+/*PIXI.loader
+    .add("../img/boomBaloon.json")
+    .load(setup);*/
 
-// center the sprite's anchor point
-bunny.anchor.set(0.5);
-bunny.scale.x = 0.1
-//bunny.scale.y = 0.1
+PIXI.loader
+    .add("/dodgeball-test-version/img/boomBaloon.json")
+    .add("/dodgeball-test-version/img/bird.json")
+    .load(setup);
 
-// move the sprite to the center of the screen
-bunny.x = app.screen.width / 2;
-bunny.y = app.screen.height / 2;
+function setup() {
+    // get a reference to the sprite sheet we've just loaded:
+    //console.log("sheet");
+    //let sheet = PIXI.loader.resources["/dodgeball-test-version/img/boomBaloon.json"].spritesheet;
+    //console.log(sheet);
 
-app.stage.addChild(bunny);
+    console.log("startanimate");
 
-// Listen for animate update
-app.ticker.add(function(delta) {
-    // just for fun, let's rotate mr rabbit a little
-    // delta is 1 if running at 100% performance
-    // creates frame-independent transformation
-    bunny.rotation += 0.1 * delta;
-});
+    // baloon
+    let alienImagesBaloon = ["FLOURISH-_BoomBaloon-_BaloonAssets_01.png",
+    "FLOURISH-_BoomBaloon-_BaloonAssets_02.png",
+    "FLOURISH-_BoomBaloon-_BaloonAssets_03.png",
+    "FLOURISH-_BoomBaloon-_BaloonAssets_04.png",
+    "FLOURISH-_BoomBaloon-_BaloonAssets_05.png",
+    "FLOURISH-_BoomBaloon-_BaloonAssets_06.png",
+    "FLOURISH-_BoomBaloon-_BaloonAssets_07.png",
+    "FLOURISH-_BoomBaloon-_BaloonAssets_08.png",
+    "FLOURISH-_BoomBaloon-_BaloonAssets_09.png",
+    "FLOURISH-_BoomBaloon-_BaloonAssets_10.png",
+    "FLOURISH-_BoomBaloon-_BaloonAssets_11.png",
+    "FLOURISH-_BoomBaloon-_BaloonAssets_12.png",
+    "FLOURISH-_BoomBaloon-_BaloonAssets_13.png",
+    "FLOURISH-_BoomBaloon-_BaloonAssets_14.png"];
+    let textureArrayBaloon = [];
+
+    for (let i=0; i < 14; i++)
+    {
+         let textureBaloon = PIXI.Texture.from(alienImagesBaloon[i]);
+         textureArrayBaloon.push(textureBaloon);
+    };
+
+    // create an animated sprite
+    let animatedBoomBaloon = new PIXI.extras.AnimatedSprite(textureArrayBaloon);
+    // set speed, start playback and add it to the stage
+    animatedBoomBaloon.animationSpeed = 0.167;
+    animatedBoomBaloon.play();
+    app.stage.addChild(animatedBoomBaloon);
+
+
+    // bird
+    let alienImagesBird = []
+    for (let i=1; i <8; i++){
+      let string = "FLOURISH-_BoomBaloon-_BirdAssets_0" + String(i) + ".gif";
+      alienImagesBird.push(string);
+    }
+    //console.log(alienImagesBird);
+    let textureArrayBird = [];
+
+    for (let i=0; i < 14; i++)
+    {
+         let textureBird = PIXI.Texture.from(alienImagesBird[i]);
+         textureArrayBird.push(textureBird);
+    };
+
+    // create an animated sprite
+    let animatedBird = new PIXI.extras.AnimatedSprite(textureArrayBird);
+
+    // set speed, start playback and add it to the stage
+    animatedBird.position.x = 100
+    animatedBird.animationSpeed = 0.167;
+    animatedBird.play();
+    app.stage.addChild(animatedBird);
+
+}
