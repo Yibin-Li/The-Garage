@@ -2,6 +2,7 @@ import numpy as np
 import csv
 import matplotlib.pyplot as plt
 import cv2
+import pickle
 
 def csv_reader(file_obj):
     """
@@ -12,21 +13,49 @@ def csv_reader(file_obj):
     total_list = []
     for row in reader:
         count += 1
-        if count > 1 and row[0] != None:
+        if count > 1 and len(row[0]) > 3:
             try:
                 print(row[0])
                 path = "./blur/" + row[0]
                 pic_data = cv2.imread(path)
+                vertical_pic_data = cv2.flip(pic_data, 1)
+                # resize the image to 1/4
+                #img = cv2.resize(vertical_pic_data, (0,0), fx=0.5, fy=0.5)
+                img = cv2.resize(vertical_pic_data, (224,224))
 
-                #newx, newy = pic_data.shape[1]/4,pic_data.shape[0]/4
-                img = cv2.resize(pic_data, (0,0), fx=0.5, fy=0.5)
-                total_list.append((img, row))
+                # swap the left and right columns
+                left = row[1:10]
+                right = row[13:22]
+                label_data_swap = row[:1] + right + row[10:13] + left + row[22:]
+                total_list.append((img, label_data_swap))
             except:
                 continue
     return total_list
 file_name = input("File name:")
 f = open(file_name)
 lst = csv_reader(f)
+
+"""count = 0
+reader = csv.reader(f)
+for row in reader:
+    count += 1
+    if count > 240:
+        break
+    if count > 236:
+        left = row[1:10]
+        right = row[13:22]
+        label_data = row[:1] + right + row[10:13] + left + row[22:]
+        print(label_data)
+
+immmm = cv2.imread("./blur/4variationblur0.png")
+#ertical_immmm = cv2.flip(immmm, 1)
+print(immmm.shape)
+square_immmm = cv2.resize(immmm, (224,224))
+cv2.imshow("example", immmm)
+cv2.imshow("square", square_immmm)
+#cv2.imshow("example_vertical", vertical_immmm)
+cv2.waitKey(30000)"""
+
 """
 each index in lst is a picture, each pictures has lindex
 from 0 to 24
@@ -55,7 +84,7 @@ from 0 to 24
 22: back_right_wheel
 23: brw_x
 24: brw_y"""
-output_name = file_name[:len(file_name) - 4] + ".npy"
+output_name = file_name[:len(file_name) - 4] + "_small"
 print(output_name)
-np.array(lst).dump(open(output_name, 'wb'))
+pickle.dump(lst, open(output_name, 'wb'))
 print("done")
