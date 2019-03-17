@@ -5,7 +5,7 @@ import java.util.Collections;
 
 /** A very basic implementation of the ExtrinsicMinPQ.
  *  Operations have very poor performance, but it's at least
- *  correct. */
+ *  correct. @author Matt Owen @since 03-11-19 */
 public class NaiveMinPQ<T> implements ExtrinsicMinPQ<T> {
 
     private ArrayList<PriorityNode> items;
@@ -83,6 +83,7 @@ public class NaiveMinPQ<T> implements ExtrinsicMinPQ<T> {
         }
 
         @Override
+        @SuppressWarnings("unchecked")
         public boolean equals(Object o) {
             if (o == null || o.getClass() != this.getClass()) {
                 return false;

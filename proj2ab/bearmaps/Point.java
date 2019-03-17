@@ -50,7 +50,6 @@ public class Point {
 
     @Override
     public int hashCode() {
-        // Unclear if this will be a good hashcode.
         return Double.hashCode(x) ^ Double.hashCode(y);
     }
 
