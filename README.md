@@ -1,3 +1,6 @@
 # Private-Garage
-Hi humans,
-This is a private garage.
+Hi, 
+
+This is the place where treasures hide.
+
+Start hunting!
